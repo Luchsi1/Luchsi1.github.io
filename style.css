@@ -1,30 +1,10 @@
-#quiz-grid {
-    display: grid;
-
-    grid-template-columns: 1fr 1fr;
-
-    gap: 10px;
-
-    width: 90%;
-    max-width: 600px;
-
-    margin: auto;
-}
-
-#quiz-grid button {
-    font-size: 20px;
-    padding: 20px;
-}
-
-#quiz-grid img {
-    width: 100%;
-    height: 100%;
-
-    object-fit: contain;
-}
-
 #buttons {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
+}
+
+
+#title-button {
+    display: block;
 }
