@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Ottawa",
+        "flag": "flags/countries/Canada.png"
+    },
+    {
+        "name": "Washington, D.C.",
+        "flag": "flags/countries/United States.png"
+    }
+]

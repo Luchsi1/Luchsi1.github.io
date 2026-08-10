@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Tallinn",
+        "flag": "flags/countries/Estonia.png"
+    },
+    {
+        "name": "Riga",
+        "flag": "flags/countries/Latvia.png"
+    },
+    {
+        "name": "Vilnius",
+        "flag": "flags/countries/Lithuania.png"
+    }
+]

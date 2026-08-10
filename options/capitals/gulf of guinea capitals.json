@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Porto-Novo",
+        "flag": "flags/countries/Benin.png"
+    },
+    {
+        "name": "Yamoussoukro",
+        "flag": "flags/countries/Côte d'Ivoire.png"
+    },
+    {
+        "name": "Accra",
+        "flag": "flags/countries/Ghana.png"
+    },
+    {
+        "name": "Monrovia",
+        "flag": "flags/countries/Liberia.png"
+    },
+    {
+        "name": "Lomé",
+        "flag": "flags/countries/Togo.png"
+    }
+]

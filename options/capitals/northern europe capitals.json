@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Kopenhagen",
+        "flag": "flags/countries/Denmark.png"
+    },
+    {
+        "name": "Helsinki",
+        "flag": "flags/countries/Finland.png"
+    },
+    {
+        "name": "Reykjavik",
+        "flag": "flags/countries/Iceland.png"
+    },
+    {
+        "name": "Oslo",
+        "flag": "flags/countries/Norway.png"
+    },
+    {
+        "name": "Stockholm",
+        "flag": "flags/countries/Sweden.png"
+    },
+
+
+    {
+        "name": "Tallinn",
+        "flag": "flags/countries/Estonia.png"
+    },
+    {
+        "name": "Riga",
+        "flag": "flags/countries/Latvia.png"
+    },
+    {
+        "name": "Vilnius",
+        "flag": "flags/countries/Lithuania.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "South Tarawa",
+        "flag": "flags/countries/Kiribati.png"
+    },
+    {
+        "name": "Majuro",
+        "flag": "flags/countries/Marshall Islands.png"
+    },
+    {
+        "name": "Palikir",
+        "flag": "flags/countries/Micronesia.png"
+    },
+    {
+        "name": "Yaren",
+        "flag": "flags/countries/Naoero.png"
+    },
+    {
+        "name": "Ngerulmud",
+        "flag": "flags/countries/Palau.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Praia",
+        "flag": "flags/countries/Cape Verde.png"
+    },
+    {
+        "name": "Banjul",
+        "flag": "flags/countries/Gambia.png"
+    },
+    {
+        "name": "Conakry",
+        "flag": "flags/countries/Guinea.png"
+    },
+    {
+        "name": "Bissau",
+        "flag": "flags/countries/Guinea-Bissau.png"
+    },
+    {
+        "name": "Dakar",
+        "flag": "flags/countries/Senegal.png"
+    },
+    {
+        "name": "Freetown",
+        "flag": "flags/countries/Sierra Leone.png"
+    }
+]

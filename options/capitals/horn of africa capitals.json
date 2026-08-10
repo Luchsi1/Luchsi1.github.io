@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Dschibuti",
+        "flag": "flags/countries/Djibouti.png"
+    },
+    {
+        "name": "Asmara",
+        "flag": "flags/countries/Eritrea.png"
+    },
+    {
+        "name": "Addis Abeba",
+        "flag": "flags/countries/Ethiopia.png"
+    },
+    {
+        "name": "Mogadischu",
+        "flag": "flags/countries/Somalia.png"
+    }
+]

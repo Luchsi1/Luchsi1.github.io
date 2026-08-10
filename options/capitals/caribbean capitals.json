@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Nassau",
+        "flag": "flags/countries/Bahamas.png"
+    },
+    {
+        "name": "Havanna",
+        "flag": "flags/countries/Cuba.png"
+    },
+    {
+        "name": "Santo Domingo",
+        "flag": "flags/countries/Dominican Republic.png"
+    },
+    {
+        "name": "Port-au-Prince",
+        "flag": "flags/countries/Haiti.png"
+    },
+    {
+        "name": "Kingston",
+        "flag": "flags/countries/Jamaica.png"
+    },
+
+
+    {
+        "name": "St. John's",
+        "flag": "flags/countries/Antigua and Barbuda.png"
+    },
+    {
+        "name": "Bridgetown",
+        "flag": "flags/countries/Barbados.png"
+    },
+    {
+        "name": "Roseau",
+        "flag": "flags/countries/Dominica.png"
+    },
+    {
+        "name": "St. George's",
+        "flag": "flags/countries/Grenada.png"
+    },
+    {
+        "name": "Castries",
+        "flag": "flags/countries/St. Lucia.png"
+    },
+    {
+        "name": "Basseterre",
+        "flag": "flags/countries/St. Kitts and Nevis.png"
+    },
+    {
+        "name": "Kingstown",
+        "flag": "flags/countries/St. Vincent and the Grenadines.png"
+    },
+    {
+        "name": "Port of Spain",
+        "flag": "flags/countries/Trinidad and Tobago.png"
+    }
+]

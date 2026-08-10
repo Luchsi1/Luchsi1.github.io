@@ -1,0 +1,39 @@
+[    
+    {
+        "name": "Yaoundé",
+        "flag": "flags/countries/Cameroon.png"
+    },
+    {
+        "name": "Bangui",
+        "flag": "flags/countries/Central African Republic.png"
+    },
+    {
+        "name": "N'Djamena",
+        "flag": "flags/countries/Chad.png"
+    },
+    
+    {
+        "name": "Brazzaville",
+        "flag": "flags/countries/Republic of the Congo.png"
+    },
+    {
+        "name": "Kinshasa",
+        "flag": "flags/countries/Democratic Republic of the Congo.png"
+    },
+    {
+        "name": "Malabo",
+        "flag": "flags/countries/Equatorial Guinea.png"
+    },
+    {
+        "name": "Libreville",
+        "flag": "flags/countries/Gabon.png"
+    },
+    {
+        "name": "São Tomé",
+        "flag": "flags/countries/São Tomé and Príncipe.png"
+    },
+    {
+        "name": "Luanda",
+        "flag": "flags/countries/Angola.png"
+    }
+]

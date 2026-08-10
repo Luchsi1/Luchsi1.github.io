@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nassau",
+        "flag": "flags/countries/Bahamas.png"
+    },
+    {
+        "name": "Havanna",
+        "flag": "flags/countries/Cuba.png"
+    },
+    {
+        "name": "Santo Domingo",
+        "flag": "flags/countries/Dominican Republic.png"
+    },
+    {
+        "name": "Port-au-Prince",
+        "flag": "flags/countries/Haiti.png"
+    },
+    {
+        "name": "Kingston",
+        "flag": "flags/countries/Jamaica.png"
+    }
+]

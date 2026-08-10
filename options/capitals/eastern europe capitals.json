@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Prag",
+        "flag": "flags/countries/Czech Republic.png"
+    },
+    {
+        "name": "Budapest",
+        "flag": "flags/countries/Hungary.png"
+    },
+    {
+        "name": "Warschau",
+        "flag": "flags/countries/Poland.png"
+    },
+    {
+        "name": "Bratislava",
+        "flag": "flags/countries/Slovakia.png"
+    },
+
+
+    {
+        "name": "Sofia",
+        "flag": "flags/countries/Bulgaria.png"
+    },
+    {
+        "name": "Chișinău",
+        "flag": "flags/countries/Moldova.png"
+    },
+    {
+        "name": "Bukarest",
+        "flag": "flags/countries/Romania.png"
+    },
+    {
+        "name": "Kiew",
+        "flag": "flags/countries/Ukraine.png"
+    },
+
+
+    {
+        "name": "Minsk",
+        "flag": "flags/countries/Belarus.png"
+    },
+    {
+        "name": "Moskau",
+        "flag": "flags/countries/Russia.png"
+    }
+]

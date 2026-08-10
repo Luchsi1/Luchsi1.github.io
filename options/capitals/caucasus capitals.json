@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Jerewan",
+        "flag": "flags/countries/Armenia.png"
+    },
+    {
+        "name": "Baku",
+        "flag": "flags/countries/Azerbaijan.png"
+    },
+    {
+        "name": "Tiflis",
+        "flag": "flags/countries/Georgia.png"
+    }
+]

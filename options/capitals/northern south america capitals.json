@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Sucre",
+        "flag": "flags/countries/Bolivia.png"
+    },
+    {
+        "name": "Brasília",
+        "flag": "flags/countries/Brazil.png"
+    },
+    {
+        "name": "Bogotá",
+        "flag": "flags/countries/Colombia.png"
+    },
+    {
+        "name": "Quito",
+        "flag": "flags/countries/Ecuador.png"
+    },
+    {
+        "name": "Georgetown",
+        "flag": "flags/countries/Guyana.png"
+    },
+    {
+        "name": "Lima",
+        "flag": "flags/countries/Peru.png"
+    },
+    {
+        "name": "Paramaribo",
+        "flag": "flags/countries/Suriname.png"
+    },
+    {
+        "name": "Caracas",
+        "flag": "flags/countries/Venezuela.png"
+    }
+]

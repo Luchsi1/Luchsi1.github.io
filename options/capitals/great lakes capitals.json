@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Gitega",
+        "flag": "flags/countries/Burundi.png"
+    },
+    {
+        "name": "Nairobi",
+        "flag": "flags/countries/Kenya.png"
+    },
+    {
+        "name": "Kigali",
+        "flag": "flags/countries/Rwanda.png"
+    },
+    {
+        "name": "Juba",
+        "flag": "flags/countries/South Sudan.png"
+    },
+    {
+        "name": "Dodoma",
+        "flag": "flags/countries/Tanzania.png"
+    },
+    {
+        "name": "Kampala",
+        "flag": "flags/countries/Uganda.png"
+    }
+]

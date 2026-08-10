@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Lilongwe",
+        "flag": "flags/countries/Malawi.png"
+    },
+    {
+        "name": "Maputo",
+        "flag": "flags/countries/Mozambique.png"
+    },
+    {
+        "name": "Harare",
+        "flag": "flags/countries/Zimbabwe.png"
+    }
+]

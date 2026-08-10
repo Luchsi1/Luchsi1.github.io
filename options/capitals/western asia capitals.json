@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Jerewan",
+        "flag": "flags/countries/Armenia.png"
+    },
+    {
+        "name": "Baku",
+        "flag": "flags/countries/Azerbaijan.png"
+    },
+    {
+        "name": "Tiflis",
+        "flag": "flags/countries/Georgia.png"
+    },
+
+
+    {
+        "name": "Jerusalem",
+        "flag": "flags/countries/Israel.png"
+    },
+    {
+        "name": "Amman",
+        "flag": "flags/countries/Jordan.png"
+    },
+    {
+        "name": "Beirut",
+        "flag": "flags/countries/Lebanon.png"
+    },
+    {
+        "name": "Ramallah",
+        "flag": "flags/countries/Palestine.png"
+    },
+    {
+        "name": "Damaskus",
+        "flag": "flags/countries/Syria.png"
+    },
+    {
+        "name": "Nikosia",
+        "flag": "flags/countries/Cyprus.png"
+    },
+
+    
+    {
+        "name": "Manama",
+        "flag": "flags/countries/Bahrain.png"
+    },
+    {
+        "name": "Kuwait-Stadt",
+        "flag": "flags/countries/Kuwait.png"
+    },
+    {
+        "name": "Maskat",
+        "flag": "flags/countries/Oman.png"
+    },
+    {
+        "name": "Doha",
+        "flag": "flags/countries/Qatar.png"
+    },
+    {
+        "name": "Riad",
+        "flag": "flags/countries/Saudi Arabia.png"
+    },
+    {
+        "name": "Abu Dhabi",
+        "flag": "flags/countries/United Arab Emirates.png"
+    },
+    {
+        "name": "Sanaa",
+        "flag": "flags/countries/Yemen.png"
+    },
+
+    
+    {
+        "name": "Teheran",
+        "flag": "flags/countries/Iran.png"
+    },
+    {
+        "name": "Bagdad",
+        "flag": "flags/countries/Iraq.png"
+    },
+    {
+        "name": "Ankara",
+        "flag": "flags/countries/Türkiye.png"
+    }
+]

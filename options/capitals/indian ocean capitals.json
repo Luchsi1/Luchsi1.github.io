@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Moroni",
+        "flag": "flags/countries/Comores.png"
+    },
+    {
+        "name": "Antananarivo",
+        "flag": "flags/countries/Madagascar.png"
+    },
+    {
+        "name": "Port Louis",
+        "flag": "flags/countries/Mauritius.png"
+    },
+    {
+        "name": "Victoria",
+        "flag": "flags/countries/Seychelles.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Gaborone",
+        "flag": "flags/countries/Botswana.png"
+    },
+    {
+        "name": "Mbabane",
+        "flag": "flags/countries/Eswatini.png"
+    },
+    {
+        "name": "Maseru",
+        "flag": "flags/countries/Lesotho.png"
+    },
+    {
+        "name": "Windhoek",
+        "flag": "flags/countries/Namibia.png"
+    },
+    {
+        "name": "Pretoria",
+        "flag": "flags/countries/South Africa.png"
+    },
+    {
+        "name": "Lusaka",
+        "flag": "flags/countries/Zambia.png"
+    }
+]

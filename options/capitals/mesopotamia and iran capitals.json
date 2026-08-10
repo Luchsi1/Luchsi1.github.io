@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Teheran",
+        "flag": "flags/countries/Iran.png"
+    },
+    {
+        "name": "Bagdad",
+        "flag": "flags/countries/Iraq.png"
+    },
+    {
+        "name": "Ankara",
+        "flag": "flags/countries/Türkiye.png"
+    }
+]

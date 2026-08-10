@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Andorra la Vella",
+        "flag": "flags/countries/Andorra.png"
+    },
+    {
+        "name": "Lissabon",
+        "flag": "flags/countries/Portugal.png"
+    },
+    {
+        "name": "Madrid",
+        "flag": "flags/countries/Spain.png"
+    }
+]

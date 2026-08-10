@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Apia",
+        "flag": "flags/countries/Samoa.png"
+    },
+    {
+        "name": "Nuku'alofa",
+        "flag": "flags/countries/Tonga.png"
+    },
+    {
+        "name": "Funafuti",
+        "flag": "flags/countries/Tuvalu.png"
+    }
+]

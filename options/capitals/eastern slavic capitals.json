@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Minsk",
+        "flag": "flags/countries/Belarus.png"
+    },
+    {
+        "name": "Moskau",
+        "flag": "flags/countries/Russia.png"
+    }
+]

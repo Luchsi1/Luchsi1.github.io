@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Peking",
+        "flag": "flags/countries/China.png"
+    },
+    {
+        "name": "Tokio",
+        "flag": "flags/countries/Japan.png"
+    },
+    {
+        "name": "Ulaanbaatar",
+        "flag": "flags/countries/Mongolia.png"
+    },
+    {
+        "name": "Pjöngjang",
+        "flag": "flags/countries/North Korea.png"
+    },
+    {
+        "name": "Seoul",
+        "flag": "flags/countries/South Korea.png"
+    },
+    {
+        "name": "Taipeh",
+        "flag": "flags/countries/Taiwan.png"
+    }
+]

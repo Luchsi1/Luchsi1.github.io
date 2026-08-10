@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Jerusalem",
+        "flag": "flags/countries/Israel.png"
+    },
+    {
+        "name": "Amman",
+        "flag": "flags/countries/Jordan.png"
+    },
+    {
+        "name": "Beirut",
+        "flag": "flags/countries/Lebanon.png"
+    },
+    {
+        "name": "Ramallah",
+        "flag": "flags/countries/Palestine.png"
+    },
+    {
+        "name": "Damaskus",
+        "flag": "flags/countries/Syria.png"
+    },
+    {
+        "name": "Nikosia",
+        "flag": "flags/countries/Cyprus.png"
+    }
+]

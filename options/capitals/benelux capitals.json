@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Brüssel",
+        "flag": "flags/countries/Belgium.png"
+    },
+    {
+        "name": "Luxemburg",
+        "flag": "flags/countries/Luxembourg.png"
+    },
+    {
+        "name": "Amsterdam",
+        "flag": "flags/countries/Netherlands.png"
+    }
+]

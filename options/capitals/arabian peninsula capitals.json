@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Manama",
+        "flag": "flags/countries/Bahrain.png"
+    },
+    {
+        "name": "Kuwait-Stadt",
+        "flag": "flags/countries/Kuwait.png"
+    },
+    {
+        "name": "Maskat",
+        "flag": "flags/countries/Oman.png"
+    },
+    {
+        "name": "Doha",
+        "flag": "flags/countries/Qatar.png"
+    },
+    {
+        "name": "Riad",
+        "flag": "flags/countries/Saudi Arabia.png"
+    },
+    {
+        "name": "Abu Dhabi",
+        "flag": "flags/countries/United Arab Emirates.png"
+    },
+    {
+        "name": "Sanaa",
+        "flag": "flags/countries/Yemen.png"
+    }
+]
