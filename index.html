@@ -1,18 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Geography Quiz</title>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Quiz</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <h1>Geography Quiz</h1>
+    <div id="quiz-grid">
 
-    <button onclick="hello()">
-        Click me
-    </button>
+        <button onclick="answer('Germany')">
+            Germany
+        </button>
 
-    <script src="main.js"></script>
+        <button onclick="answer('France')">
+            France
+        </button>
+
+        <img src="flags/italy.png" alt="Italy">
+
+        <button onclick="answer('Italy')">
+            Italy
+        </button>
+
+    </div>
+
+    <script src="script.js"></script>
 
 </body>
 </html>
