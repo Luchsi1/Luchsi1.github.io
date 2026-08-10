@@ -1,0 +1,945 @@
+{
+    "name": "Continents",
+    "Africa": {
+        "name": "Africa",
+        "Northern Africa": {
+            "name": "Northern Africa",
+            "Algeria": {
+                "name": "Algeria"
+            },
+            "Egypt": {
+                "name": "Egypt"
+            },
+            "Libya": {
+                "name": "Libya"
+            },
+            "Morocco": {
+                "name": "Morocco"
+            },
+            "Sudan": {
+                "name": "Sudan"
+            },
+            "Tunisia": {
+                "name": "Tunisia"
+            },
+            "Northern Africa": {
+                "name": "Northern Africa"
+            }
+        },
+        "Western Africa": {
+            "name": "Western Africa",
+            "Upper Guinea": {
+                "name": "Upper Guinea",
+                "Cape Verde": {
+                    "name": "Cape Verde"
+                },
+                "Gambia": {
+                    "name": "Gambia"
+                },
+                "Guinea": {
+                    "name": "Guinea"
+                },
+                "Guinea-Bissau": {
+                    "name": "Guinea-Bissau"
+                },
+                "Senegal": {
+                    "name": "Senegal"
+                },
+                "Sierra Leone": {
+                    "name": "Sierra Leone"
+                },
+                "Upper Guinea": {
+                    "name": "Upper Guinea"
+                }
+            },
+            "Central Sahel": {
+                "name": "Central Sahel",
+                "Burkina Faso": {
+                    "name": "Burkina Faso"
+                },
+                "Mali": {
+                    "name": "Mali"
+                },
+                "Mauritania": {
+                    "name": "Mauritania"
+                },
+                "Niger": {
+                    "name": "Niger"
+                },
+                "Nigeria": {
+                    "name": "Nigeria"
+                },
+                "Central Sahel": {
+                    "name": "Central Sahel"
+                }
+            },
+            "Gulf of Guinea": {
+                "name": "Gulf of Guinea",
+                "Benin": {
+                    "name": "Benin"
+                },
+                "Côte d'Ivoire": {
+                    "name": "Côte d'Ivoire"
+                },
+                "Ghana": {
+                    "name": "Ghana"
+                },
+                "Liberia": {
+                    "name": "Liberia"
+                },
+                "Togo": {
+                    "name": "Togo"
+                },
+                "Gulf of Guinea": {
+                    "name": "Gulf of Guinea"
+                }
+            },
+            "Western Africa": {
+                "name": "Western Africa"
+            }
+        },
+        "Central Africa": {
+            "name": "Central Africa",
+            "Cameroon Basin": {
+                "name": "Cameroon Basin",
+                "Cameroon": {
+                    "name": "Cameroon"
+                },
+                "Central African Republic": {
+                    "name": "Central African Republic"
+                },
+                "Chad": {
+                    "name": "Chad"
+                },
+                "Cameroon Basin": {
+                    "name": "Cameroon Basin"
+                }
+            },
+            "Congo Basin": {
+                "name": "Congo Basin",
+                "Republic of the Congo": {
+                    "name": "Republic of the Congo"
+                },
+                "Democratic Republic of the Congo": {
+                    "name": "Democratic Republic of the Congo"
+                },
+                "Equatorial Guinea": {
+                    "name": "Equatorial Guinea"
+                },
+                "Gabon": {
+                    "name": "Gabon"
+                },
+                "São Tomé and Príncipe": {
+                    "name": "São Tomé and Príncipe"
+                },
+                "Angola": {
+                    "name": "Angola"
+                },
+                "Congo Basin": {
+                    "name": "Congo Basin"
+                }
+            },
+            "Central Africa": {
+                "name": "Central Africa"
+            }
+        },
+        "Eastern Africa": {
+            "name": "Eastern Africa",
+            "Horn of Africa": {
+                "name": "Horn of Africa",
+                "Djibouti": {
+                    "name": "Djibouti"
+                },
+                "Eritrea": {
+                    "name": "Eritrea"
+                },
+                "Ethiopia": {
+                    "name": "Ethiopia"
+                },
+                "Somalia": {
+                    "name": "Somalia"
+                },
+                "Horn of Africa": {
+                    "name": "Horn of Africa"
+                }
+            },
+            "Great Lakes": {
+                "name": "Great Lakes",
+                "Burundi": {
+                    "name": "Burundi"
+                },
+                "Kenya": {
+                    "name": "Kenya"
+                },
+                "Rwanda": {
+                    "name": "Rwanda"
+                },
+                "South Sudan": {
+                    "name": "South Sudan"
+                },
+                "Tanzania": {
+                    "name": "Tanzania"
+                },
+                "Uganda": {
+                    "name": "Uganda"
+                },
+                "Great Lakes": {
+                    "name": "Great Lakes"
+                }
+            },
+            "Southeast Africa": {
+                "name": "Southeast Africa",
+                "Malawi": {
+                    "name": "Malawi"
+                },
+                "Mozambique": {
+                    "name": "Mozambique"
+                },
+                "Zimbabwe": {
+                    "name": "Zimbabwe"
+                },
+                "Southeast Africa": {
+                    "name": "Southeast Africa"
+                }
+            },
+            "Indian Ocean": {
+                "name": "Indian Ocean",
+                "Comoros": {
+                    "name": "Comores"
+                },
+                "Madagascar": {
+                    "name": "Madagascar"
+                },
+                "Mauritius": {
+                    "name": "Mauritius"
+                },
+                "Seychelles": {
+                    "name": " Seychelles"
+                }, 
+                "Indian Ocean": {
+                    "name": "Indian Ocean"
+                }
+            },
+            "Eastern Africa": {
+                "name": "Eastern Africa"
+            }
+        },
+        "Southern Africa": {
+            "name": "Southern Africa",
+            "Botswana":{
+                "name": "Botswana"
+            },
+            "Eswatini": {
+                "name": "Eswatini"
+            },
+            "Lesotho": {
+                "name": "Lesotho"
+            },
+            "Namibia": {
+                "name": "Namibia"
+            },
+            "South Africa": {
+                "name": "South Africa"
+            },
+            "Zambia": {
+                "name": "Zambia"
+            },
+            "Southern Africa": {
+                "name": "Southern Africa"
+            }
+        },
+        "Africa": {
+            "name": "Africa"
+        }
+    },
+    "Asia": {
+        "name": "Asia",
+        "Western Asia": {
+            "name": "Western Asia",
+            "Caucasus": {
+                "name": "Caucasus",
+                "Armenia": {
+                    "name": "Armenia"
+                },
+                "Azerbaijan": {
+                    "name": "Azerbaijan"
+                },
+                "Georgia": {
+                    "name": "Georgia"
+                },
+                "Caucasus": {
+                    "name": "Caucasus"
+                }
+            },
+            "Levant": {
+                "name": "Levant",
+                "Israel": {
+                    "name": "Israel"
+                },
+                "Jordan": {
+                    "name": "Jordan"
+                },
+                "Lebanon": {
+                    "name": "Lebanon"
+                },
+                "Palestine": {
+                    "name": "Palestine"
+                },
+                "Syria": {
+                    "name": "Syria"
+                },
+                "Cyprus": {
+                    "name": "Cyprus"
+                },
+                "Levant": {
+                    "name": "Levant"
+                }
+            },
+            "Arabian Peninsula": {
+                "name": "Arabian Peninsula",
+                "Bahrain": {
+                    "name": "Bahrain"
+                },
+                "Kuwait": {
+                    "name": "Kuwait"
+                },
+                "Oman": {
+                    "name": "Oman"
+                },
+                "Qatar": {
+                    "name": "Qater"
+                },
+                "Saudi Arabia": {
+                    "name": "Saudi Arabia"
+                },
+                "United Arab Emirates": {
+                    "name": "United Arab Emirates"
+                },
+                "Yemen": {
+                    "name": "Yemen"
+                },
+                "Arabian Peninsula": {
+                    "name": "Arabian Peninsula"
+                }
+            },
+            "Mesopotamia and Iran": {
+                "name": "Mesopotamia and Iran",
+                "Iran": {
+                    "name": "Iran"
+                },
+                "Iraq": {
+                    "name": "Iraq"
+                },
+                "Türkiye": {
+                    "name": "Türkiye"
+                },
+                "Mesopotamia and Iran": {
+                    "name": "Mesopotamia and Iran"
+                }
+            },
+            "Western Asia": {
+                "name": "Western Asia"
+            }
+        },
+        "Central Asia": {
+            "name": "Central Asia",
+            "Kazakhstan": {
+                "name": "Kazakhstan"
+            },
+            "Kyrgyzstan": {
+                "name": "Kyrgyzstan"
+            },
+            "Tajikistan": {
+                "name": "Tajikistan"
+            },
+            "Turkmenistan": {
+                "name": "Turkmenistan"
+            },
+            "Uzbekistan": {
+                "name": "Uzbekistan"
+            },
+            "Central Asia": {
+                "name": "Central Asia"
+            }
+        },
+        "South Asia": {
+            "name": "South Asia",
+            "Afghanistan": {
+                "name": "Afghanistan"
+            },
+            "Bangladesh": {
+                "name": "Bangladesh"
+            },
+            "Bhutan": {
+                "name": "Bhutan"
+            },
+            "India": {
+                "name": "India"
+            },
+            "Maldives": {
+                "name": "Maldives"
+            },
+            "Nepal": {
+                "name": "Nepal"
+            },
+            "Pakistan": {
+                "name": "Pakistan"
+            },
+            "Sri Lanka": {
+                "name": "Sri Lanka"
+            },
+            "South Asia": {
+                "name": "South Asia"
+            }
+        },
+        "Southeast Asia": {
+            "name": "Southeast Asia",
+            "Mainland": {
+                "name": "Mainland",
+                "Cambodia": {
+                    "name": "Cambodia"
+                },
+                "Laos": {
+                    "name": "Laos"
+                },
+                "Myanmar": {
+                    "name": "Myanmar"
+                },
+                "Thailand": {
+                    "name": "Thailand"
+                },
+                "Vietnam": {
+                    "name": "Vietnam"
+                },
+                "Mainland": {
+                    "name": "Mainland"
+                }
+            },
+            "Maritime": {
+                "name": "Maritime",
+                "Brunei": {
+                    "name": "Brunei"
+                },
+                "Indonesia": {
+                    "name": "Indonesia"
+                },
+                "Malaysia": {
+                    "name": "Malaysia"
+                },
+                "Philippines": {
+                    "name": "Philippines"
+                },
+                "Singapore": {
+                    "name": "Singapore"
+                },
+                "Timor-Leste": {
+                    "name": "Timor-Leste"
+                },
+                "Maritime": {
+                    "name": "Maritime"
+                }
+            },
+            "Southeast Asia": {
+                "name": "Southeast Asia"
+            }
+        },
+        "East Asia": {
+            "name": "East Asia",
+            "China": {
+                "name": "China"
+            },
+            "Japan": {
+                "name": "Japan"
+            },
+            "Mongolia": {
+                "name": "Mongolia"
+            },
+            "North Korea": {
+                "name": "North Korea"
+            },
+            "South Korea": {
+                "name": "South Korea"
+            },
+            "Taiwan": {
+                "name": "Taiwan"
+            },
+            "East Asia": {
+                "name": "East Asia"
+            }
+        },
+        "Asia": {
+            "name": "Asia"
+        }
+    }, 
+    "Europe": {
+        "name": "Europe",
+        "Northern Europe": {
+            "name": "Northern Europe",
+            "Nordic": {
+                "name": "Nordic",
+                "Denmark": {
+                    "name": "Denmark"
+                },
+                "Finland": {
+                    "name": "Finland"
+                },
+                "Iceland": {
+                    "name": "Iceland"
+                },
+                "Norway": {
+                    "name": "Norway"
+                },
+                "Sweden": {
+                    "name": "Sweden"
+                },
+                "Nordic": {
+                    "name": "Nordic"
+                }
+            },
+            "Baltic": {
+                "name": "Baltic",
+                "Estonia": {
+                    "name": "Estonia"
+                },
+                "Latvia": {
+                    "name": "Latvia"
+                },
+                "Lithuania": {
+                    "name": "Lithuania"
+                },
+                "Baltic": {
+                    "name": "Baltic"
+                }
+            },
+            "Northern Europe": {
+                "name": "Northern Europe"
+            }
+        },
+        "Western Europe": {
+            "name": "Western Europe",
+            "Benelux": {
+                "name": "Benelux",
+                "Belgium": {
+                    "name": "Belgium"
+                },
+                "Luxembourg": {
+                    "name": "Luxembourg"
+                },
+                "Netherlands": {
+                    "name": "Netherlands"
+                },
+                "Benelux": {
+                    "name": "Benelux"
+                }
+            },
+            "Alpine": {
+                "name": "Alpine",
+                "Austria": {
+                    "name": "Austria"
+                },
+                "Liechtenstein": {
+                    "name": "Liechtenstein"
+                },
+                "Switzerland": {
+                    "name": "Switzerland"
+                },
+                "Alpine": {
+                    "name": "Alpine"
+                }
+            },
+            "Western Core": {
+                "name": "Western Core",
+                "France": {
+                    "name": "France"
+                },
+                "Germany": {
+                    "name": "Germany"
+                },
+                "Monaco": {
+                    "name": "Monaco"
+                },
+                "Western Core": {
+                    "name": "Western Core"
+                }
+            },
+            "British Isles": {
+                "name": "British Isles",
+                "Ireland": {
+                    "name": "Ireland"
+                },
+                "United Kingdom": {
+                    "name": "United Kingdom"
+                },
+                "British Isles": {
+                    "name": "British Isles"
+                }
+            },
+            "Western Europe": {
+                "name": "Western Europe"
+            }
+        },
+        "Southern Europe": {
+            "name": "Southern Europe",
+            "Iberian Peninsula": {
+                "name": "Iberian Peninsula",
+                "Andorra": {
+                    "name": "Andorra"
+                },
+                "Portugal": {
+                    "name": "Portugal"
+                },
+                "Spain": {
+                    "name": "Spain"
+                },
+                "Iberian Peninsula": {
+                    "name": "Iberian Peninsula"
+                }
+            },
+            "Italian Peninsula": {
+                "name": "Italian Peninsula",
+                "Italy": {
+                    "name": "Italy"
+                },
+                "Malta": {
+                    "name": "Malta"
+                },
+                "San Marino": {
+                    "name": "San Marino"
+                },
+                "Vatican City":  {
+                    "name": "Vatican City"
+                },
+                "Italian Peninsula": {
+                    "name": "Italian Peninsula"
+                }
+            },
+            "Balkan Peninsula": {
+                "name": "Balkan Peninsula",
+                "Albania": {
+                    "name": "Albania"
+                },
+                "Bosnia and Herzegovina": {
+                    "name": "Bosnia and Herzegovina"
+                },
+                "Croatia": {
+                    "name": "Croatia"
+                },
+                "Greece": {
+                    "name": "Greece"
+                },
+                "Kosovo": {
+                    "name": "Kosovo"
+                },
+                "Montenegro": {
+                    "name": "Montenegro"
+                },
+                "North Macedonia": {
+                    "name": "North Macedonia"
+                },
+                "Serbia": {
+                    "name": "Serbia"
+                },
+                "Slovenia": {
+                    "name": "Slovenia"
+                },
+                "Balkan Peninsula": {
+                    "name": "Balkan Peninsula"
+                }
+            },
+            "Southern Europe": {
+                "name": "Southern Europe"
+            }
+        },
+        "Eastern Europe": {
+            "name": "Eastern Europe",
+            "Central Eastern Europe": {
+                "name": "Central Eastern Europe",
+                "Czech Republic": {
+                    "name": "Czech Republic"
+                },
+                "Hungary": {
+                    "name": "Hungary"
+                },
+                "Poland": {
+                    "name": "Poland"
+                },
+                "Slovakia": {
+                    "name": "Slovakia"
+                },
+                "Central Eastern Europe": {
+                    "name": "Central Eastern Europe"
+                }
+            },
+            "Black Sea": {
+                "name": "Black Sea",
+                "Bulgaria": {
+                    "name": "Bulgaria"
+                },
+                "Moldova": {
+                    "name": "Moldova"
+                },
+                "Romania": {
+                    "name": "Romania"
+                },
+                "Ukraine": {
+                    "name": "Ukraine"
+                },
+                "Black Sea": {
+                    "name": "Black Sea"
+                }
+            },
+            "Eastern Slavic": {
+                "name": "Eastern Slavic",
+                "Belarus": {
+                    "name": "Belarus"
+                },
+                "Russia": {
+                    "name": "Russia"
+                },
+                "Eastern Slavic": {
+                    "name": "Eastern Slavic"
+                }
+            },
+            "Eastern Europe": {
+                "name": "Eastern Europe"
+            }
+        },
+        "Europe": {
+            "name": "Europe"
+        }
+    },
+    "North America": {
+        "name": "North America",
+        "Northern America": {
+            "name": "Northern America",
+            "Canada": {
+                "name": "Canada"
+            },
+            "United States": {
+                "name": "United Sates"
+            },
+            "Northern America": {
+                "name": "Northern America"
+            }
+        },
+        "Central America": {
+            "name": "Central America",
+            "Belize": {
+                "name": "Belize"
+            },
+            "Costa Rica": {
+                "name": "Costa Rica"
+            },
+            "El Salvador": {
+                "name": "El Salvador"
+            },
+            "Guatemala": {
+                "name": "Guatemala"
+            },
+            "Honduras": {
+                "name": "Honduras"
+            },
+            "Mexico": {
+                "name": "Mexico"
+            },
+            "Nicaragua": {
+                "name": "Nicaragua"
+            },
+            "Panama": {
+                "name": "Panama"
+            },
+            "Central America": {
+                "name": "Central America"
+            }
+        },
+        "Caribbean": {
+            "name": "Caribbean",
+            "Western Caribbean": {
+                "name": "Western Caribbean",
+                "Bahamas": {
+                    "name": "Bahamas"
+                },
+                "Cuba": {
+                    "name": "Cuba"
+                },
+                "Dominican Republic": {
+                    "name": "Dominican Republic"
+                },
+                "Haiti": {
+                    "name": "Haiti"
+                },
+                "Jamaica": {
+                    "name": "Jamaica"
+                },
+                "Western Caribbeant": {
+                    "name": "Western Caribbean"
+                }
+            },
+            "Eastern Caribbean": {
+                "name": "Eastern Caribbean",
+                "Antigua and Barbuda": {
+                    "name": "Antigua and Barbuda"
+                },
+                "Barbados": {
+                    "name": "Barbados"
+                },
+                "Dominica": {
+                    "name": "Dominica"
+                },
+                "Grenada": {
+                    "name": "Grenada"
+                },
+                "St. Lucia": {
+                    "name": "St. Lucia"
+                },
+                "St. Kitts and Nevis": {
+                    "name": "St. Kitts and Nevis"
+                },
+                "St. Vincent and the Grenadines": {
+                    "name": "St. Vincent and the Grenadines"
+                },
+                "Trinidad and Tobago": {
+                    "name": "Trinidad and Tobago"
+                },
+                "Eastern Caribbean": {
+                    "name": "Eastern Caribbean"
+                }
+            },
+            "Caribbean": {
+                "name": "Caribbean"
+            }
+        },
+        "North America": {
+            "name": "North America"
+        }
+    },
+    "South America": {
+        "name": "South America",
+        "Northern South America": {
+            "name": "Northern South America",
+            "Bolivia": {
+                "name": "Bolivia"
+            },
+            "Brazil": {
+                "name": "Brazil"
+            },
+            "Colombia": {
+                "name": "Colombia"
+            },
+            "Ecuador": {
+                "name": "Ecuador"
+            },
+            "Guyana": {
+                "name": "Guyana"
+            },
+            "Peru": {
+                "name": "Peru"
+            },
+            "Suriname": {
+                "name": "Suriname"
+            },
+            "Venezuela": {
+                "name": "Venezuela"
+            },
+            "Northern South America": {
+                "name": "Northern South America"
+            }
+        },
+        "Southern South America": {
+            "name": "Southern South America",
+            "Argentina": {
+                "name": "Argentina"
+            },
+            "Chile": {
+                "name": "Chile"
+            },
+            "Paraguay": {
+                "name": "Paraguay"
+            },
+            "Uruguay": {
+                "name": "Uruguay"
+            },
+            "Southern South America": {
+                "name": "Southern South America"
+            }
+        },
+        "South America": {
+            "name": "South America"
+        }
+    },
+    "Oceania": {
+        "name": "Oceania",
+        "Australia and New Zealand": {
+            "name": "Australia and New Zealand",
+            "Australia": {
+                "name": "Australia"
+            },
+            "New Zealand": {
+                "name": "New Zealand"
+            },
+            "Australia and New Zealand": {
+                "name": "Australia and New Zealand"
+            }
+        },
+        "Melanesia": {
+            "name": "Melanesia",
+            "Fiji": {
+                "name": "Fiji"
+            },
+            "Papua New Guinea": {
+                "name": "Papua New Guinea"
+            },
+            "Solomon Islands": {
+                "name": "Solomon Islands"
+            },
+            "Vanuatu": {
+                "name": "Vanuatu"
+            },
+            "Melanesia": {
+                "name": "Melanesia"
+            }
+        },
+        "Micronesia": {
+            "name": "Micronesia",
+            "Kiribati": {
+                "name": "Kiribati"
+            },
+            "Marshall Islands": {
+                "name": "Marshall Islands"
+            },
+            "Micronesia": {
+                "name": "Micronesia"
+            },
+            "Naoero": {
+                "name": "Naoero"
+            },
+            "Palau": {
+                "name": "Palau"
+            },
+            "Micronesia (region)": {
+                "name": "Micronesia (region)"
+            }
+        },
+        "Polynesia": {
+            "name": "Polynesia",
+            "Samoa": {
+                "name": "Samoa"
+            },
+            "Tonga": {
+                "name": "Tonga"
+            },
+            "Tuvalu": {
+                "name": "Tuvalu"
+            },
+            "Polynesia": {
+                "name": "Polynesia"
+            }
+        },
+        "Oceania": {
+            "name": "Oceania"
+        }
+    },
+    "World": {
+        "name": "World"
+    }
+}
