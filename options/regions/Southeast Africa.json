@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Malawi",
+        "flag": "flags/countries/Malawi.png"
+    },
+    {
+        "name": "Mozambique",
+        "flag": "flags/countries/Mozambique.png"
+    },
+    {
+        "name": "Zimbabwe",
+        "flag": "flags/countries/Zimbabwe.png"
+    }
+]

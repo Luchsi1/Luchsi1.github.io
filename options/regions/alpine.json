@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Austria",
+        "flag": "flags/countries/Austria.png"
+    },
+    {
+        "name": "Liechtenstein",
+        "flag": "flags/countries/Liechtenstein.png"
+    },
+    {
+        "name": "Switzerland",
+        "flag": "flags/countries/Switzerland.png"
+    }
+]

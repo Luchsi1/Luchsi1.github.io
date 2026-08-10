@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Bulgaria",
+        "flag": "flags/countries/Bulgaria.png"
+    },
+    {
+        "name": "Moldova",
+        "flag": "flags/countries/Moldova.png"
+    },
+    {
+        "name": "Romania",
+        "flag": "flags/countries/Romania.png"
+    },
+    {
+        "name": "Ukraine",
+        "flag": "flags/countries/Ukraine.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Argentina",
+        "flag": "flags/countries/Argentina.png"
+    },
+    {
+        "name": "Chile",
+        "flag": "flags/countries/Chile.png"
+    },
+    {
+        "name": "Paraguay",
+        "flag": "flags/countries/Paraguay.png"
+    },
+    {
+        "name": "Uruguay",
+        "flag": "flags/countries/Uruguay.png"
+    }
+]

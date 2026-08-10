@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Algeria",
+        "flag": "flags/countries/Algeria.png"
+    },
+    {
+        "name": "Egypt",
+        "flag": "flags/countries/Egypt.png"
+    },
+    {
+        "name": "Libya",
+        "flag": "flags/countries/Libya.png"
+    },
+    {
+        "name": "Morocco",
+        "flag": "flags/countries/Morocco.png"
+    },
+    {
+        "name": "Sudan",
+        "flag": "flags/countries/Sudan.png"
+    },
+    {
+        "name": "Tunisia",
+        "flag": "flags/countries/Tunisia.png"
+    }
+]

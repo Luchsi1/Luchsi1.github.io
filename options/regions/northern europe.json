@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Denmark",
+        "flag": "flags/countries/Denmark.png"
+    },
+    {
+        "name": "Finland",
+        "flag": "flags/countries/Finland.png"
+    },
+    {
+        "name": "Iceland",
+        "flag": "flags/countries/Iceland.png"
+    },
+    {
+        "name": "Norway",
+        "flag": "flags/countries/Norway.png"
+    },
+    {
+        "name": "Sweden",
+        "flag": "flags/countries/Sweden.png"
+    },
+
+
+    {
+        "name": "Estonia",
+        "flag": "flags/countries/Estonia.png"
+    },
+    {
+        "name": "Latvia",
+        "flag": "flags/countries/Latvia.png"
+    },
+    {
+        "name": "Lithuania",
+        "flag": "flags/countries/Lithuania.png"
+    }
+]

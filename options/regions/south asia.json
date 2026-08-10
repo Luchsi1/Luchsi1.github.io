@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Afghanistan",
+        "flag": "flags/countries/Afghanistan.png"
+    },
+    {
+        "name": "Bangladesh",
+        "flag": "flags/countries/Bangladesh.png"
+    },
+    {
+        "name": "Bhutan",
+        "flag": "flags/countries/Bhutan.png"
+    },
+    {
+        "name": "India",
+        "flag": "flags/countries/India.png"
+    },
+    {
+        "name": "Maldives",
+        "flag": "flags/countries/Maldives.png"
+    },
+    {
+        "name": "Nepal",
+        "flag": "flags/countries/Nepal.png"
+    },
+    {
+        "name": "Pakistan",
+        "flag": "flags/countries/Pakistan.png"
+    },
+    {
+        "name": "Sri Lanka",
+        "flag": "flags/countries/Sri Lanka.png"
+    }
+]

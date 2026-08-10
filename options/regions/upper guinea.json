@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Cape Verde",
+        "flag": "flags/countries/Cape Verde.png"
+    },
+    {
+        "name": "Gambia",
+        "flag": "flags/countries/Gambia.png"
+    },
+    {
+        "name": "Guinea",
+        "flag": "flags/countries/Guinea.png"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "flag": "flags/countries/Guinea-Bissau.png"
+    },
+    {
+        "name": "Senegal",
+        "flag": "flags/countries/Senegal.png"
+    },
+    {
+        "name": "Sierra Leone",
+        "flag": "flags/countries/Sierra Leone.png"
+    }
+]

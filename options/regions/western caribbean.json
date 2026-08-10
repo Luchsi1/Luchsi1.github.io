@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bahamas",
+        "flag": "flags/countries/Bahamas.png"
+    },
+    {
+        "name": "Cuba",
+        "flag": "flags/countries/Cuba.png"
+    },
+    {
+        "name": "Dominican Republic",
+        "flag": "flags/countries/Dominican Republic.png"
+    },
+    {
+        "name": "Haiti",
+        "flag": "flags/countries/Haiti.png"
+    },
+    {
+        "name": "Jamaica",
+        "flag": "flags/countries/Jamaica.png"
+    }
+]

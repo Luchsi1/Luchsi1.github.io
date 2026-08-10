@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Botswana",
+        "flag": "flags/countries/Botswana.png"
+    },
+    {
+        "name": "Eswatini",
+        "flag": "flags/countries/Eswatini.png"
+    },
+    {
+        "name": "Lesotho",
+        "flag": "flags/countries/Lesotho.png"
+    },
+    {
+        "name": "Namibia",
+        "flag": "flags/countries/Namibia.png"
+    },
+    {
+        "name": "South Africa",
+        "flag": "flags/countries/South Africa.png"
+    },
+    {
+        "name": "Zambia",
+        "flag": "flags/countries/Zambia.png"
+    }
+]

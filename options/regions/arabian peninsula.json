@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Bahrain",
+        "flag": "flags/countries/Bahrain.png"
+    },
+    {
+        "name": "Kuwait",
+        "flag": "flags/countries/Kuwait.png"
+    },
+    {
+        "name": "Oman",
+        "flag": "flags/countries/Oman.png"
+    },
+    {
+        "name": "Qatar",
+        "flag": "flags/countries/Qatar.png"
+    },
+    {
+        "name": "Saudi Arabia",
+        "flag": "flags/countries/Saudi Arabia.png"
+    },
+    {
+        "name": "United Arab Emirates",
+        "flag": "flags/countries/United Arab Emirates.png"
+    },
+    {
+        "name": "Yemen",
+        "flag": "flags/countries/Yemen.png"
+    }
+]

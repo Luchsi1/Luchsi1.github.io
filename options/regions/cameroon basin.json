@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Cameroon",
+        "flag": "flags/countries/Cameroon.png"
+    },
+    {
+        "name": "Central African Republic",
+        "flag": "flags/countries/Central African Republic.png"
+    },
+    {
+        "name": "Chad",
+        "flag": "flags/countries/Chad.png"
+    }
+]

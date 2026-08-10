@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Djibouti",
+        "flag": "flags/countries/Djibouti.png"
+    },
+    {
+        "name": "Eritrea",
+        "flag": "flags/countries/Eritrea.png"
+    },
+    {
+        "name": "Ethiopia",
+        "flag": "flags/countries/Ethiopia.png"
+    },
+    {
+        "name": "Somalia",
+        "flag": "flags/countries/Somalia.png"
+    },
+
+
+    {
+        "name": "Burundi",
+        "flag": "flags/countries/Burundi.png"
+    },
+    {
+        "name": "Kenya",
+        "flag": "flags/countries/Kenya.png"
+    },
+    {
+        "name": "Rwanda",
+        "flag": "flags/countries/Rwanda.png"
+    },
+    {
+        "name": "South Sudan",
+        "flag": "flags/countries/South Sudan.png"
+    },
+    {
+        "name": "Tanzania",
+        "flag": "flags/countries/Tanzania.png"
+    },
+    {
+        "name": "Uganda",
+        "flag": "flags/countries/Uganda.png"
+    },
+
+
+    {
+        "name": "Malawi",
+        "flag": "flags/countries/Malawi.png"
+    },
+    {
+        "name": "Mozambique",
+        "flag": "flags/countries/Mozambique.png"
+    },
+    {
+        "name": "Zimbabwe",
+        "flag": "flags/countries/Zimbabwe.png"
+    },
+
+    
+    {
+        "name": "Comores",
+        "flag": "flags/countries/Comores.png"
+    },
+    {
+        "name": "Madagascar",
+        "flag": "flags/countries/Madagascar.png"
+    },
+    {
+        "name": "Mauritius",
+        "flag": "flags/countries/Mauritius.png"
+    },
+    {
+        "name": "Seychelles",
+        "flag": "flags/countries/Seychelles.png"
+    }
+]

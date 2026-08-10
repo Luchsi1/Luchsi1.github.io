@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Israel",
+        "flag": "flags/countries/Israel.png"
+    },
+    {
+        "name": "Jordan",
+        "flag": "flags/countries/Jordan.png"
+    },
+    {
+        "name": "Lebanon",
+        "flag": "flags/countries/Lebanon.png"
+    },
+    {
+        "name": "Palestine",
+        "flag": "flags/countries/Palestine.png"
+    },
+    {
+        "name": "Syria",
+        "flag": "flags/countries/Syria.png"
+    },
+    {
+        "name": "Cyprus",
+        "flag": "flags/countries/Cyprus.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Benin",
+        "flag": "flags/countries/Benin.png"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "flag": "flags/countries/Côte d'Ivoire.png"
+    },
+    {
+        "name": "Ghana",
+        "flag": "flags/countries/Ghana.png"
+    },
+    {
+        "name": "Liberia",
+        "flag": "flags/countries/Liberia.png"
+    },
+    {
+        "name": "Togo",
+        "flag": "flags/countries/Togo.png"
+    }
+]

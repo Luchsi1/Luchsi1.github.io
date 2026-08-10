@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kazakhstan",
+        "flag": "flags/countries/Kazakhstan.png"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "flag": "flags/countries/Kyrgyzstan.png"
+    },
+    {
+        "name": "Tajikistan",
+        "flag": "flags/countries/Tajikistan.png"
+    },
+    {
+        "name": "Turkmenistan",
+        "flag": "flags/countries/Turkmenistan.png"
+    },
+    {
+        "name": "Uzbekistan",
+        "flag": "flags/countries/Uzbekistan.png"
+    }
+]

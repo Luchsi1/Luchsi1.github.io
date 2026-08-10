@@ -1,0 +1,26 @@
+[
+    {
+        "name": "China",
+        "flag": "flags/countries/China.png"
+    },
+    {
+        "name": "Japan",
+        "flag": "flags/countries/Japan.png"
+    },
+    {
+        "name": "Mongolia",
+        "flag": "flags/countries/Mongolia.png"
+    },
+    {
+        "name": "North Korea",
+        "flag": "flags/countries/North Korea.png"
+    },
+    {
+        "name": "South Korea",
+        "flag": "flags/countries/South Korea.png"
+    },
+    {
+        "name": "Taiwan",
+        "flag": "flags/countries/Taiwan.png"
+    }
+]

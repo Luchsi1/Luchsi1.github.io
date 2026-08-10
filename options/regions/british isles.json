@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Ireland",
+        "flag": "flags/countries/Ireland.png"
+    },
+    {
+        "name": "United Kingdom",
+        "flag": "flags/countries/United Kingdom.png"
+    }
+]

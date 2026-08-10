@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Belize",
+        "flag": "flags/countries/Belize.png"
+    },
+    {
+        "name": "Costa Rica",
+        "flag": "flags/countries/Costa Rica.png"
+    },
+    {
+        "name": "El Salvador",
+        "flag": "flags/countries/El Salvador.png"
+    },
+    {
+        "name": "Guatemala",
+        "flag": "flags/countries/Guatemala.png"
+    },
+    {
+        "name": "Honduras",
+        "flag": "flags/countries/Honduras.png"
+    },
+    {
+        "name": "Mexico",
+        "flag": "flags/countries/Mexico.png"
+    },
+    {
+        "name": "Nicaragua",
+        "flag": "flags/countries/Nicaragua.png"
+    },
+    {
+        "name": "Panama",
+        "flag": "flags/countries/Panama.png"
+    }
+]

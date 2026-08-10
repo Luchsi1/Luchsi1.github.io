@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Comores",
+        "flag": "flags/countries/Comores.png"
+    },
+    {
+        "name": "Madagascar",
+        "flag": "flags/countries/Madagascar.png"
+    },
+    {
+        "name": "Mauritius",
+        "flag": "flags/countries/Mauritius.png"
+    },
+    {
+        "name": "Seychelles",
+        "flag": "flags/countries/Seychelles.png"
+    }
+]

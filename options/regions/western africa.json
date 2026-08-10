@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Cape Verde",
+        "flag": "flags/countries/Cape Verde.png"
+    },
+    {
+        "name": "Gambia",
+        "flag": "flags/countries/Gambia.png"
+    },
+    {
+        "name": "Guinea",
+        "flag": "flags/countries/Guinea.png"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "flag": "flags/countries/Guinea-Bissau.png"
+    },
+    {
+        "name": "Senegal",
+        "flag": "flags/countries/Senegal.png"
+    },
+    {
+        "name": "Sierra Leone",
+        "flag": "flags/countries/Sierra Leone.png"
+    },
+
+
+    {
+        "name": "Burkina Faso",
+        "flag": "flags/countries/Burkina Faso.png"
+    },
+    {
+        "name": "Mali",
+        "flag": "flags/countries/Mali.png"
+    },
+    {
+        "name": "Mauritania",
+        "flag": "flags/countries/Mauritania.png"
+    },
+    {
+        "name": "Niger",
+        "flag": "flags/countries/Niger.png"
+    },
+    {
+        "name": "Nigeria",
+        "flag": "flags/countries/Nigeria.png"
+    },
+
+
+    {
+        "name": "Benin",
+        "flag": "flags/countries/Benin.png"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "flag": "flags/countries/Côte d'Ivoire.png"
+    },
+    {
+        "name": "Ghana",
+        "flag": "flags/countries/Ghana.png"
+    },
+    {
+        "name": "Liberia",
+        "flag": "flags/countries/Liberia.png"
+    },
+    {
+        "name": "Togo",
+        "flag": "flags/countries/Togo.png"
+    }
+]

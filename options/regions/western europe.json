@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Belgium",
+        "flag": "flags/countries/Belgium.png"
+    },
+    {
+        "name": "Luxembourg",
+        "flag": "flags/countries/Luxembourg.png"
+    },
+    {
+        "name": "Netherlands",
+        "flag": "flags/countries/Netherlands.png"
+    },
+
+
+    {
+        "name": "Austria",
+        "flag": "flags/countries/Austria.png"
+    },
+    {
+        "name": "Liechtenstein",
+        "flag": "flags/countries/Liechtenstein.png"
+    },
+    {
+        "name": "Switzerland",
+        "flag": "flags/countries/Switzerland.png"
+    },
+
+
+    {
+        "name": "France",
+        "flag": "flags/countries/France.png"
+    },
+    {
+        "name": "Germany",
+        "flag": "flags/countries/Germany.png"
+    },
+    {
+        "name": "Monaco",
+        "flag": "flags/countries/Monaco.png"
+    },
+
+    
+    {
+        "name": "Ireland",
+        "flag": "flags/countries/Ireland.png"
+    },
+    {
+        "name": "United Kingdom",
+        "flag": "flags/countries/United Kingdom.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Cambodia",
+        "flag": "flags/countries/Cambodia.png"
+    },
+    {
+        "name": "Laos",
+        "flag": "flags/countries/Laos.png"
+    },
+    {
+        "name": "Myanmar",
+        "flag": "flags/countries/Myanmar.png"
+    },
+    {
+        "name": "Thailand",
+        "flag": "flags/countries/Thailand.png"
+    },
+    {
+        "name": "Vietnam",
+        "flag": "flags/countries/Vietnam.png"
+    }
+]

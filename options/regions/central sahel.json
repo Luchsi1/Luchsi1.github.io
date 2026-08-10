@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Burkina Faso",
+        "flag": "flags/countries/Burkina Faso.png"
+    },
+    {
+        "name": "Mali",
+        "flag": "flags/countries/Mali.png"
+    },
+    {
+        "name": "Mauritania",
+        "flag": "flags/countries/Mauritania.png"
+    },
+    {
+        "name": "Niger",
+        "flag": "flags/countries/Niger.png"
+    },
+    {
+        "name": "Nigeria",
+        "flag": "flags/countries/Nigeria.png"
+    }
+]

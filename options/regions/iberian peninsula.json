@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Andorra",
+        "flag": "flags/countries/Andorra.png"
+    },
+    {
+        "name": "Portugal",
+        "flag": "flags/countries/Portugal.png"
+    },
+    {
+        "name": "Spain",
+        "flag": "flags/countries/Spain.png"
+    }
+]

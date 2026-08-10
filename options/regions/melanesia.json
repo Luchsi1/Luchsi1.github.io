@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Fiji",
+        "flag": "flags/countries/Fiji.png"
+    },
+    {
+        "name": "Papua New Guinea",
+        "flag": "flags/countries/Papua New Guinea.png"
+    },
+    {
+        "name": "Solomon Islands",
+        "flag": "flags/countries/Solomon Islands.png"
+    },
+    {
+        "name": "Vanuatu",
+        "flag": "flags/countries/Vanuatu.png"
+    }
+]

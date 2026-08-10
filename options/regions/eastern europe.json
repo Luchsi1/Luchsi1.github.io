@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Czech Republic",
+        "flag": "flags/countries/Czech Republic.png"
+    },
+    {
+        "name": "Hungary",
+        "flag": "flags/countries/Hungary.png"
+    },
+    {
+        "name": "Poland",
+        "flag": "flags/countries/Poland.png"
+    },
+    {
+        "name": "Slovakia",
+        "flag": "flags/countries/Slovakia.png"
+    },
+
+
+    {
+        "name": "Bulgaria",
+        "flag": "flags/countries/Bulgaria.png"
+    },
+    {
+        "name": "Moldova",
+        "flag": "flags/countries/Moldova.png"
+    },
+    {
+        "name": "Romania",
+        "flag": "flags/countries/Romania.png"
+    },
+    {
+        "name": "Ukraine",
+        "flag": "flags/countries/Ukraine.png"
+    },
+
+
+    {
+        "name": "Belarus",
+        "flag": "flags/countries/Belarus.png"
+    },
+    {
+        "name": "Russia",
+        "flag": "flags/countries/Russia.png"
+    }
+]

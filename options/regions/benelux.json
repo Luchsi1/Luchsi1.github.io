@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Belgium",
+        "flag": "flags/countries/Belgium.png"
+    },
+    {
+        "name": "Luxembourg",
+        "flag": "flags/countries/Luxembourg.png"
+    },
+    {
+        "name": "Netherlands",
+        "flag": "flags/countries/Netherlands.png"
+    }
+]

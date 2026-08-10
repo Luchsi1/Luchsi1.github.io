@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Armenia",
+        "flag": "flags/countries/Armenia.png"
+    },
+    {
+        "name": "Azerbaijan",
+        "flag": "flags/countries/Azerbaijan.png"
+    },
+    {
+        "name": "Georgia",
+        "flag": "flags/countries/Georgia.png"
+    }
+]

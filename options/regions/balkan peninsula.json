@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Albania",
+        "flag": "flags/countries/Albania.png"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "flag": "flags/countries/Bosnia and Herzegovina.png"
+    },
+    {
+        "name": "Croatia",
+        "flag": "flags/countries/Croatia.png"
+    },
+    {
+        "name": "Greece",
+        "flag": "flags/countries/Greece.png"
+    },
+    {
+        "name": "Kosvo",
+        "flag": "flags/countries/Kosovo.png"
+    },
+    {
+        "name": "Montenegro",
+        "flag": "flags/countries/Montenegro.png"
+    },
+    {
+        "name": "North Macedonia",
+        "flag": "flags/countries/North Macedonia.png"
+    },
+    {
+        "name": "Serbia",
+        "flag": "flags/countries/Serbia.png"
+    },
+    {
+        "name": "Slovenia",
+        "flag": "flags/countries/Slovenia.png"
+    }
+]

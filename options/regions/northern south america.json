@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Bolivia",
+        "flag": "flags/countries/Bolivia.png"
+    },
+    {
+        "name": "Brazil",
+        "flag": "flags/countries/Brazil.png"
+    },
+    {
+        "name": "Colombia",
+        "flag": "flags/countries/Colombia.png"
+    },
+    {
+        "name": "Ecuador",
+        "flag": "flags/countries/Ecuador.png"
+    },
+    {
+        "name": "Guyana",
+        "flag": "flags/countries/Guyana.png"
+    },
+    {
+        "name": "Peru",
+        "flag": "flags/countries/Peru.png"
+    },
+    {
+        "name": "Suriname",
+        "flag": "flags/countries/Suriname.png"
+    },
+    {
+        "name": "Venezuela",
+        "flag": "flags/countries/Venezuela.png"
+    }
+]

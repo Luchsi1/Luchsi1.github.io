@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Brunei",
+        "flag": "flags/countries/Brunei.png"
+    },
+    {
+        "name": "Indonesia",
+        "flag": "flags/countries/Indonesia.png"
+    },
+    {
+        "name": "Malaysia",
+        "flag": "flags/countries/Malaysia.png"
+    },
+    {
+        "name": "Philippines",
+        "flag": "flags/countries/Philippines.png"
+    },
+    {
+        "name": "Singapore",
+        "flag": "flags/countries/Singapore.png"
+    },
+    {
+        "name": "Timor-Leste",
+        "flag": "flags/countries/Timor-Leste.png"
+    }
+]

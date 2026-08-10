@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Republic of the Congo",
+        "flag": "flags/countries/Republic of the Congo.png"
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "flag": "flags/countries/Democratic Republic of the Congo.png"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "flag": "flags/countries/Equatorial Guinea.png"
+    },
+    {
+        "name": "Gabon",
+        "flag": "flags/countries/Gabon.png"
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "flag": "flags/countries/São Tomé and Príncipe.png"
+    },
+    {
+        "name": "Angola",
+        "flag": "flags/countries/Angola.png"
+    }    
+]

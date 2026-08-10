@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Denmark",
+        "flag": "flags/countries/Denmark.png"
+    },
+    {
+        "name": "Finland",
+        "flag": "flags/countries/Finland.png"
+    },
+    {
+        "name": "Iceland",
+        "flag": "flags/countries/Iceland.png"
+    },
+    {
+        "name": "Norway",
+        "flag": "flags/countries/Norway.png"
+    },
+    {
+        "name": "Sweden",
+        "flag": "flags/countries/Sweden.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Iran",
+        "flag": "flags/countries/Iran.png"
+    },
+    {
+        "name": "Iraq",
+        "flag": "flags/countries/Iraq.png"
+    },
+    {
+        "name": "Türkiye",
+        "flag": "flags/countries/Türkiye.png"
+    }
+]
