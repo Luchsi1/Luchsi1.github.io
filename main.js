@@ -22,7 +22,6 @@ function nextRegion(region) {
         const button = document.createElement("button");
 
         button.className = "menu-button";
-        button.color = rgb(20, 20, 20);
         button.textContent = newRegion.name;
 
         button.addEventListener("click", () => {
