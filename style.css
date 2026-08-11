@@ -29,6 +29,9 @@ body {
     align-items: center;
 
     font-size: 20px;
+
+    padding: 0;
+    margin: 0;
 }
 
 /* Current selection */
@@ -39,7 +42,7 @@ body {
     background-color: rgb(25, 25, 25);
     color: white;
 
-    border: 2px solid rgb(150, 150, 150)
+    border: 2px solid rgb(150, 150, 150);
     
     display: flex;
     justify-content: center;
@@ -54,7 +57,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 
-    border: 2px solid rgb(150, 150, 150)
+    border: 2px solid rgb(150, 150, 150);
     
     background-color: rgb(10, 10, 10);
     color: white;
