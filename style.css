@@ -2,6 +2,18 @@
     box-sizing: border-box;
 }
 
+.menu-button {
+    background: rgb(26, 26, 26);
+
+    border: 2px solid rgb(128, 128, 128);
+
+    color: white;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
 /* entire webpage */
 body {
     margin: 0;
