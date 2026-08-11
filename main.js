@@ -35,7 +35,7 @@ function nextRegion(region) {
 
 function changeRegion(newRegion) {
 
-    currentRegion = newRegion;
+    const currentRegion = newRegion;
 
     document.getElementById("current-selection").textContent =
         newRegion.name;
