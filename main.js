@@ -1,3 +1,15 @@
+.menu-button {
+    background: rgb(26, 26, 26);
+
+    border: 2px solid rgb(128, 128, 128);
+
+    color: white;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
 const regions = await fetch("regions.json")
     .then(response => response.json());
 
