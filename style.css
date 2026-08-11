@@ -5,13 +5,10 @@ body {
     color: white;
 }
 
-
-
 /* Main menu */
 #main-menu {
     width: 100%;
 }
-
 
 /* Geography Quiz title */
 #title-button {
@@ -26,7 +23,6 @@ body {
     font-size: 32px;
     text-align: center;
 }
-
 
 /* Current selection */
 #current-selection {
