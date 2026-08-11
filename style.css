@@ -18,10 +18,13 @@ body {
     background-color: rgb(50, 50, 50);
     color: white;
 
-    border: none;
+    border: 2px solid rgb(150, 150, 150);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     font-size: 32px;
-    text-align: center;
 }
 
 /* Current selection */
@@ -32,6 +35,8 @@ body {
     background-color: rgb(25, 25, 25);
     color: white;
 
+    border: 2px solid rgb(150, 150, 150)
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,6 +50,8 @@ body {
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 
+    border: 2px solid rgb(150, 150, 150)
+    
     background-color: rgb(10, 10, 10);
     color: white;
 }
