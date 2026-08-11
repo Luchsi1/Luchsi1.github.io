@@ -51,5 +51,5 @@ function resetRegion() {
     
     const currentRegion = regions;
     
-    nextRegion(currentRegion);
+    changeRegion(currentRegion);
 }
