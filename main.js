@@ -47,6 +47,9 @@ function changeRegion(newRegion) {
     nextRegion(newRegion);
 }
 
-function resetRegion() {
+function resetRegion() {,
+    
     const currentRegion = regions;
+    
     nextRegion(currentRegion);
+}
