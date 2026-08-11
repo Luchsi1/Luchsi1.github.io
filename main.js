@@ -6,7 +6,7 @@ const countries = await fetch("options/regions/world.json")
 
 const region = regions
 
-button.addEventListener("click", () => {
+title-button.addEventListener("click", () => {
     const region = regions;
 });
 
