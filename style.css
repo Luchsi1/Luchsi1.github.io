@@ -5,11 +5,9 @@
 .menu-button {
     background: rgb(26, 26, 26);
 
-    border: 2px solid rgb(128, 128, 128);
+    border: 1px solid rgb(150, 150, 150);
 
     color: white;
-
-    border-radius: 5px;
 
     cursor: pointer;
 }
