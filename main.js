@@ -6,8 +6,9 @@ const countries = await fetch("options/regions/world.json")
 
 const region = regions
 
-title-button.addEventListener("click", () => {
-    const region = regions;
+const titlebutton = document.getElementById("title-button");
+titlebutton.addEventListener("click", () => {
+    resetRegion();
 });
 
 nextRegion(region)
@@ -45,3 +46,7 @@ function changeRegion(newRegion) {
 
     nextRegion(newRegion);
 }
+
+function resetRegion() {
+    const currentRegion = regions;
+    nextRegion(currentRegion);
