@@ -50,6 +50,8 @@ function changeRegion(newRegion) {
 function resetRegion() {
     
     const currentRegion = regions;
+
+    document.getElementById("current-selection").textContent = "World";
     
-    changeRegion(currentRegion);
+    nextRegion(currentRegion);
 }
