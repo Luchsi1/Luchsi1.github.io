@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Auvergne-Rhône-Alpes",
+        "flag": "flags/firstlevel/france/Auvergne-Rhône-Alpes.png"
+    },
+    {
+        "name": "Bourgogne-Franche-Comté",
+        "flag": "flags/firstlevel/france/Bourgogne-Franche-Comté.png"
+    },
+    {
+        "name": "Bretagne",
+        "flag": "flags/firstlevel/france/Bretagne.png"
+    },
+    {
+        "name": "Centre-Val de Loire",
+        "flag": "flags/firstlevel/france/Centre-Val de Loire.png"
+    },
+    {
+        "name": "Corsica",
+        "flag": "flags/firstlevel/france/Corsica.png"
+    },
+    {
+        "name": "Grand Est",
+        "flag": "flags/firstlevel/france/Grand Est.png"
+    },
+    {
+        "name": "Hauts-de-France",
+        "flag": "flags/firstlevel/france/Hauts-de-France.png"
+    },
+    {
+        "name": "Île-de-France",
+        "flag": "flags/firstlevel/france/Île-de-France.png"
+    },
+    {
+        "name": "Normandie",
+        "flag": "flags/firstlevel/france/Normandie.png"
+    },
+    {
+        "name": "Nouvelle-Aquitaine",
+        "flag": "flags/firstlevel/france/Nouvelle-Aquitaine.png"
+    },
+    {
+        "name": "Occitanie",
+        "flag": "flags/firstlevel/france/Occitanie.png"
+    },
+    {
+        "name": "Pays-de-la-Loire",
+        "flag": "flags/firstlevel/france/Pays-de-la-Loire.png"
+    },
+    {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "flag": "flags/firstlevel/france/Provence-Alpes-Côte d'Azur.png"
+    }
+]

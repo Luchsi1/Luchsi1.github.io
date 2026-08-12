@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Aargau",
+        "flag": "flags/firstlevel/switzerland/Aargau.png"
+    },
+    {
+        "name": "Appenzell Ausserrhoden",
+        "flag": "flags/firstlevel/switzerland/Appenzell Ausserrhoden.png"
+    },
+    {
+        "name": "Appenzell Innerrhoden",
+        "flag": "flags/firstlevel/switzerland/Appenzell Innerrhoden.png"
+    },
+    {
+        "name": "Basel-Stadt",
+        "flag": "flags/firstlevel/switzerland/Basel-Stadt.png"
+    },
+    {
+        "name": "Basel-Landschaft",
+        "flag": "flags/firstlevel/switzerland/Basel-Landschaft.png"
+    },
+    {
+        "name": "Basel-Stadt",
+        "flag": "flags/firstlevel/switzerland/Basel-Stadt.png"
+    },
+    {
+        "name": "Bern",
+        "flag": "flags/firstlevel/switzerland/Bern.png"
+    },
+    {
+        "name": "Fribourg",
+        "flag": "flags/firstlevel/switzerland/Freiburg.png"
+    },
+    {
+        "name": "Genf",
+        "flag": "flags/firstlevel/switzerland/Genf.png"
+    },
+    {
+        "name": "Glarus",
+        "flag": "flags/firstlevel/switzerland/Glarus.png"
+    },
+    {
+        "name": "Graubünden",
+        "flag": "flags/firstlevel/switzerland/Graubünden.png"
+    },
+    {
+        "name": "Jura",
+        "flag": "flags/firstlevel/switzerland/Jura.png"
+    },
+    {
+        "name": "Luzern",
+        "flag": "flags/firstlevel/switzerland/Luzern.png"
+    },
+    {
+        "name": "Neuenburg",
+        "flag": "flags/firstlevel/switzerland/Neuenburg.png"
+    },
+    {
+        "name": "Schaffhausen",
+        "flag": "flags/firstlevel/switzerland/Schaffhausen.png"
+    },
+    {
+        "name": "Nidwalden",
+        "flag": "flags/firstlevel/switzerland/Nidwalden.png"
+    },
+    {
+        "name": "Obwalden",
+        "flag": "flags/firstlevel/switzerland/Obwalden.png"
+    },
+    {
+        "name": "Schwyz",
+        "flag": "flags/firstlevel/switzerland/Schwyz.png"
+    },
+    {
+        "name": "Solothurn",
+        "flag": "flags/firstlevel/switzerland/Solothurn.png"
+    },
+    {
+        "name": "St. Gallen",
+        "flag": "flags/firstlevel/switzerland/St. Gallen.png"
+    },
+    {
+        "name": "Thurgau",
+        "flag": "flags/firstlevel/switzerland/Thurgau.png"
+    },
+    {
+        "name": "Tessin",
+        "flag": "flags/firstlevel/switzerland/Tessin.png"
+    },
+    {
+        "name": "Uri",
+        "flag": "flags/firstlevel/switzerland/Uri.png"
+    },
+    {
+        "name": "Waadt",
+        "flag": "flags/firstlevel/switzerland/Waadt.png"
+    },
+    {
+        "name": "Wallis",
+        "flag": "flags/firstlevel/switzerland/Wallis.png"
+    },
+    {
+        "name": "Zug",
+        "flag": "flags/firstlevel/switzerland/Zug.png"
+    },
+    {
+        "name": "Zürich",
+        "flag": "flags/firstlevel/switzerland/Zürich.png"
+    }
+]

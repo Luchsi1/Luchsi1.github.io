@@ -1,0 +1,18 @@
+[
+    {
+        "name": "England",
+        "flag": "flags/firstlevel/united kingdom/England.png"
+    },
+    {
+        "name": "Scotland",
+        "flag": "flags/firstlevel/united kingdom/Scotland.png"
+    },
+    {
+        "name": "Wales",
+        "flag": "flags/firstlevel/united kingdom/Wales.png"
+    },
+    {
+        "name": "Northern Ireland",
+        "flag": "flags/firstlevel/united kingdom/Northern Ireland.png"
+    }
+]

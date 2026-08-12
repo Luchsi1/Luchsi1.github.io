@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Capellen",
+        "flag": "flags/firstlevel/luxembourg/Capellen.png"
+    },
+    {
+        "name": "Clervaux",
+        "flag": "flags/firstlevel/luxembourg/Clervaux.png"
+    },
+    {
+        "name": "Diekirch",
+        "flag": "flags/firstlevel/luxembourg/Diekirch.png"
+    },
+    {
+        "name": "Echternach",
+        "flag": "flags/firstlevel/luxembourg/Echternach.png"
+    },
+    {
+        "name": "Esch-sur-Alzette",
+        "flag": "flags/firstlevel/luxembourg/Esch-sur-Alzette.png"
+    },
+    {
+        "name": "Grevenmacher",
+        "flag": "flags/firstlevel/luxembourg/Grevenmacher.png"
+    },
+    {
+        "name": "Luxembourg City",
+        "flag": "flags/firstlevel/luxembourg/Luxembourg City.png"
+    },
+    {
+        "name": "Mersch",
+        "flag": "flags/firstlevel/luxembourg/Mersch.png"
+    },
+    {
+        "name": "Redange",
+        "flag": "flags/firstlevel/luxembourg/Redange.png"
+    },
+    {
+        "name": "Remich",
+        "flag": "flags/firstlevel/luxembourg/Remich.png"
+    },
+    {
+        "name": "Vianden",
+        "flag": "flags/firstlevel/luxembourg/Vianden.png"
+    },
+    {
+        "name": "Wiltz",
+        "flag": "flags/firstlevel/luxembourg/Wiltz.png"
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Capellen",
+        "flag": "flags/firstlevel/luxembourg/Capellen.png"
+    },
+    {
+        "name": "Clervaux",
+        "flag": "flags/firstlevel/luxembourg/Clervaux.png"
+    },
+    {
+        "name": "Diekirch",
+        "flag": "flags/firstlevel/luxembourg/Diekirch.png"
+    },
+    {
+        "name": "Echternach",
+        "flag": "flags/firstlevel/luxembourg/Echternach.png"
+    },
+    {
+        "name": "Esch-sur-Alzette",
+        "flag": "flags/firstlevel/luxembourg/Esch-sur-Alzette.png"
+    },
+    {
+        "name": "Grevenmacher",
+        "flag": "flags/firstlevel/luxembourg/Grevenmacher.png"
+    },
+    {
+        "name": "Luxembourg City",
+        "flag": "flags/firstlevel/luxembourg/Luxembourg City.png"
+    },
+    {
+        "name": "Mersch",
+        "flag": "flags/firstlevel/luxembourg/Mersch.png"
+    },
+    {
+        "name": "Redange",
+        "flag": "flags/firstlevel/luxembourg/Redange.png"
+    },
+    {
+        "name": "Remich",
+        "flag": "flags/firstlevel/luxembourg/Remich.png"
+    },
+    {
+        "name": "Vianden",
+        "flag": "flags/firstlevel/luxembourg/Vianden.png"
+    },
+    {
+        "name": "Wiltz",
+        "flag": "flags/firstlevel/luxembourg/Wiltz.png"
+    },
+
+    {
+        "name": "Antwerpen",
+        "flag": "flags/firstlevel/belgium/Antwerpen.png"
+    },
+    {
+        "name": "Braibant walon",
+        "flag": "flags/firstlevel/belgium/Braibant walon.png"
+    },
+    {
+        "name": "Brüssel",
+        "flag": "flags/firstlevel/belgium/Brüssel.png"
+    },
+    {
+        "name": "Hinnot",
+        "flag": "flags/firstlevel/belgium/Hinnot.png"
+    },
+    {
+        "name": "Limburg",
+        "flag": "flags/firstlevel/belgium/Limburg.png"
+    },
+    {
+        "name": "Luik",
+        "flag": "flags/firstlevel/belgium/Luik.png"
+    },
+    {
+        "name": "Luxemburg",
+        "flag": "flags/firstlevel/belgium/Luxemburg.png"
+    },
+    {
+        "name": "Namur",
+        "flag": "flags/firstlevel/belgium/Namur.png"
+    },
+    {
+        "name": "Oost-Vlaanderen",
+        "flag": "flags/firstlevel/belgium/Oost-Vlaanderen.png"
+    },
+    {
+        "name": "Vlaams-Brabant",
+        "flag": "flags/firstlevel/belgium/Vlaams-Brabant.png"
+    },
+    {
+        "name": "West-Vlaanderen",
+        "flag": "flags/firstlevel/belgium/West-Vlaanderen.png"
+    },
+
+    {
+        "name": "Drenthe",
+        "flag": "flags/firstlevel/netherlands/Drenthe.png"
+    },
+    {
+        "name": "Flevoland",
+        "flag": "flags/firstlevel/netherlands/Flevoland.png"
+    },
+    {
+        "name": "Fryslân",
+        "flag": "flags/firstlevel/netherlands/Fryslân.png"
+    },
+    {
+        "name": "Gelderland",
+        "flag": "flags/firstlevel/netherlands/Gelderland.png"
+    },
+    {
+        "name": "Groningen",
+        "flag": "flags/firstlevel/netherlands/Groningen.png"
+    },
+    {
+        "name": "Limburg",
+        "flag": "flags/firstlevel/netherlands/Limburg.png"
+    },
+    {
+        "name": "Noord-Brabant",
+        "flag": "flags/firstlevel/netherlands/Noord-Brabant.png"
+    },
+    {
+        "name": "Noord-Holland",
+        "flag": "flags/firstlevel/netherlands/Noord-Holland.png"
+    },
+    {
+        "name": "Overijssel",
+        "flag": "flags/firstlevel/netherlands/Overijssel.png"
+    },
+    {
+        "name": "Utrecht",
+        "flag": "flags/firstlevel/netherlands/Utrecht.png"
+    },
+    {
+        "name": "Zeeland",
+        "flag": "flags/firstlevel/netherlands/Zeeland.png"
+    },
+    {
+        "name": "Zuid-Holland",
+        "flag": "flags/firstlevel/netherlands/Zuid-Holland.png"
+    }
+]

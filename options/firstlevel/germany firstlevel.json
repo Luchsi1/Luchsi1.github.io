@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Berlin",
+        "flag": "flags/firstlevel/germany/berlin.png"
+    },
+    {
+        "name": "Bayern",
+        "flag": "flags/firstlevel/germany/bayern.png"
+    },
+    {
+        "name": "Hessen",
+        "flag": "flags/firstlevel/germany/hessen.png"
+    },
+    {
+        "name": "Sachsen",
+        "flag": "flags/firstlevel/germany/sachsen.png"
+    },
+    {
+        "name": "Nordrhein-Westfalen",
+        "flag": "flags/firstlevel/germany/nordrhein-westfalen.png"
+    },
+    {
+        "name": "Baden-Württemberg",
+        "flag": "flags/firstlevel/germany/baden-wuerttemberg.png"
+    },
+    {
+        "name": "Sachsen-Anhalt",
+        "flag": "flags/firstlevel/germany/sachsen-anhalt.png"
+    },
+    {
+        "name": "Rheinland-Pfalz",
+        "flag": "flags/firstlevel/germany/rheinland-pfalz.png"
+    },
+    {
+        "name": "Thüringen",
+        "flag": "flags/firstlevel/germany/thueringen.png"
+    },
+    {
+        "name": "Brandenburg",
+        "flag": "flags/firstlevel/germany/brandenburg.png"
+    },
+    {
+        "name": "Schleswig-Holstein",
+        "flag": "flags/firstlevel/germany/schleswig-holstein.png"
+    },
+    {
+        "name": "Mecklenburg-Vorpommern",
+        "flag": "flags/firstlevel/germany/mecklenburg-vorpommern.png"
+    },
+    {
+        "name": "Saarland",
+        "flag": "flags/firstlevel/germany/saarland.png"
+    },
+    {
+        "name": "Hamburg",
+        "flag": "flags/firstlevel/germany/hamburg.png"
+    },
+    {
+        "name": "Bremen",
+        "flag": "flags/firstlevel/germany/bremen.png"
+    },
+    {
+        "name": "Niedersachsen",
+        "flag": "flags/firstlevel/germany/niedersachsen.png"
+    }
+]

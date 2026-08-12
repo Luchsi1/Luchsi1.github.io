@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hovedstaden",
+        "flag": "flags/firstlevel/denmark/Hovedstaden.png"
+    },
+    {
+        "name": "Midtjylland",
+        "flag": "flags/firstlevel/denmark/Midtjylland.png"
+    },
+    {
+        "name": "Nordjylland",
+        "flag": "flags/firstlevel/denmark/Nordjylland.png"
+    },
+    {
+        "name": "Syddanmark",
+        "flag": "flags/firstlevel/denmark/Syddanmark.png"
+    },
+    {
+        "name": "Sjælland",
+        "flag": "flags/firstlevel/denmark/Sjælland.png"
+    }
+]

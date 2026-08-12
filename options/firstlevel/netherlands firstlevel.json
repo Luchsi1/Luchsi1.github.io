@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Drenthe",
+        "flag": "flags/firstlevel/netherlands/Drenthe.png"
+    },
+    {
+        "name": "Flevoland",
+        "flag": "flags/firstlevel/netherlands/Flevoland.png"
+    },
+    {
+        "name": "Fryslân",
+        "flag": "flags/firstlevel/netherlands/Fryslân.png"
+    },
+    {
+        "name": "Gelderland",
+        "flag": "flags/firstlevel/netherlands/Gelderland.png"
+    },
+    {
+        "name": "Groningen",
+        "flag": "flags/firstlevel/netherlands/Groningen.png"
+    },
+    {
+        "name": "Limburg",
+        "flag": "flags/firstlevel/netherlands/Limburg.png"
+    },
+    {
+        "name": "Noord-Brabant",
+        "flag": "flags/firstlevel/netherlands/Noord-Brabant.png"
+    },
+    {
+        "name": "Noord-Holland",
+        "flag": "flags/firstlevel/netherlands/Noord-Holland.png"
+    },
+    {
+        "name": "Overijssel",
+        "flag": "flags/firstlevel/netherlands/Overijssel.png"
+    },
+    {
+        "name": "Utrecht",
+        "flag": "flags/firstlevel/netherlands/Utrecht.png"
+    },
+    {
+        "name": "Zeeland",
+        "flag": "flags/firstlevel/netherlands/Zeeland.png"
+    },
+    {
+        "name": "Zuid-Holland",
+        "flag": "flags/firstlevel/netherlands/Zuid-Holland.png"
+    }
+]

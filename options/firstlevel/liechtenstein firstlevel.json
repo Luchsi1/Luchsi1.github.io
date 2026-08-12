@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Balzers",
+        "flag": "flags/firstlevel/liechtenstein/Balzers.png"
+    },
+    {
+        "name": "Eschen",
+        "flag": "flags/firstlevel/liechtenstein/Eschen.png"
+    },
+    {
+        "name": "Gamprin",
+        "flag": "flags/firstlevel/liechtenstein/Gamprin.png"
+    },
+    {
+        "name": "Mauren",
+        "flag": "flags/firstlevel/liechtenstein/Mauren.png"
+    },
+    {
+        "name": "Planken",
+        "flag": "flags/firstlevel/liechtenstein/Planken.png"
+    },
+    {
+        "name": "Ruggell",
+        "flag": "flags/firstlevel/liechtenstein/Ruggell.png"
+    },
+    {
+        "name": "Schaan",
+        "flag": "flags/firstlevel/liechtenstein/Schaan.png"
+    },
+    {
+        "name": "Schellenberg",
+        "flag": "flags/firstlevel/liechtenstein/Schellenberg.png"
+    },
+    {
+        "name": "Triesen",
+        "flag": "flags/firstlevel/liechtenstein/Triesen.png"
+    },
+    {
+        "name": "Triesenberg",
+        "flag": "flags/firstlevel/liechtenstein/Triesenberg.png"
+    },
+    {
+        "name": "Vaduz",
+        "flag": "flags/firstlevel/liechtenstein/Vaduz.png"
+    }
+]

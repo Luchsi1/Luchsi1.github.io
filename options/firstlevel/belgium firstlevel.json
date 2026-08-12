@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Antwerpen",
+        "flag": "flags/firstlevel/belgium/Antwerpen.png"
+    },
+    {
+        "name": "Braibant walon",
+        "flag": "flags/firstlevel/belgium/Braibant walon.png"
+    },
+    {
+        "name": "Brüssel",
+        "flag": "flags/firstlevel/belgium/Brüssel.png"
+    },
+    {
+        "name": "Hinnot",
+        "flag": "flags/firstlevel/belgium/Hinnot.png"
+    },
+    {
+        "name": "Limburg",
+        "flag": "flags/firstlevel/belgium/Limburg.png"
+    },
+    {
+        "name": "Luik",
+        "flag": "flags/firstlevel/belgium/Luik.png"
+    },
+    {
+        "name": "Luxemburg",
+        "flag": "flags/firstlevel/belgium/Luxemburg.png"
+    },
+    {
+        "name": "Namur",
+        "flag": "flags/firstlevel/belgium/Namur.png"
+    },
+    {
+        "name": "Oost-Vlaanderen",
+        "flag": "flags/firstlevel/belgium/Oost-Vlaanderen.png"
+    },
+    {
+        "name": "Vlaams-Brabant",
+        "flag": "flags/firstlevel/belgium/Vlaams-Brabant.png"
+    },
+    {
+        "name": "West-Vlaanderen",
+        "flag": "flags/firstlevel/belgium/West-Vlaanderen.png"
+    }
+]

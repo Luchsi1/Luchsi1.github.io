@@ -1,0 +1,180 @@
+[
+    {
+        "name": "Balzers",
+        "flag": "flags/firstlevel/liechtenstein/Balzers.png"
+    },
+    {
+        "name": "Eschen",
+        "flag": "flags/firstlevel/liechtenstein/Eschen.png"
+    },
+    {
+        "name": "Gamprin",
+        "flag": "flags/firstlevel/liechtenstein/Gamprin.png"
+    },
+    {
+        "name": "Mauren",
+        "flag": "flags/firstlevel/liechtenstein/Mauren.png"
+    },
+    {
+        "name": "Planken",
+        "flag": "flags/firstlevel/liechtenstein/Planken.png"
+    },
+    {
+        "name": "Ruggell",
+        "flag": "flags/firstlevel/liechtenstein/Ruggell.png"
+    },
+    {
+        "name": "Schaan",
+        "flag": "flags/firstlevel/liechtenstein/Schaan.png"
+    },
+    {
+        "name": "Schellenberg",
+        "flag": "flags/firstlevel/liechtenstein/Schellenberg.png"
+    },
+    {
+        "name": "Triesen",
+        "flag": "flags/firstlevel/liechtenstein/Triesen.png"
+    },
+    {
+        "name": "Triesenberg",
+        "flag": "flags/firstlevel/liechtenstein/Triesenberg.png"
+    },
+    {
+        "name": "Vaduz",
+        "flag": "flags/firstlevel/liechtenstein/Vaduz.png"
+    },
+
+    {
+        "name": "Burgenland",
+        "flag": "flags/firstlevel/austria/Burgenland.png"
+    },
+    {
+        "name": "Kärnten",
+        "flag": "flags/firstlevel/austria/Kärnten.png"
+    },
+    {
+        "name": "Niederösterreich",
+        "flag": "flags/firstlevel/austria/Niederösterreich.png"
+    },
+    {
+        "name": "Steiermark",
+        "flag": "flags/firstlevel/austria/Steiermark.png"
+    },
+    {
+        "name": "Tirol, Oberösterreich",
+        "flag": "flags/firstlevel/austria/Tirol, Oberösterreich.png"
+    },
+    {
+        "name": "Wien, Salzburg, Vorarlberg",
+        "flag": "flags/firstlevel/austria/Wien, Salzburg, Vorarlberg.png"
+    },
+
+    {
+        "name": "Aargau",
+        "flag": "flags/firstlevel/switzerland/Aargau.png"
+    },
+    {
+        "name": "Appenzell Ausserrhoden",
+        "flag": "flags/firstlevel/switzerland/Appenzell Ausserrhoden.png"
+    },
+    {
+        "name": "Appenzell Innerrhoden",
+        "flag": "flags/firstlevel/switzerland/Appenzell Innerrhoden.png"
+    },
+    {
+        "name": "Basel-Stadt",
+        "flag": "flags/firstlevel/switzerland/Basel-Stadt.png"
+    },
+    {
+        "name": "Basel-Landschaft",
+        "flag": "flags/firstlevel/switzerland/Basel-Landschaft.png"
+    },
+    {
+        "name": "Basel-Stadt",
+        "flag": "flags/firstlevel/switzerland/Basel-Stadt.png"
+    },
+    {
+        "name": "Bern",
+        "flag": "flags/firstlevel/switzerland/Bern.png"
+    },
+    {
+        "name": "Fribourg",
+        "flag": "flags/firstlevel/switzerland/Freiburg.png"
+    },
+    {
+        "name": "Genf",
+        "flag": "flags/firstlevel/switzerland/Genf.png"
+    },
+    {
+        "name": "Glarus",
+        "flag": "flags/firstlevel/switzerland/Glarus.png"
+    },
+    {
+        "name": "Graubünden",
+        "flag": "flags/firstlevel/switzerland/Graubünden.png"
+    },
+    {
+        "name": "Jura",
+        "flag": "flags/firstlevel/switzerland/Jura.png"
+    },
+    {
+        "name": "Luzern",
+        "flag": "flags/firstlevel/switzerland/Luzern.png"
+    },
+    {
+        "name": "Neuenburg",
+        "flag": "flags/firstlevel/switzerland/Neuenburg.png"
+    },
+    {
+        "name": "Schaffhausen",
+        "flag": "flags/firstlevel/switzerland/Schaffhausen.png"
+    },
+    {
+        "name": "Nidwalden",
+        "flag": "flags/firstlevel/switzerland/Nidwalden.png"
+    },
+    {
+        "name": "Obwalden",
+        "flag": "flags/firstlevel/switzerland/Obwalden.png"
+    },
+    {
+        "name": "Schwyz",
+        "flag": "flags/firstlevel/switzerland/Schwyz.png"
+    },
+    {
+        "name": "Solothurn",
+        "flag": "flags/firstlevel/switzerland/Solothurn.png"
+    },
+    {
+        "name": "St. Gallen",
+        "flag": "flags/firstlevel/switzerland/St. Gallen.png"
+    },
+    {
+        "name": "Thurgau",
+        "flag": "flags/firstlevel/switzerland/Thurgau.png"
+    },
+    {
+        "name": "Tessin",
+        "flag": "flags/firstlevel/switzerland/Tessin.png"
+    },
+    {
+        "name": "Uri",
+        "flag": "flags/firstlevel/switzerland/Uri.png"
+    },
+    {
+        "name": "Waadt",
+        "flag": "flags/firstlevel/switzerland/Waadt.png"
+    },
+    {
+        "name": "Wallis",
+        "flag": "flags/firstlevel/switzerland/Wallis.png"
+    },
+    {
+        "name": "Zug",
+        "flag": "flags/firstlevel/switzerland/Zug.png"
+    },
+    {
+        "name": "Zürich",
+        "flag": "flags/firstlevel/switzerland/Zürich.png"
+    }
+]

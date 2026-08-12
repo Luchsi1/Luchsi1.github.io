@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Connacht",
+        "flag": "flags/firstlevel/ireland/Connacht.png"
+    },
+    {
+        "name": "Leinster",
+        "flag": "flags/firstlevel/ireland/Leinster.png"
+    },
+    {
+        "name": "Munster",
+        "flag": "flags/firstlevel/ireland/Munster.png"
+    },
+    {
+        "name": "Ulster",
+        "flag": "flags/firstlevel/ireland/Ulster.png"
+    }
+]

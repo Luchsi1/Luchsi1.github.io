@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Connacht",
+        "flag": "flags/firstlevel/ireland/Connacht.png"
+    },
+    {
+        "name": "Leinster",
+        "flag": "flags/firstlevel/ireland/Leinster.png"
+    },
+    {
+        "name": "Munster",
+        "flag": "flags/firstlevel/ireland/Munster.png"
+    },
+    {
+        "name": "Ulster",
+        "flag": "flags/firstlevel/ireland/Ulster.png"
+    },
+
+    {
+        "name": "England",
+        "flag": "flags/firstlevel/united kingdom/England.png"
+    },
+    {
+        "name": "Scotland",
+        "flag": "flags/firstlevel/united kingdom/Scotland.png"
+    },
+    {
+        "name": "Wales",
+        "flag": "flags/firstlevel/united kingdom/Wales.png"
+    },
+    {
+        "name": "Northern Ireland",
+        "flag": "flags/firstlevel/united kingdom/Northern Ireland.png"
+    }
+]

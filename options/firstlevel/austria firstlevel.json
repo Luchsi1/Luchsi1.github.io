@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Burgenland",
+        "flag": "flags/firstlevel/austria/Burgenland.png"
+    },
+    {
+        "name": "Kärnten",
+        "flag": "flags/firstlevel/austria/Kärnten.png"
+    },
+    {
+        "name": "Niederösterreich",
+        "flag": "flags/firstlevel/austria/Niederösterreich.png"
+    },
+    {
+        "name": "Steiermark",
+        "flag": "flags/firstlevel/austria/Steiermark.png"
+    },
+    {
+        "name": "Tirol, Oberösterreich",
+        "flag": "flags/firstlevel/austria/Tirol, Oberösterreich.png"
+    },
+    {
+        "name": "Wien, Salzburg, Vorarlberg",
+        "flag": "flags/firstlevel/austria/Wien, Salzburg, Vorarlberg.png"
+    }
+]
