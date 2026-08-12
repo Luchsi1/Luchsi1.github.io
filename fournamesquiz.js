@@ -19,9 +19,10 @@ export class FourNamesQuiz {
         this.hp = 3;
 
         this.scorelabel = document.getElementById("score-fournames");
-        window.addEventListener("resize", updateFontSize(this.scorelabel, 0.02))
+        window.addEventListener("resize", updateFontSize(this.scorelabel, 0.02));
         this.hplabel = document.getElementById("hp-fournames");
-        window.addEventListener("resize", updateFontSize(this.hplabel, 0.02))
+        window.addEventListener("resize", updateFontSize(this.hplabel, 0.02));
+        this.hplabel.textContent = `HP: ${this.hp}`;
         this.flaglabel = document.getElementById("flag");
         this.buttons = document.getElementById("answerbuttonsnames");
 
