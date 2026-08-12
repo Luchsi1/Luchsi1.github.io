@@ -9,7 +9,7 @@ export class MainMenu {
     constructor() {
 
         this.titlebutton = document.getElementById("title-button");
-        window.addEventListener("resize", updateFontSize(this.titlebutton, 0.02))
+        window.addEventListener("resize", updateFontSize(this.titlebutton, 0.03))
         this.currentselection = document.getElementById("current-selection");
         window.addEventListener("resize", updateFontSize(this.currentselection, 0.03))
         this.buttons = document.getElementById("buttons");
