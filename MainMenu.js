@@ -1,5 +1,7 @@
 import { FourNamesQuiz } from "./fournamesquiz.js";
+import { FourFlagsQuiz } from "./fourflagsquiz.js";
 import { showScreen } from "./showScreen.js";
+import { updateFontSize } from "./updateFontSize.js";
 
 
 export class MainMenu {
@@ -7,7 +9,9 @@ export class MainMenu {
     constructor() {
 
         this.titlebutton = document.getElementById("title-button");
+        window.addEventListener("resize", updateFontSize(this.titlebutton, 0.02))
         this.currentselection = document.getElementById("current-selection");
+        window.addEventListener("resize", updateFontSize(this.currentselection, 0.03))
         this.buttons = document.getElementById("buttons");
 
         this.regions = null;
@@ -70,6 +74,7 @@ export class MainMenu {
             });
 
             this.buttons.appendChild(button);
+            window.addEventListener("resize", updateFontSize(button, 0.05))
         }
     }
 
@@ -105,6 +110,7 @@ export class MainMenu {
         countriesbtn.addEventListener("click", () => {
             this.quizSelection(region, "countries");
         });
+        
 
 
         const capitalsbtn = document.createElement("button");
@@ -144,11 +150,15 @@ export class MainMenu {
 
             this.buttons.appendChild(countriesbtn);
             this.buttons.appendChild(capitalsbtn);
+            window.addEventListener("resize", updateFontSize(countriesbtn, 0.05))
+            window.addEventListener("resize", updateFontSize(capitalsbtn, 0.05))
         }
 
 
         this.buttons.appendChild(firstlevelbtn);
         this.buttons.appendChild(secondlevelbtn);
+        window.addEventListener("resize", updateFontSize(firstlevelbtn, 0.05))
+        window.addEventListener("resize", updateFontSize(secondlevelbtn, 0.05))
     }
 
 
@@ -166,29 +176,30 @@ export class MainMenu {
 
             this.resetRegion();
 
-            const quiz = new FourNamesQuiz(region.toLowerCase(), quiztype);
+            const quiz = new FourNamesQuiz(region, quiztype);
 
             quiz.start();
         });
 
         this.buttons.appendChild(fournamesquizbtn);
+        window.addEventListener("resize", updateFontSize(fournamesquizbtn, 0.05))
 
 
         const fourflagsquizbtn = document.createElement("button");
 
         fourflagsquizbtn.className = "menu-button";
         fourflagsquizbtn.textContent = "4 Flags";
-        /*
+        
         fourflagsquizbtn.addEventListener("click", () => {
 
             this.resetRegion();
 
-            const quiz = new FourFlagsQuiz(region.toLowerCase(), quiztype);
+            const quiz = new FourFlagsQuiz(region, quiztype);
 
             quiz.start();
         });
-        */
-
+        
         this.buttons.appendChild(fourflagsquizbtn);
+        window.addEventListener("resize", updateFontSize(fourflagsquizbtn, 0.05))
     }
 }

@@ -3,7 +3,7 @@ import { shuffle } from "./shuffle.js";
 import { updateFontSize } from "./updateFontSize.js";
 
 
-export class FourNamesQuiz {
+export class FourFlagsQuiz {
 
     constructor(region, quiztype) {
 
@@ -18,65 +18,81 @@ export class FourNamesQuiz {
         this.score = 0;
         this.hp = 3;
 
-        this.scorelabel = document.getElementById("score-fournames");
+        this.scorelabel = document.getElementById("score-fourflags");
         window.addEventListener("resize", updateFontSize(this.scorelabel, 0.02))
-        this.hplabel = document.getElementById("hp-fournames");
+        this.hplabel = document.getElementById("hp-fourflags");
         window.addEventListener("resize", updateFontSize(this.hplabel, 0.02))
-        this.flaglabel = document.getElementById("flag");
-        this.buttons = document.getElementById("answerbuttonsnames");
-
-        this.flagImage = document.createElement("img");
-        this.flagImage.alt = "Flag";
-
-        this.flaglabel.innerHTML = "";
-        this.flaglabel.appendChild(this.flagImage);
+        this.name = document.getElementById("name");
+        window.addEventListener("resize", updateFontSize(this.name, 0.1))
+        this.buttons = document.getElementById("answerbuttonsflags");
     }
 
 
     async start() {
 
-        showScreen("fournamesquiz");
+        showScreen("fourflagsquiz");
 
         if (this.quiztype === "countries") {
 
-            this.items = await fetch(`options/regions/${this.region}.json`)
-                .then(response => response.json());
+            this.items = await fetch(
+                `options/regions/${this.region}.json`
+            ).then(response => response.json());
 
         } else if (this.quiztype === "capitals") {
 
-            this.items = await fetch(`options/capitals/${this.region} capitals.json`)
-                .then(response => response.json());
+            this.items = await fetch(
+                `options/capitals/${this.region} capitals.json`
+            ).then(response => response.json());
 
         } else if (this.quiztype === "firstlevel") {
 
-            this.items = await fetch(`options/firstlevel/${this.region} firstlevel.json`)
-                .then(response => response.json());
+            this.items = await fetch(
+                `options/firstlevel/${this.region} firstlevel.json`
+            ).then(response => response.json());
 
         } else if (this.quiztype === "secondlevel") {
 
-            this.items = await fetch(`options/secondlevel/${this.region} secondlevel.json`)
-                .then(response => response.json());
+            this.items = await fetch(
+                `options/secondlevel/${this.region} secondlevel.json`
+            ).then(response => response.json());
         }
 
+
         if (this.items.length >= 100) {
+
             this.advancedrandomnesslevel = 3;
+
         } else if (this.items.length >= 50) {
+
             this.advancedrandomnesslevel = 2;
+
         } else if (this.items.length >= 30) {
+
             this.advancedrandomnesslevel = 1;
+
         } else {
+
             this.advancedrandomnesslevel = 0;
         }
+
 
         this.nextQuestion();
     }
 
+
     nextQuestion() {
 
         let correct;
+
+
+        // Advanced randomness
+
         if (this.advancedrandomnesslevel === 3) {
 
-            if (this.previousquestions.length >= Math.ceil(this.items.length * 0.75)) {
+            if (
+                this.previousquestions.length >=
+                Math.ceil(this.items.length * 0.75)
+            ) {
                 this.previousquestions.shift();
             }
 
@@ -87,11 +103,14 @@ export class FourNamesQuiz {
             }
 
             this.previousquestions.push(correct);
-        }
 
-        else if (this.advancedrandomnesslevel === 2) {
 
-            if (this.previousquestions.length >= Math.ceil(this.items.length * 0.6)) {
+        } else if (this.advancedrandomnesslevel === 2) {
+
+            if (
+                this.previousquestions.length >=
+                Math.ceil(this.items.length * 0.6)
+            ) {
                 this.previousquestions.shift();
             }
 
@@ -102,25 +121,31 @@ export class FourNamesQuiz {
             }
 
             this.previousquestions.push(correct);
-        }
 
-        else if (this.advancedrandomnesslevel === 1) {
 
-            if (this.previousquestions.length >= Math.ceil(this.items.length * 0.5)) {
+        } else if (this.advancedrandomnesslevel === 1) {
+
+            if (
+                this.previousquestions.length >=
+                Math.ceil(this.items.length * 0.5)
+            ) {
                 this.previousquestions.shift();
             }
 
             correct = this.getRandomItem();
+
             while (this.previousquestions.includes(correct)) {
                 correct = this.getRandomItem();
             }
 
             this.previousquestions.push(correct);
-        }
 
-        else {
+
+        } else {
+
             correct = this.getRandomItem();
         }
+
 
         const options = [correct];
 
@@ -133,6 +158,7 @@ export class FourNamesQuiz {
             if (!options.includes(candidate)) {
                 options.push(candidate);
             }
+
             count++;
 
             if (count > 20) {
@@ -140,10 +166,10 @@ export class FourNamesQuiz {
             }
         }
 
+
         shuffle(options, correct);
 
-        this.flagImage.src = correct.flag;
-        this.flagImage.alt = correct.name;
+        this.name.textContent = correct.name;
 
         this.buttons.innerHTML = "";
 
@@ -151,17 +177,31 @@ export class FourNamesQuiz {
 
             const button = document.createElement("button");
 
-            button.className = "menu-button";
-            button.textContent = option.name;
+            button.className = "flag-answer-button";
+
+
+            const image = document.createElement("img");
+
+            image.src = option.flag;
+            image.alt = option.name;
+
+            image.className = "answer-flag";
+
+
+            button.appendChild(image);
+
 
             button.addEventListener("click", () => {
+
                 this.checkAnswer(option, correct);
+
             });
 
+
             this.buttons.appendChild(button);
-            window.addEventListener("resize", updateFontSize(button, 0.05))
         }
     }
+
 
     getRandomItem() {
 
@@ -170,13 +210,15 @@ export class FourNamesQuiz {
         ];
     }
 
+
     checkAnswer(option, correct) {
 
         if (option === correct) {
 
             this.score++;
 
-            this.scorelabel.textContent = `Score: ${this.score}`;
+            this.scorelabel.textContent =
+                `Score: ${this.score}`;
 
             this.nextQuestion();
 
@@ -184,22 +226,24 @@ export class FourNamesQuiz {
 
             this.hp--;
 
-            this.hplabel.textContent = `HP: ${this.hp}`;
+            this.hplabel.textContent =
+                `HP: ${this.hp}`;
 
-            if (this.hp == 0) {
+            if (this.hp === 0) {
 
                 this.deathScreen();
-
             }
         }
     }
+
 
     deathScreen() {
 
         document.getElementById("final-score").textContent =
             `Final Score: ${this.score}`;
 
-        const backButton = document.getElementById("back-to-menu");
+        const backButton =
+            document.getElementById("back-to-menu");
 
         backButton.onclick = () => {
             this.backToMenu();
@@ -207,6 +251,7 @@ export class FourNamesQuiz {
 
         showScreen("deathscreen");
     }
+
 
     backToMenu() {
 
