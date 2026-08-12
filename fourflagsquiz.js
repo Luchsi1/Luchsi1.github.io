@@ -21,6 +21,7 @@ export class FourFlagsQuiz {
         this.scorelabel = document.getElementById("score-fourflags");
         window.addEventListener("resize", updateFontSize(this.scorelabel, 0.02))
         this.hplabel = document.getElementById("hp-fourflags");
+        this.hplabel.textContent = `HP: ${this.hp}`;
         window.addEventListener("resize", updateFontSize(this.hplabel, 0.02))
         this.name = document.getElementById("name");
         window.addEventListener("resize", updateFontSize(this.name, 0.1))
