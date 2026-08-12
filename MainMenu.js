@@ -176,7 +176,7 @@ export class MainMenu {
 
             this.resetRegion();
 
-            const quiz = new FourNamesQuiz(region, quiztype);
+            const quiz = new FourNamesQuiz(region.toLowerCase(), quiztype);
 
             quiz.start();
         });
@@ -194,7 +194,7 @@ export class MainMenu {
 
             this.resetRegion();
 
-            const quiz = new FourFlagsQuiz(region, quiztype);
+            const quiz = new FourFlagsQuiz(region.toLowerCase(), quiztype);
 
             quiz.start();
         });
