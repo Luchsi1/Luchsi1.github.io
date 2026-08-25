@@ -1,7 +1,4 @@
-import { FourNamesQuiz } from "./fournamesquiz.js";
-import { FourFlagsQuiz } from "./fourflagsquiz.js";
 import { Quiz } from "./quiz.js";
-import { showScreen } from "./showScreen.js";
 import { updateFontSize } from "./updateFontSize.js";
 
 
