@@ -1,5 +1,6 @@
 import { FourNamesQuiz } from "./fournamesquiz.js";
 import { FourFlagsQuiz } from "./fourflagsquiz.js";
+import { Quiz } from "./quiz.js";
 import { showScreen } from "./showScreen.js";
 import { updateFontSize } from "./updateFontSize.js";
 
@@ -175,9 +176,13 @@ export class MainMenu {
         fournamesquizbtn.addEventListener("click", () => {
 
             this.resetRegion();
-
-            const quiz = new FourNamesQuiz(region.toLowerCase(), quiztype);
-
+            let quiz;
+            if (quiztype === "capitals") {
+                quiz = new Quiz(region.toLowerCase(), "image-names", "image", "name", quiztype, "flag", "capitals");
+            } else {
+                quiz = new Quiz(region.toLowerCase(), "image-names", "image", "name", quiztype, "flag", "name");
+            }
+            
             quiz.start();
         });
 
@@ -193,8 +198,12 @@ export class MainMenu {
         fourflagsquizbtn.addEventListener("click", () => {
 
             this.resetRegion();
-
-            const quiz = new FourFlagsQuiz(region.toLowerCase(), quiztype);
+            let quiz;
+            if (quiztype === "capitals") {
+                quiz = new Quiz(region.toLowerCase(), "name-images", "name", "image", quiztype, "cpaitals", "flag");
+            } else {
+                quiz = new Quiz(region.toLowerCase(), "name-images", "name", "image", quiztype, "name", "flag");
+            }
 
             quiz.start();
         });

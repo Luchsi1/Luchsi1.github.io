@@ -85,9 +85,6 @@ export class FourFlagsQuiz {
 
         let correct;
 
-
-        // Advanced randomness
-
         if (this.advancedrandomnesslevel === 3) {
 
             if (

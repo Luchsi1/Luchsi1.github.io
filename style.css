@@ -91,7 +91,7 @@ body {
 }
 
 
-#score-fournames {
+#score-image-names {
     width: 100%;
     height: 6vh;
 
@@ -108,7 +108,7 @@ body {
     text-align: center;
 }
 
-#hp-fournames {
+#hp-image-names {
     width: 100%;
     height: 6vh;
 
@@ -125,7 +125,7 @@ body {
     text-align: center;
 }
 
-#score-fourflags {
+#score-image-images {
     width: 100%;
     height: 6vh;
 
@@ -142,7 +142,7 @@ body {
     text-align: center;
 }
 
-#hp-fourflags {
+#hp-image-images {
     width: 100%;
     height: 6vh;
 
@@ -159,7 +159,76 @@ body {
     text-align: center;
 }
 
-#flag {
+#score-name-names {
+    width: 100%;
+    height: 6vh;
+
+    background-color: rgb(25, 25, 25);
+    color: white;
+
+    border: 1px solid rgb(150, 150, 150);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 20px;
+    text-align: center;
+}
+
+#hp-name-names {
+    width: 100%;
+    height: 6vh;
+
+    background-color: rgb(25, 25, 25);
+    color: white;
+
+    border: 1px solid rgb(150, 150, 150);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 20px;
+    text-align: center;
+}
+
+#score-name-images {
+    width: 100%;
+    height: 6vh;
+
+    background-color: rgb(25, 25, 25);
+    color: white;
+
+    border: 1px solid rgb(150, 150, 150);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 20px;
+    text-align: center;
+}
+
+#hp-name-images {
+    width: 100%;
+    height: 6vh;
+
+    background-color: rgb(25, 25, 25);
+    color: white;
+
+    border: 1px solid rgb(150, 150, 150);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 20px;
+    text-align: center;
+}
+
+#questionsimage-names,
+#questionsimage-images {
     height: 33vh;
     width: 100%;
 
@@ -171,13 +240,15 @@ body {
 
     background-color: rgb(10, 10, 10);
 }
-#flag img {
+#questionsimage-names img,
+#questionsimage-images img {
     max-width: 90vw;
     max-height: 30vh;
     object-fit: contain;
 }
 
-#answerbuttonsnames {
+#answerbuttonsimage-names,
+#answerbuttonsname-names {
     padding: 5px;
     width: 100%;
     height: 55vh;
@@ -194,7 +265,8 @@ body {
 }
 
 
-#name {
+#questionsname-names,
+#questionsname-images {
     width: 100%;
     height: 33vh;
 
@@ -211,7 +283,8 @@ body {
     text-align: center;
 }
 
-#answerbuttonsflags {
+#answerbuttonsimage-images,
+#answerbuttonsname-images {
     width: 100%;
     height: 55vh;
 
@@ -230,7 +303,8 @@ body {
     overflow: hidden;
 }
 
-.flag-answer-button {
+.flag-answer-button,
+.image-answer-button {
     min-width: 0;
     min-height: 0;
 
@@ -249,7 +323,8 @@ body {
     overflow: hidden;
 }
 
-.answer-flag {
+.answer-flag,
+.answer-image {
     max-width: 85%;
     max-height: 75%;
 
