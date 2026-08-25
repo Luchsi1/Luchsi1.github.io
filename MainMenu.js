@@ -175,7 +175,7 @@ export class MainMenu {
             this.resetRegion();
             let quiz;
             if (quiztype === "capitals") {
-                quiz = new Quiz(region.toLowerCase(), "image-names", "image", "name", quiztype, "flag", "capitals");
+                quiz = new Quiz(region.toLowerCase(), "image-names", "image", "name", quiztype, "flag", "capital");
             } else {
                 quiz = new Quiz(region.toLowerCase(), "image-names", "image", "name", quiztype, "flag", "name");
             }
@@ -197,7 +197,7 @@ export class MainMenu {
             this.resetRegion();
             let quiz;
             if (quiztype === "capitals") {
-                quiz = new Quiz(region.toLowerCase(), "name-images", "name", "image", quiztype, "cpaitals", "flag");
+                quiz = new Quiz(region.toLowerCase(), "name-images", "name", "image", quiztype, "capital", "flag");
             } else {
                 quiz = new Quiz(region.toLowerCase(), "name-images", "name", "image", quiztype, "name", "flag");
             }

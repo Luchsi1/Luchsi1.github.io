@@ -52,14 +52,9 @@ export class Quiz {
 
     async start() {
 
-        if (this.level === "countries") {
+        if (this.level === "countries" || this.level === "capitals") {
 
             this.items = await fetch(`options/regions/${this.region}.json`)
-                .then(response => response.json());
-
-        } else if (this.level === "capitals") {
-
-            this.items = await fetch(`options/capitals/${this.region} capitals.json`)
                 .then(response => response.json());
 
         } else if (this.level === "firstlevel") {
@@ -175,7 +170,7 @@ export class Quiz {
             }
             this.questionimage.alt = correct.name;
         } else {
-            this.questionlabel.textContent = correct.name;
+            this.questionlabel.textContent = correct[this.questiontypetype];
         }
 
         this.buttons.innerHTML = "";
@@ -221,7 +216,7 @@ export class Quiz {
                 const button = document.createElement("button");
 
                 button.className = "menu-button";
-                button.textContent = option.name;
+                button.textContent = option[this.answertypetype];
 
                 button.addEventListener("click", () => {
                     button.disabled = true;
