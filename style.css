@@ -279,7 +279,7 @@ body {
     justify-content: center;
     align-items: center;
 
-    font-size: 75px;
+    font-size: clamp(10px, 7vw, 100px);
     text-align: center;
 }
 
