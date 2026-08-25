@@ -1,70 +1,86 @@
 [
     {
         "name": "Andorra",
+        "capital": "Andorra La Vella",
         "flag": "flags/countries/Andorra.png"
     },
     {
         "name": "Portugal",
+        "capital": "Lissabon",
         "flag": "flags/countries/Portugal.png"
     },
     {
         "name": "Spain",
+        "capital": "Madrid",
         "flag": "flags/countries/Spain.png"
     },
 
 
     {
         "name": "Italy",
+        "capital": "Rom",
         "flag": "flags/countries/Italy.png"
     },
     {
         "name": "Malta",
+        "capital": "Valletta",
         "flag": "flags/countries/Malta.png"
     },
     {
         "name": "San Marino",
+        "capital": "San Marino",
         "flag": "flags/countries/San Marino.png"
     },
     {
         "name": "Vatican City",
+        "capital": "Vatikanstadt",
         "flag": "flags/countries/Vatican City.png"
     },
 
 
     {
         "name": "Albania",
+        "capital": "Tirana",
         "flag": "flags/countries/Albania.png"
     },
     {
         "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
         "flag": "flags/countries/Bosnia and Herzegovina.png"
     },
     {
         "name": "Croatia",
+        "capital": "Zagreb",
         "flag": "flags/countries/Croatia.png"
     },
     {
         "name": "Greece",
+        "capital": "Athen",
         "flag": "flags/countries/Greece.png"
     },
     {
         "name": "Kosvo",
+        "capital": "Priština",
         "flag": "flags/countries/Kosovo.png"
     },
     {
         "name": "Montenegro",
+        "capital": "Podgorica",
         "flag": "flags/countries/Montenegro.png"
     },
     {
         "name": "North Macedonia",
+        "capital": "Skopje",
         "flag": "flags/countries/North Macedonia.png"
     },
     {
         "name": "Serbia",
+        "capital": "Belgrad",
         "flag": "flags/countries/Serbia.png"
     },
     {
         "name": "Slovenia",
+        "capital": "Ljubljana",
         "flag": "flags/countries/Slovenia.png"
     }
 ]

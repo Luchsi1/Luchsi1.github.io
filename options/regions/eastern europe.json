@@ -1,46 +1,56 @@
 [
     {
         "name": "Czech Republic",
+        "capital": "Prag",
         "flag": "flags/countries/Czech Republic.png"
     },
     {
         "name": "Hungary",
+        "capital": "Budapest",
         "flag": "flags/countries/Hungary.png"
     },
     {
         "name": "Poland",
+        "capital": "Warschau",
         "flag": "flags/countries/Poland.png"
     },
     {
         "name": "Slovakia",
+        "capital": "Bratislava",
         "flag": "flags/countries/Slovakia.png"
     },
 
 
     {
         "name": "Bulgaria",
+        "capital": "Sofia",
         "flag": "flags/countries/Bulgaria.png"
     },
     {
         "name": "Moldova",
+        "capital": "Chișinău",
         "flag": "flags/countries/Moldova.png"
     },
     {
         "name": "Romania",
+        "capital": "Bukarest",
         "flag": "flags/countries/Romania.png"
     },
     {
         "name": "Ukraine",
+        "capital": "Kiew",
         "flag": "flags/countries/Ukraine.png"
     },
 
 
     {
         "name": "Belarus",
+        "capital": "Minsk",
         "flag": "flags/countries/Belarus.png"
     },
     {
         "name": "Russia",
+        "capital": "Moskau",
         "flag": "flags/countries/Russia.png"
     }
 ]

@@ -1,18 +1,22 @@
 [
     {
         "name": "Fiji",
+        "capital": "Suva",
         "flag": "flags/countries/Fiji.png"
     },
     {
         "name": "Papua New Guinea",
+        "capital": "Port Moresby",
         "flag": "flags/countries/Papua New Guinea.png"
     },
     {
         "name": "Solomon Islands",
+        "capital": "Honiara",
         "flag": "flags/countries/Solomon Islands.png"
     },
     {
         "name": "Vanuatu",
+        "capital": "Port Vila",
         "flag": "flags/countries/Vanuatu.png"
     }
 ]

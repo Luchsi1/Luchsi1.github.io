@@ -1,76 +1,93 @@
 [
     {
         "name": "Djibouti",
+        "capital": "Dschibuti",
         "flag": "flags/countries/Djibouti.png"
     },
     {
         "name": "Eritrea",
+        "capital": "Asmara",
         "flag": "flags/countries/Eritrea.png"
     },
     {
         "name": "Ethiopia",
+        "capital": "Addis Abeba",
         "flag": "flags/countries/Ethiopia.png"
     },
     {
         "name": "Somalia",
+        "capital": "Mogadischu",
         "flag": "flags/countries/Somalia.png"
     },
 
 
     {
         "name": "Burundi",
+        "capital": "Gitega",
         "flag": "flags/countries/Burundi.png"
     },
     {
         "name": "Kenya",
+        "capital": "Nairobi",
         "flag": "flags/countries/Kenya.png"
     },
     {
         "name": "Rwanda",
+        "capital": "Kigali",
         "flag": "flags/countries/Rwanda.png"
     },
     {
         "name": "South Sudan",
+        "capital": "Juba",
         "flag": "flags/countries/South Sudan.png"
     },
     {
         "name": "Tanzania",
+        "capital": "Dodoma",
         "flag": "flags/countries/Tanzania.png"
     },
     {
         "name": "Uganda",
+        "capital": "Kampala",
         "flag": "flags/countries/Uganda.png"
     },
 
 
     {
         "name": "Malawi",
+        "capital": "Lilongwe",
         "flag": "flags/countries/Malawi.png"
     },
     {
         "name": "Mozambique",
+        "capital": "Maputo",
         "flag": "flags/countries/Mozambique.png"
     },
     {
         "name": "Zimbabwe",
+        "capital": "Harare",
         "flag": "flags/countries/Zimbabwe.png"
     },
 
     
     {
         "name": "Comores",
+        "capital": "Moroni",
         "flag": "flags/countries/Comores.png"
     },
     {
         "name": "Madagascar",
+        "capital": "Antananarivo",
         "flag": "flags/countries/Madagascar.png"
     },
     {
         "name": "Mauritius",
+        "capital": "Port Louis",
         "flag": "flags/countries/Mauritius.png"
     },
     {
         "name": "Seychelles",
+        "capital": "Victoria",
         "flag": "flags/countries/Seychelles.png"
     }
 ]

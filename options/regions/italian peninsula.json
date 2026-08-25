@@ -1,18 +1,22 @@
 [
     {
         "name": "Italy",
+        "capital": "Rom",
         "flag": "flags/countries/Italy.png"
     },
     {
         "name": "Malta",
+        "capital": "Valletta",
         "flag": "flags/countries/Malta.png"
     },
     {
         "name": "San Marino",
+        "capital": "San Marino",
         "flag": "flags/countries/San Marino.png"
     },
     {
         "name": "Vatican City",
+        "capital": "Vatikanstadt",
         "flag": "flags/countries/Vatican City.png"
     }
 ]

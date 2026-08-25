@@ -1,34 +1,42 @@
 [
     {
         "name": "Belize",
+        "capital": "Belmopan",
         "flag": "flags/countries/Belize.png"
     },
     {
         "name": "Costa Rica",
+        "capital": "San José",
         "flag": "flags/countries/Costa Rica.png"
     },
     {
         "name": "El Salvador",
+        "capital": "San Salvador",
         "flag": "flags/countries/El Salvador.png"
     },
     {
         "name": "Guatemala",
+        "capital": "Guatemal-Stadt",
         "flag": "flags/countries/Guatemala.png"
     },
     {
         "name": "Honduras",
+        "capital": "Tegucigalpa",
         "flag": "flags/countries/Honduras.png"
     },
     {
         "name": "Mexico",
+        "capital": "Mexiko-Stadt",
         "flag": "flags/countries/Mexico.png"
     },
     {
         "name": "Nicaragua",
+        "capital": "Managua",
         "flag": "flags/countries/Nicaragua.png"
     },
     {
         "name": "Panama",
+        "capital": "Panama-Stadt",
         "flag": "flags/countries/Panama.png"
     }
 ]

@@ -1,48 +1,59 @@
 [
     {
         "name": "Cambodia",
+        "capital": "Phnom Penh",
         "flag": "flags/countries/Cambodia.png"
     },
     {
         "name": "Laos",
+        "capital": "Vientiane",
         "flag": "flags/countries/Laos.png"
     },
     {
         "name": "Myanmar",
+        "capital": "Naypyidaw",
         "flag": "flags/countries/Myanmar.png"
     },
     {
         "name": "Thailand",
+        "capital": "Bangkok",
         "flag": "flags/countries/Thailand.png"
     },
     {
         "name": "Vietnam",
+        "capital": "Hanoi",
         "flag": "flags/countries/Vietnam.png"
     },
 
 
     {
         "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
         "flag": "flags/countries/Brunei.png"
     },
     {
         "name": "Indonesia",
+        "capital": "Jakarta",
         "flag": "flags/countries/Indonesia.png"
     },
     {
         "name": "Malaysia",
+        "capital": "Kuala Lumpur",
         "flag": "flags/countries/Malaysia.png"
     },
     {
         "name": "Philippines",
+        "capital": "Manila",
         "flag": "flags/countries/Philippines.png"
     },
     {
         "name": "Singapore",
+        "capital": "Singapur",
         "flag": "flags/countries/Singapore.png"
     },
     {
         "name": "Timor-Leste",
+        "capital": "Dili",
         "flag": "flags/countries/Timor-Leste.png"
     }
 ]

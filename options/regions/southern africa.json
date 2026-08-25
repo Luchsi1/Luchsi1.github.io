@@ -1,26 +1,32 @@
 [
     {
         "name": "Botswana",
+        "capital": "Gaborone",
         "flag": "flags/countries/Botswana.png"
     },
     {
         "name": "Eswatini",
+        "capital": "Mbabane",
         "flag": "flags/countries/Eswatini.png"
     },
     {
         "name": "Lesotho",
+        "capital": "Maseru",
         "flag": "flags/countries/Lesotho.png"
     },
     {
         "name": "Namibia",
+        "capital": "Windhoek",
         "flag": "flags/countries/Namibia.png"
     },
     {
         "name": "South Africa",
+        "capital": "Pretoria",
         "flag": "flags/countries/South Africa.png"
     },
     {
         "name": "Zambia",
+        "capital": "Lusaka",
         "flag": "flags/countries/Zambia.png"
     }
 ]

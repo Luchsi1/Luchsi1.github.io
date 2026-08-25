@@ -1,14 +1,17 @@
 [
     {
         "name": "Estonia",
+        "capital": "Tallinn",
         "flag": "flags/countries/Estonia.png"
     },
     {
         "name": "Latvia",
+        "capital": "Riga",
         "flag": "flags/countries/Latvia.png"
     },
     {
         "name": "Lithuania",
+        "capital": "Vilnius",
         "flag": "flags/countries/Lithuania.png"
     }
 ]

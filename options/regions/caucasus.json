@@ -1,14 +1,17 @@
 [
     {
         "name": "Armenia",
+        "capital": "Jerewan",
         "flag": "flags/countries/Armenia.png"
     },
     {
         "name": "Azerbaijan",
+        "capital": "Baku",
         "flag": "flags/countries/Azerbaijan.png"
     },
     {
         "name": "Georgia",
+        "capital": "Tiflis",
         "flag": "flags/countries/Georgia.png"
     }
 ]

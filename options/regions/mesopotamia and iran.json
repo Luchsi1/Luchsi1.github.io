@@ -1,14 +1,17 @@
 [
     {
         "name": "Iran",
+        "capital": "Teheran",
         "flag": "flags/countries/Iran.png"
     },
     {
         "name": "Iraq",
+        "capital": "Bagdad",
         "flag": "flags/countries/Iraq.png"
     },
     {
         "name": "Türkiye",
+        "capital": "Ankara",
         "flag": "flags/countries/Türkiye.png"
     }
 ]

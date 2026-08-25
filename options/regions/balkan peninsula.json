@@ -1,38 +1,47 @@
 [
     {
         "name": "Albania",
+        "capital": "Tirana",
         "flag": "flags/countries/Albania.png"
     },
     {
         "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
         "flag": "flags/countries/Bosnia and Herzegovina.png"
     },
     {
         "name": "Croatia",
+        "capital": "Zagreb",
         "flag": "flags/countries/Croatia.png"
     },
     {
         "name": "Greece",
+        "capital": "Athen",
         "flag": "flags/countries/Greece.png"
     },
     {
         "name": "Kosvo",
+        "capital": "Priština",
         "flag": "flags/countries/Kosovo.png"
     },
     {
         "name": "Montenegro",
+        "capital": "Podgorica",
         "flag": "flags/countries/Montenegro.png"
     },
     {
         "name": "North Macedonia",
+        "capital": "Skopje",
         "flag": "flags/countries/North Macedonia.png"
     },
     {
         "name": "Serbia",
+        "capital": "Belgrad",
         "flag": "flags/countries/Serbia.png"
     },
     {
         "name": "Slovenia",
+        "capital": "Ljubljana",
         "flag": "flags/countries/Slovenia.png"
     }
 ]

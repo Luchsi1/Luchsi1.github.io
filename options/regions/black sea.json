@@ -1,18 +1,22 @@
 [
     {
         "name": "Bulgaria",
+        "capital": "Sofia",
         "flag": "flags/countries/Bulgaria.png"
     },
     {
         "name": "Moldova",
+        "capital": "Chișinău",
         "flag": "flags/countries/Moldova.png"
     },
     {
         "name": "Romania",
+        "capital": "Bukarest",
         "flag": "flags/countries/Romania.png"
     },
     {
         "name": "Ukraine",
+        "capital": "Kiew",
         "flag": "flags/countries/Ukraine.png"
     }
 ]

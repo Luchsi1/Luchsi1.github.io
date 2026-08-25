@@ -1,52 +1,64 @@
 [
     {
         "name": "Bolivia",
+        "capital": "Sucre",
         "flag": "flags/countries/Bolivia.png"
     },
     {
         "name": "Brazil",
+        "capital": "Brasília",
         "flag": "flags/countries/Brazil.png"
     },
     {
         "name": "Colombia",
+        "capital": "Bogotá",
         "flag": "flags/countries/Colombia.png"
     },
     {
         "name": "Ecuador",
+        "capital": "Quito",
         "flag": "flags/countries/Ecuador.png"
     },
     {
         "name": "Guyana",
+        "capital": "Georgetown",
         "flag": "flags/countries/Guyana.png"
     },
     {
         "name": "Peru",
+        "capital": "Lima",
         "flag": "flags/countries/Peru.png"
     },
     {
         "name": "Suriname",
+        "capital": "Paramaribo",
         "flag": "flags/countries/Suriname.png"
     },
     {
         "name": "Venezuela",
+        "capital": "Caracas",
         "flag": "flags/countries/Venezuela.png"
     },
 
 
     {
         "name": "Argentina",
+        "capital": "Buenos Aires",
         "flag": "flags/countries/Argentina.png"
     },
     {
         "name": "Chile",
+        "capital": "Santiago",
         "flag": "flags/countries/Chile.png"
     },
     {
         "name": "Paraguay",
+        "capital": "Asunción",
         "flag": "flags/countries/Paraguay.png"
     },
     {
         "name": "Uruguay",
+        "capital": "Montevideo",
         "flag": "flags/countries/Uruguay.png"
     }
 ]

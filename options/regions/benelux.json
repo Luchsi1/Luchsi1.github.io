@@ -1,14 +1,17 @@
 [
     {
         "name": "Belgium",
+        "capital": "Brüssel",
         "flag": "flags/countries/Belgium.png"
     },
     {
         "name": "Luxembourg",
+        "capital": "Luxemburg",
         "flag": "flags/countries/Luxembourg.png"
     },
     {
         "name": "Netherlands",
+        "capital": "Amsterdam",
         "flag": "flags/countries/Netherlands.png"
     }
 ]

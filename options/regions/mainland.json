@@ -1,22 +1,27 @@
 [
     {
         "name": "Cambodia",
+        "capital": "Phnom Penh",
         "flag": "flags/countries/Cambodia.png"
     },
     {
         "name": "Laos",
+        "capital": "Vientiane",
         "flag": "flags/countries/Laos.png"
     },
     {
         "name": "Myanmar",
+        "capital": "Naypyidaw",
         "flag": "flags/countries/Myanmar.png"
     },
     {
         "name": "Thailand",
+        "capital": "Bangkok",
         "flag": "flags/countries/Thailand.png"
     },
     {
         "name": "Vietnam",
+        "capital": "Hanoi",
         "flag": "flags/countries/Vietnam.png"
     }
 ]

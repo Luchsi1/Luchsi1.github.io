@@ -1,18 +1,22 @@
 [
     {
         "name": "Djibouti",
+        "capital": "Dschibuti",
         "flag": "flags/countries/Djibouti.png"
     },
     {
         "name": "Eritrea",
+        "capital": "Asmara",
         "flag": "flags/countries/Eritrea.png"
     },
     {
         "name": "Ethiopia",
+        "capital": "Addis Abeba",
         "flag": "flags/countries/Ethiopia.png"
     },
     {
         "name": "Somalia",
+        "capital": "Mogadischu",
         "flag": "flags/countries/Somalia.png"
     }
 ]

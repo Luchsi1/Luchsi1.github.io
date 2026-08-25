@@ -1,52 +1,63 @@
 [
     {
         "name": "Belgium",
+        "capital": "Brüssel",
         "flag": "flags/countries/Belgium.png"
     },
     {
         "name": "Luxembourg",
+        "capital": "Luxemburg",
         "flag": "flags/countries/Luxembourg.png"
     },
     {
         "name": "Netherlands",
+        "capital": "Amsterdam",
         "flag": "flags/countries/Netherlands.png"
     },
 
 
     {
         "name": "Austria",
+        "capital": "Wien",
         "flag": "flags/countries/Austria.png"
     },
     {
         "name": "Liechtenstein",
+        "capital": "Vaduz",
         "flag": "flags/countries/Liechtenstein.png"
     },
     {
         "name": "Switzerland",
+        "capital": "Bern",
         "flag": "flags/countries/Switzerland.png"
     },
 
 
     {
         "name": "France",
+        "capital": "Paris",
         "flag": "flags/countries/France.png"
     },
     {
         "name": "Germany",
+        "capital": "Berlin",
         "flag": "flags/countries/Germany.png"
     },
     {
         "name": "Monaco",
+        "capital": "Monaco",
         "flag": "flags/countries/Monaco.png"
     },
 
     
     {
         "name": "Ireland",
+        "capital": "Dublin",
         "flag": "flags/countries/Ireland.png"
     },
     {
         "name": "United Kingdom",
+        "capital": "London",
         "flag": "flags/countries/United Kingdom.png"
     }
 ]

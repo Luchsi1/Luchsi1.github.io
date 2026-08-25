@@ -1,10 +1,12 @@
 [
     {
         "name": "Australia",
+        "capital": "Canberra",
         "flag": "flags/countries/Australia.png"
     },
     {
         "name": "New Zealand",
+        "capital": "Wellington",
         "flag": "flags/countries/New Zealand.png"
     }
 ]

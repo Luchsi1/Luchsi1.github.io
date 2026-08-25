@@ -1,36 +1,44 @@
 [
     {
         "name": "Denmark",
+        "capital": "Kopenhagen",
         "flag": "flags/countries/Denmark.png"
     },
     {
         "name": "Finland",
+        "capital": "Helsinki",
         "flag": "flags/countries/Finland.png"
     },
     {
         "name": "Iceland",
+        "capital": "Reykjavik",
         "flag": "flags/countries/Iceland.png"
     },
     {
         "name": "Norway",
+        "capital": "Oslo",
         "flag": "flags/countries/Norway.png"
     },
     {
         "name": "Sweden",
+        "capital": "Stockholm",
         "flag": "flags/countries/Sweden.png"
     },
 
 
     {
         "name": "Estonia",
+        "capital": "Tallinn",
         "flag": "flags/countries/Estonia.png"
     },
     {
         "name": "Latvia",
+        "capital": "Riga",
         "flag": "flags/countries/Latvia.png"
     },
     {
         "name": "Lithuania",
+        "capital": "Vilnius",
         "flag": "flags/countries/Lithuania.png"
     },
 
@@ -38,52 +46,63 @@
 
     {
         "name": "Belgium",
+        "capital": "Brüssel",
         "flag": "flags/countries/Belgium.png"
     },
     {
         "name": "Luxembourg",
+        "capital": "Luxemburg",
         "flag": "flags/countries/Luxembourg.png"
     },
     {
         "name": "Netherlands",
+        "capital": "Amsterdam",
         "flag": "flags/countries/Netherlands.png"
     },
 
 
     {
         "name": "Austria",
+        "capital": "Wien",
         "flag": "flags/countries/Austria.png"
     },
     {
         "name": "Liechtenstein",
+        "capital": "Vaduz",
         "flag": "flags/countries/Liechtenstein.png"
     },
     {
         "name": "Switzerland",
+        "capital": "Bern",
         "flag": "flags/countries/Switzerland.png"
     },
 
 
     {
         "name": "France",
+        "capital": "Paris",
         "flag": "flags/countries/France.png"
     },
     {
         "name": "Germany",
+        "capital": "Berlin",
         "flag": "flags/countries/Germany.png"
     },
     {
         "name": "Monaco",
+        "capital": "Monaco",
         "flag": "flags/countries/Monaco.png"
     },
 
     
     {
         "name": "Ireland",
+        "capital": "Dublin",
         "flag": "flags/countries/Ireland.png"
     },
     {
         "name": "United Kingdom",
+        "capital": "London",
         "flag": "flags/countries/United Kingdom.png"
     },
 
@@ -91,70 +110,86 @@
 
     {
         "name": "Andorra",
+        "capital": "Andorra La Vella",
         "flag": "flags/countries/Andorra.png"
     },
     {
         "name": "Portugal",
+        "capital": "Lissabon",
         "flag": "flags/countries/Portugal.png"
     },
     {
         "name": "Spain",
+        "capital": "Madrid",
         "flag": "flags/countries/Spain.png"
     },
 
 
     {
         "name": "Italy",
+        "capital": "Rom",
         "flag": "flags/countries/Italy.png"
     },
     {
         "name": "Malta",
+        "capital": "Valletta",
         "flag": "flags/countries/Malta.png"
     },
     {
         "name": "San Marino",
+        "capital": "San Marino",
         "flag": "flags/countries/San Marino.png"
     },
     {
         "name": "Vatican City",
+        "capital": "Vatikanstadt",
         "flag": "flags/countries/Vatican City.png"
     },
 
 
     {
         "name": "Albania",
+        "capital": "Tirana",
         "flag": "flags/countries/Albania.png"
     },
     {
         "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
         "flag": "flags/countries/Bosnia and Herzegovina.png"
     },
     {
         "name": "Croatia",
+        "capital": "Zagreb",
         "flag": "flags/countries/Croatia.png"
     },
     {
         "name": "Greece",
+        "capital": "Athen",
         "flag": "flags/countries/Greece.png"
     },
     {
         "name": "Kosvo",
+        "capital": "Priština",
         "flag": "flags/countries/Kosovo.png"
     },
     {
         "name": "Montenegro",
+        "capital": "Podgorica",
         "flag": "flags/countries/Montenegro.png"
     },
     {
         "name": "North Macedonia",
+        "capital": "Skopje",
         "flag": "flags/countries/North Macedonia.png"
     },
     {
         "name": "Serbia",
+        "capital": "Belgrad",
         "flag": "flags/countries/Serbia.png"
     },
     {
         "name": "Slovenia",
+        "capital": "Ljubljana",
         "flag": "flags/countries/Slovenia.png"
     },
 
@@ -162,46 +197,56 @@
 
     {
         "name": "Czech Republic",
+        "capital": "Prag",
         "flag": "flags/countries/Czech Republic.png"
     },
     {
         "name": "Hungary",
+        "capital": "Budapest",
         "flag": "flags/countries/Hungary.png"
     },
     {
         "name": "Poland",
+        "capital": "Warschau",
         "flag": "flags/countries/Poland.png"
     },
     {
         "name": "Slovakia",
+        "capital": "Bratislava",
         "flag": "flags/countries/Slovakia.png"
     },
 
 
     {
         "name": "Bulgaria",
+        "capital": "Sofia",
         "flag": "flags/countries/Bulgaria.png"
     },
     {
         "name": "Moldova",
+        "capital": "Chișinău",
         "flag": "flags/countries/Moldova.png"
     },
     {
         "name": "Romania",
+        "capital": "Bukarest",
         "flag": "flags/countries/Romania.png"
     },
     {
         "name": "Ukraine",
+        "capital": "Kiew",
         "flag": "flags/countries/Ukraine.png"
     },
 
 
     {
         "name": "Belarus",
+        "capital": "Minsk",
         "flag": "flags/countries/Belarus.png"
     },
     {
         "name": "Russia",
+        "capital": "Moskau",
         "flag": "flags/countries/Russia.png"
     }
 ]

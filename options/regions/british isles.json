@@ -1,10 +1,12 @@
 [
     {
         "name": "Ireland",
+        "capital": "Dublin",
         "flag": "flags/countries/Ireland.png"
     },
     {
         "name": "United Kingdom",
+        "capital": "London",
         "flag": "flags/countries/United Kingdom.png"
     }
 ]

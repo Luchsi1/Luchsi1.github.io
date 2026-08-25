@@ -1,22 +1,27 @@
 [
     {
         "name": "Burkina Faso",
+        "capital": "Ouagadougou",
         "flag": "flags/countries/Burkina Faso.png"
     },
     {
         "name": "Mali",
+        "capital": "Bamako",
         "flag": "flags/countries/Mali.png"
     },
     {
         "name": "Mauritania",
+        "capital": "Nouakchott",
         "flag": "flags/countries/Mauritania.png"
     },
     {
         "name": "Niger",
+        "capital": "Niamey",
         "flag": "flags/countries/Niger.png"
     },
     {
         "name": "Nigeria",
+        "capital": "Abuja",
         "flag": "flags/countries/Nigeria.png"
     }
 ]

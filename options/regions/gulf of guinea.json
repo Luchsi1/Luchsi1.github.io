@@ -1,22 +1,27 @@
 [
     {
         "name": "Benin",
+        "capital": "Porto-Novo",
         "flag": "flags/countries/Benin.png"
     },
     {
         "name": "Côte d'Ivoire",
+        "capital": "Yamoussoukro",
         "flag": "flags/countries/Côte d'Ivoire.png"
     },
     {
         "name": "Ghana",
+        "capital": "Accra",
         "flag": "flags/countries/Ghana.png"
     },
     {
         "name": "Liberia",
+        "capital": "Monrovia",
         "flag": "flags/countries/Liberia.png"
     },
     {
         "name": "Togo",
+        "capital": "Lomé",
         "flag": "flags/countries/Togo.png"
     }
 ]

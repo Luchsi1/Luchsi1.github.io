@@ -1,26 +1,32 @@
 [
     {
         "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
         "flag": "flags/countries/Brunei.png"
     },
     {
         "name": "Indonesia",
+        "capital": "Jakarta",
         "flag": "flags/countries/Indonesia.png"
     },
     {
         "name": "Malaysia",
+        "capital": "Kuala Lumpur",
         "flag": "flags/countries/Malaysia.png"
     },
     {
         "name": "Philippines",
+        "capital": "Manila",
         "flag": "flags/countries/Philippines.png"
     },
     {
         "name": "Singapore",
+        "capital": "Singapur",
         "flag": "flags/countries/Singapore.png"
     },
     {
         "name": "Timor-Leste",
+        "capital": "Dili",
         "flag": "flags/countries/Timor-Leste.png"
     }
 ]

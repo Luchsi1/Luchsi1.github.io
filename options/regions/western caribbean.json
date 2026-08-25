@@ -1,22 +1,27 @@
 [
     {
         "name": "Bahamas",
+        "capital": "Nassau",
         "flag": "flags/countries/Bahamas.png"
     },
     {
         "name": "Cuba",
+        "capital": "Havanna",
         "flag": "flags/countries/Cuba.png"
     },
     {
         "name": "Dominican Republic",
+        "capital": "Santo Domingo",
         "flag": "flags/countries/Dominican Republic.png"
     },
     {
         "name": "Haiti",
+        "capital": "Port-au-Prince",
         "flag": "flags/countries/Haiti.png"
     },
     {
         "name": "Jamaica",
+        "capital": "Kingston",
         "flag": "flags/countries/Jamaica.png"
     }
 ]

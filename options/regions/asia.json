@@ -1,84 +1,103 @@
 [
     {
         "name": "Armenia",
+        "capital": "Jerewan",
         "flag": "flags/countries/Armenia.png"
     },
     {
         "name": "Azerbaijan",
+        "capital": "Baku",
         "flag": "flags/countries/Azerbaijan.png"
     },
     {
         "name": "Georgia",
+        "capital": "Tiflis",
         "flag": "flags/countries/Georgia.png"
     },
 
 
     {
         "name": "Israel",
+        "capital": "Jerusalem",
         "flag": "flags/countries/Israel.png"
     },
     {
         "name": "Jordan",
+        "capital": "Amman",
         "flag": "flags/countries/Jordan.png"
     },
     {
         "name": "Lebanon",
+        "capital": "Beirut",
         "flag": "flags/countries/Lebanon.png"
     },
     {
         "name": "Palestine",
+        "capital": "Ramallah",
         "flag": "flags/countries/Palestine.png"
     },
     {
         "name": "Syria",
+        "capital": "Damaskus",
         "flag": "flags/countries/Syria.png"
     },
     {
         "name": "Cyprus",
+        "capital": "Nikosia",
         "flag": "flags/countries/Cyprus.png"
     },
 
     
     {
         "name": "Bahrain",
+        "capital": "Manama",
         "flag": "flags/countries/Bahrain.png"
     },
     {
         "name": "Kuwait",
+        "capital": "Kuwait-Stadt",
         "flag": "flags/countries/Kuwait.png"
     },
     {
         "name": "Oman",
+        "capital": "Maskat",
         "flag": "flags/countries/Oman.png"
     },
     {
         "name": "Qatar",
+        "capital": "Doha",
         "flag": "flags/countries/Qatar.png"
     },
     {
         "name": "Saudi Arabia",
+        "capital": "Riad",
         "flag": "flags/countries/Saudi Arabia.png"
     },
     {
         "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
         "flag": "flags/countries/United Arab Emirates.png"
     },
     {
         "name": "Yemen",
+        "capital": "Sanaa",
         "flag": "flags/countries/Yemen.png"
     },
 
     
     {
         "name": "Iran",
+        "capital": "Teheran",
         "flag": "flags/countries/Iran.png"
     },
     {
         "name": "Iraq",
+        "capital": "Bagdad",
         "flag": "flags/countries/Iraq.png"
     },
     {
         "name": "Türkiye",
+        "capital": "Ankara",
         "flag": "flags/countries/Türkiye.png"
     },
 
@@ -86,22 +105,27 @@
     
     {
         "name": "Kazakhstan",
+        "capital": "Astana",
         "flag": "flags/countries/Kazakhstan.png"
     },
     {
         "name": "Kyrgyzstan",
+        "capital": "Bischkek",
         "flag": "flags/countries/Kyrgyzstan.png"
     },
     {
         "name": "Tajikistan",
+        "capital": "Duschanbe",
         "flag": "flags/countries/Tajikistan.png"
     },
     {
         "name": "Turkmenistan",
+        "capital": "Aşgabat",
         "flag": "flags/countries/Turkmenistan.png"
     },
     {
         "name": "Uzbekistan",
+        "capital": "Taschkent",
         "flag": "flags/countries/Uzbekistan.png"
     },
 
@@ -109,34 +133,42 @@
 
     {
         "name": "Afghanistan",
+        "capital": "Kabul",
         "flag": "flags/countries/Afghanistan.png"
     },
     {
         "name": "Bangladesh",
+        "capital": "Dhaka",
         "flag": "flags/countries/Bangladesh.png"
     },
     {
         "name": "Bhutan",
+        "capital": "Thimphu",
         "flag": "flags/countries/Bhutan.png"
     },
     {
         "name": "India",
+        "capital": "Neu-Delhi",
         "flag": "flags/countries/India.png"
     },
     {
         "name": "Maldives",
+        "capital": "Malé",
         "flag": "flags/countries/Maldives.png"
     },
     {
         "name": "Nepal",
+        "capital": "Kathmandu",
         "flag": "flags/countries/Nepal.png"
     },
     {
         "name": "Pakistan",
+        "capital": "Islamabad",
         "flag": "flags/countries/Pakistan.png"
     },
     {
         "name": "Sri Lanka",
+        "capital": "Sri Jayewardenepura Kotte",
         "flag": "flags/countries/Sri Lanka.png"
     },
 
@@ -144,48 +176,59 @@
     
     {
         "name": "Cambodia",
+        "capital": "Phnom Penh",
         "flag": "flags/countries/Cambodia.png"
     },
     {
         "name": "Laos",
+        "capital": "Vientiane",
         "flag": "flags/countries/Laos.png"
     },
     {
         "name": "Myanmar",
+        "capital": "Naypyidaw",
         "flag": "flags/countries/Myanmar.png"
     },
     {
         "name": "Thailand",
+        "capital": "Bangkok",
         "flag": "flags/countries/Thailand.png"
     },
     {
         "name": "Vietnam",
+        "capital": "Hanoi",
         "flag": "flags/countries/Vietnam.png"
     },
 
 
     {
         "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
         "flag": "flags/countries/Brunei.png"
     },
     {
         "name": "Indonesia",
+        "capital": "Jakarta",
         "flag": "flags/countries/Indonesia.png"
     },
     {
         "name": "Malaysia",
+        "capital": "Kuala Lumpur",
         "flag": "flags/countries/Malaysia.png"
     },
     {
         "name": "Philippines",
+        "capital": "Manila",
         "flag": "flags/countries/Philippines.png"
     },
     {
         "name": "Singapore",
+        "capital": "Singapur",
         "flag": "flags/countries/Singapore.png"
     },
     {
         "name": "Timor-Leste",
+        "capital": "Dili",
         "flag": "flags/countries/Timor-Leste.png"
     },
 
@@ -193,26 +236,32 @@
     
     {
         "name": "China",
+        "capital": "Peking",
         "flag": "flags/countries/China.png"
     },
     {
         "name": "Japan",
+        "capital": "Tokio",
         "flag": "flags/countries/Japan.png"
     },
     {
         "name": "Mongolia",
+        "capital": "Ulaanbaatar",
         "flag": "flags/countries/Mongolia.png"
     },
     {
         "name": "North Korea",
+        "capital": "Pjöngjang",
         "flag": "flags/countries/North Korea.png"
     },
     {
         "name": "South Korea",
+        "capital": "Seoul",
         "flag": "flags/countries/South Korea.png"
     },
     {
         "name": "Taiwan",
+        "capital": "Taipeh",
         "flag": "flags/countries/Taiwan.png"
     }
 ]

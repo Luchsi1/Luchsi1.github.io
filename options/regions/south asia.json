@@ -1,34 +1,42 @@
 [
     {
         "name": "Afghanistan",
+        "capital": "Kabul",
         "flag": "flags/countries/Afghanistan.png"
     },
     {
         "name": "Bangladesh",
+        "capital": "Dhaka",
         "flag": "flags/countries/Bangladesh.png"
     },
     {
         "name": "Bhutan",
+        "capital": "Thimphu",
         "flag": "flags/countries/Bhutan.png"
     },
     {
         "name": "India",
+        "capital": "Neu-Delhi",
         "flag": "flags/countries/India.png"
     },
     {
         "name": "Maldives",
+        "capital": "Malé",
         "flag": "flags/countries/Maldives.png"
     },
     {
         "name": "Nepal",
+        "capital": "Kathmandu",
         "flag": "flags/countries/Nepal.png"
     },
     {
         "name": "Pakistan",
+        "capital": "Islamabad",
         "flag": "flags/countries/Pakistan.png"
     },
     {
         "name": "Sri Lanka",
+        "capital": "Sri Jayewardenepura Kotte",
         "flag": "flags/countries/Sri Lanka.png"
     }
 ]

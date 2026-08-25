@@ -1,10 +1,12 @@
 [
     {
         "name": "Belarus",
+        "capital": "Minsk",
         "flag": "flags/countries/Belarus.png"
     },
     {
         "name": "Russia",
+        "capital": "Moskau",
         "flag": "flags/countries/Russia.png"
     }
 ]

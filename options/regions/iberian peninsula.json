@@ -1,14 +1,17 @@
 [
     {
         "name": "Andorra",
+        "capital": "Andorra La Vella",
         "flag": "flags/countries/Andorra.png"
     },
     {
         "name": "Portugal",
+        "capital": "Lissabon",
         "flag": "flags/countries/Portugal.png"
     },
     {
         "name": "Spain",
+        "capital": "Madrid",
         "flag": "flags/countries/Spain.png"
     }
 ]

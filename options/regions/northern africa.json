@@ -1,26 +1,32 @@
 [
     {
         "name": "Algeria",
+        "capital": "Algier",
         "flag": "flags/countries/Algeria.png"
     },
     {
         "name": "Egypt",
+        "capital": "Kairo",
         "flag": "flags/countries/Egypt.png"
     },
     {
         "name": "Libya",
+        "capital": "Tripoli",
         "flag": "flags/countries/Libya.png"
     },
     {
         "name": "Morocco",
+        "capital": "Rabat",
         "flag": "flags/countries/Morocco.png"
     },
     {
         "name": "Sudan",
+        "capital": "Khartum",
         "flag": "flags/countries/Sudan.png"
     },
     {
         "name": "Tunisia",
+        "capital": "Tunis",
         "flag": "flags/countries/Tunisia.png"
     }
 ]

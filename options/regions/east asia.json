@@ -1,26 +1,32 @@
 [
     {
         "name": "China",
+        "capital": "Peking",
         "flag": "flags/countries/China.png"
     },
     {
         "name": "Japan",
+        "capital": "Tokio",
         "flag": "flags/countries/Japan.png"
     },
     {
         "name": "Mongolia",
+        "capital": "Ulaanbaatar",
         "flag": "flags/countries/Mongolia.png"
     },
     {
         "name": "North Korea",
+        "capital": "Pjöngjang",
         "flag": "flags/countries/North Korea.png"
     },
     {
         "name": "South Korea",
+        "capital": "Seoul",
         "flag": "flags/countries/South Korea.png"
     },
     {
         "name": "Taiwan",
+        "capital": "Taipeh",
         "flag": "flags/countries/Taiwan.png"
     }
 ]

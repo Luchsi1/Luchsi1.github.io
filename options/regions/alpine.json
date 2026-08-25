@@ -1,14 +1,17 @@
 [
     {
         "name": "Austria",
+        "capital": "Wien",
         "flag": "flags/countries/Austria.png"
     },
     {
         "name": "Liechtenstein",
+        "capital": "Vaduz",
         "flag": "flags/countries/Liechtenstein.png"
     },
     {
         "name": "Switzerland",
+        "capital": "Bern",
         "flag": "flags/countries/Switzerland.png"
     }
 ]

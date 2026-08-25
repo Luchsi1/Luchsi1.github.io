@@ -1,18 +1,22 @@
 [
     {
         "name": "Comores",
+        "capital": "Moroni",
         "flag": "flags/countries/Comores.png"
     },
     {
         "name": "Madagascar",
+        "capital": "Antananarivo",
         "flag": "flags/countries/Madagascar.png"
     },
     {
         "name": "Mauritius",
+        "capital": "Port Louis",
         "flag": "flags/countries/Mauritius.png"
     },
     {
         "name": "Seychelles",
+        "capital": "Victoria",
         "flag": "flags/countries/Seychelles.png"
     }
 ]

@@ -1,84 +1,103 @@
 [
     {
         "name": "Armenia",
+        "capital": "Jerewan",
         "flag": "flags/countries/Armenia.png"
     },
     {
         "name": "Azerbaijan",
+        "capital": "Baku",
         "flag": "flags/countries/Azerbaijan.png"
     },
     {
         "name": "Georgia",
+        "capital": "Tiflis",
         "flag": "flags/countries/Georgia.png"
     },
 
 
     {
         "name": "Israel",
+        "capital": "Jerusalem",
         "flag": "flags/countries/Israel.png"
     },
     {
         "name": "Jordan",
+        "capital": "Amman",
         "flag": "flags/countries/Jordan.png"
     },
     {
         "name": "Lebanon",
+        "capital": "Beirut",
         "flag": "flags/countries/Lebanon.png"
     },
     {
         "name": "Palestine",
+        "capital": "Ramallah",
         "flag": "flags/countries/Palestine.png"
     },
     {
         "name": "Syria",
+        "capital": "Damaskus",
         "flag": "flags/countries/Syria.png"
     },
     {
         "name": "Cyprus",
+        "capital": "Nikosia",
         "flag": "flags/countries/Cyprus.png"
     },
 
     
     {
         "name": "Bahrain",
+        "capital": "Manama",
         "flag": "flags/countries/Bahrain.png"
     },
     {
         "name": "Kuwait",
+        "capital": "Kuwait-Stadt",
         "flag": "flags/countries/Kuwait.png"
     },
     {
         "name": "Oman",
+        "capital": "Maskat",
         "flag": "flags/countries/Oman.png"
     },
     {
         "name": "Qatar",
+        "capital": "Doha",
         "flag": "flags/countries/Qatar.png"
     },
     {
         "name": "Saudi Arabia",
+        "capital": "Riad",
         "flag": "flags/countries/Saudi Arabia.png"
     },
     {
         "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
         "flag": "flags/countries/United Arab Emirates.png"
     },
     {
         "name": "Yemen",
+        "capital": "Sanaa",
         "flag": "flags/countries/Yemen.png"
     },
 
     
     {
         "name": "Iran",
+        "capital": "Teheran",
         "flag": "flags/countries/Iran.png"
     },
     {
         "name": "Iraq",
+        "capital": "Bagdad",
         "flag": "flags/countries/Iraq.png"
     },
     {
         "name": "Türkiye",
+        "capital": "Ankara",
         "flag": "flags/countries/Türkiye.png"
     }
 ]

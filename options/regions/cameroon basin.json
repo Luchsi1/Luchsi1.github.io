@@ -1,14 +1,17 @@
 [
     {
         "name": "Cameroon",
+        "capital": "Yaoundé",
         "flag": "flags/countries/Cameroon.png"
     },
     {
         "name": "Central African Republic",
+        "capital": "Bangui",
         "flag": "flags/countries/Central African Republic.png"
     },
     {
         "name": "Chad",
+        "capital": "N'Djamena",
         "flag": "flags/countries/Chad.png"
     }
 ]

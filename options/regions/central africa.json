@@ -1,40 +1,49 @@
 [
     {
         "name": "Cameroon",
+        "capital": "Yaoundé",
         "flag": "flags/countries/Cameroon.png"
     },
     {
         "name": "Central African Republic",
+        "capital": "Bangui",
         "flag": "flags/countries/Central African Republic.png"
     },
     {
         "name": "Chad",
+        "capital": "N'Djamena",
         "flag": "flags/countries/Chad.png"
     },
 
 
     {
         "name": "Republic of the Congo",
+        "capital": "Brazzaville",
         "flag": "flags/countries/Republic of the Congo.png"
     },
     {
         "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
         "flag": "flags/countries/Democratic Republic of the Congo.png"
     },
     {
         "name": "Equatorial Guinea",
+        "capital": "Malabo",
         "flag": "flags/countries/Equatorial Guinea.png"
     },
     {
         "name": "Gabon",
+        "capital": "Libreville",
         "flag": "flags/countries/Gabon.png"
     },
     {
         "name": "São Tomé and Príncipe",
+        "capital": "São Tomé",
         "flag": "flags/countries/São Tomé and Príncipe.png"
     },
     {
         "name": "Angola",
+        "capital": "Luanda",
         "flag": "flags/countries/Angola.png"
     }
 ]

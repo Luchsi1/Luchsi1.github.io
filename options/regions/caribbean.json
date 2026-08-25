@@ -1,56 +1,69 @@
 [
     {
         "name": "Bahamas",
+        "capital": "Nassau",
         "flag": "flags/countries/Bahamas.png"
     },
     {
         "name": "Cuba",
+        "capital": "Havanna",
         "flag": "flags/countries/Cuba.png"
     },
     {
         "name": "Dominican Republic",
+        "capital": "Santo Domingo",
         "flag": "flags/countries/Dominican Republic.png"
     },
     {
         "name": "Haiti",
+        "capital": "Port-au-Prince",
         "flag": "flags/countries/Haiti.png"
     },
     {
         "name": "Jamaica",
+        "capital": "Kingston",
         "flag": "flags/countries/Jamaica.png"
     },
 
 
     {
         "name": "Antigua and Barbuda",
+        "capital": "St. John's",
         "flag": "flags/countries/Antigua and Barbuda.png"
     },
     {
         "name": "Barbados",
+        "capital": "Bridgetown",
         "flag": "flags/countries/Barbados.png"
     },
     {
         "name": "Dominica",
+        "capital": "Roseau",
         "flag": "flags/countries/Dominica.png"
     },
     {
         "name": "Grenada",
+        "capital": "St. George's",
         "flag": "flags/countries/Grenada.png"
     },
     {
         "name": "St. Lucia",
+        "capital": "Castries",
         "flag": "flags/countries/St. Lucia.png"
     },
     {
         "name": "St. Kitts and Nevis",
+        "capital": "Basseterre",
         "flag": "flags/countries/St. Kitts and Nevis.png"
     },
     {
         "name": "St. Vincent and the Grenadines",
+        "capital": "Kingstown",
         "flag": "flags/countries/St. Vincent and the Grenadines.png"
     },
     {
         "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
         "flag": "flags/countries/Trinidad and Tobago.png"
     }
 ]

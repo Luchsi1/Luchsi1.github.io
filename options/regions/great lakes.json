@@ -1,26 +1,32 @@
 [
     {
         "name": "Burundi",
+        "capital": "Gitega",
         "flag": "flags/countries/Burundi.png"
     },
     {
         "name": "Kenya",
+        "capital": "Nairobi",
         "flag": "flags/countries/Kenya.png"
     },
     {
         "name": "Rwanda",
+        "capital": "Kigali",
         "flag": "flags/countries/Rwanda.png"
     },
     {
         "name": "South Sudan",
+        "capital": "Juba",
         "flag": "flags/countries/South Sudan.png"
     },
     {
         "name": "Tanzania",
+        "capital": "Dodoma",
         "flag": "flags/countries/Tanzania.png"
     },
     {
         "name": "Uganda",
+        "capital": "Kampala",
         "flag": "flags/countries/Uganda.png"
     }
 ]
