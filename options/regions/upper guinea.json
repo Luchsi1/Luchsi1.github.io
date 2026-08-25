@@ -1,26 +1,32 @@
 [
     {
-        "name": "Cape Verde",
-        "flag": "flags/countries/Cape Verde.png"
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "flag": "flags/countries/Cabo Verde.png"
     },
     {
         "name": "Gambia",
+        "capital": "Banhul",
         "flag": "flags/countries/Gambia.png"
     },
     {
         "name": "Guinea",
+        "capital": "Conakry",
         "flag": "flags/countries/Guinea.png"
     },
     {
         "name": "Guinea-Bissau",
+        "capital": "Bissau",
         "flag": "flags/countries/Guinea-Bissau.png"
     },
     {
         "name": "Senegal",
+        "capital": "Dakar",
         "flag": "flags/countries/Senegal.png"
     },
     {
         "name": "Sierra Leone",
+        "capital": "Freetown",
         "flag": "flags/countries/Sierra Leone.png"
     }
 ]

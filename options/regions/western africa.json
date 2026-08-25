@@ -1,70 +1,86 @@
 [
     {
-        "name": "Cape Verde",
-        "flag": "flags/countries/Cape Verde.png"
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "flag": "flags/countries/Cabo Verde.png"
     },
     {
         "name": "Gambia",
+        "capital": "Banhul",
         "flag": "flags/countries/Gambia.png"
     },
     {
         "name": "Guinea",
+        "capital": "Conakry",
         "flag": "flags/countries/Guinea.png"
     },
     {
         "name": "Guinea-Bissau",
+        "capital": "Bissau",
         "flag": "flags/countries/Guinea-Bissau.png"
     },
     {
         "name": "Senegal",
+        "capital": "Dakar",
         "flag": "flags/countries/Senegal.png"
     },
     {
         "name": "Sierra Leone",
+        "capital": "Freetown",
         "flag": "flags/countries/Sierra Leone.png"
     },
 
 
     {
         "name": "Burkina Faso",
+        "capital": "Ouagadougou",
         "flag": "flags/countries/Burkina Faso.png"
     },
     {
         "name": "Mali",
+        "capital": "Bamako",
         "flag": "flags/countries/Mali.png"
     },
     {
         "name": "Mauritania",
+        "capital": "Nouakchott",
         "flag": "flags/countries/Mauritania.png"
     },
     {
         "name": "Niger",
+        "capital": "Niamey",
         "flag": "flags/countries/Niger.png"
     },
     {
         "name": "Nigeria",
+        "capital": "Abuja",
         "flag": "flags/countries/Nigeria.png"
     },
 
 
     {
         "name": "Benin",
+        "capital": "Porto-Novo",
         "flag": "flags/countries/Benin.png"
     },
     {
         "name": "Côte d'Ivoire",
+        "capital": "Yamoussoukro",
         "flag": "flags/countries/Côte d'Ivoire.png"
     },
     {
         "name": "Ghana",
+        "capital": "Accra",
         "flag": "flags/countries/Ghana.png"
     },
     {
         "name": "Liberia",
+        "capital": "Monrovia",
         "flag": "flags/countries/Liberia.png"
     },
     {
         "name": "Togo",
+        "capital": "Lomé",
         "flag": "flags/countries/Togo.png"
     }
 ]

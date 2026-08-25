@@ -1,97 +1,119 @@
 [
     {
         "name": "Algeria",
+        "capital": "Algier",
         "flag": "flags/countries/Algeria.png"
     },
     {
         "name": "Egypt",
+        "capital": "Kairo",
         "flag": "flags/countries/Egypt.png"
     },
     {
         "name": "Libya",
+        "capital": "Tripoli",
         "flag": "flags/countries/Libya.png"
     },
     {
         "name": "Morocco",
+        "capital": "Rabat",
         "flag": "flags/countries/Morocco.png"
     },
     {
         "name": "Sudan",
+        "capital": "Khartum",
         "flag": "flags/countries/Sudan.png"
     },
     {
         "name": "Tunisia",
+        "capital": "Tunis",
         "flag": "flags/countries/Tunisia.png"
     },
 
 
     
     {
-        "name": "Cape Verde",
-        "flag": "flags/countries/Cape Verde.png"
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "flag": "flags/countries/Cabo Verde.png"
     },
     {
         "name": "Gambia",
+        "capital": "Banhul",
         "flag": "flags/countries/Gambia.png"
     },
     {
         "name": "Guinea",
+        "capital": "Conakry",
         "flag": "flags/countries/Guinea.png"
     },
     {
         "name": "Guinea-Bissau",
+        "capital": "Bissau",
         "flag": "flags/countries/Guinea-Bissau.png"
     },
     {
         "name": "Senegal",
+        "capital": "Dakar",
         "flag": "flags/countries/Senegal.png"
     },
     {
         "name": "Sierra Leone",
+        "capital": "Freetown",
         "flag": "flags/countries/Sierra Leone.png"
     },
 
 
     {
         "name": "Burkina Faso",
+        "capital": "Ouagadougou",
         "flag": "flags/countries/Burkina Faso.png"
     },
     {
         "name": "Mali",
+        "capital": "Bamako",
         "flag": "flags/countries/Mali.png"
     },
     {
         "name": "Mauritania",
+        "capital": "Nouakchott",
         "flag": "flags/countries/Mauritania.png"
     },
     {
         "name": "Niger",
+        "capital": "Niamey",
         "flag": "flags/countries/Niger.png"
     },
     {
         "name": "Nigeria",
+        "capital": "Abuja",
         "flag": "flags/countries/Nigeria.png"
     },
 
 
     {
         "name": "Benin",
+        "capital": "Porto-Novo",
         "flag": "flags/countries/Benin.png"
     },
     {
         "name": "Côte d'Ivoire",
+        "capital": "Yamoussoukro",
         "flag": "flags/countries/Côte d'Ivoire.png"
     },
     {
         "name": "Ghana",
+        "capital": "Accra",
         "flag": "flags/countries/Ghana.png"
     },
     {
         "name": "Liberia",
+        "capital": "Monrovia",
         "flag": "flags/countries/Liberia.png"
     },
     {
         "name": "Togo",
+        "capital": "Lomé",
         "flag": "flags/countries/Togo.png"
     },
 
@@ -99,40 +121,49 @@
     
     {
         "name": "Cameroon",
+        "capital": "Yaoundé",
         "flag": "flags/countries/Cameroon.png"
     },
     {
         "name": "Central African Republic",
+        "capital": "Bangui",
         "flag": "flags/countries/Central African Republic.png"
     },
     {
         "name": "Chad",
+        "capital": "N'Djamena",
         "flag": "flags/countries/Chad.png"
     },
 
 
     {
         "name": "Republic of the Congo",
+        "capital": "Brazzaville",
         "flag": "flags/countries/Republic of the Congo.png"
     },
     {
         "name": "Democratic Republic of the Congo",
+        "capital": "Kinshasa",
         "flag": "flags/countries/Democratic Republic of the Congo.png"
     },
     {
         "name": "Equatorial Guinea",
+        "capital": "Malabo",
         "flag": "flags/countries/Equatorial Guinea.png"
     },
     {
         "name": "Gabon",
+        "capital": "Libreville",
         "flag": "flags/countries/Gabon.png"
     },
     {
         "name": "São Tomé and Príncipe",
+        "capital": "São Tomé",
         "flag": "flags/countries/São Tomé and Príncipe.png"
     },
     {
         "name": "Angola",
+        "capital": "Luanda",
         "flag": "flags/countries/Angola.png"
     },
 
@@ -140,76 +171,93 @@
     
     {
         "name": "Djibouti",
+        "capital": "Dschibuti",
         "flag": "flags/countries/Djibouti.png"
     },
     {
         "name": "Eritrea",
+        "capital": "Asmara",
         "flag": "flags/countries/Eritrea.png"
     },
     {
         "name": "Ethiopia",
+        "capital": "Addis Abeba",
         "flag": "flags/countries/Ethiopia.png"
     },
     {
         "name": "Somalia",
+        "capital": "Mogadischu",
         "flag": "flags/countries/Somalia.png"
     },
 
 
     {
         "name": "Burundi",
+        "capital": "Gitega",
         "flag": "flags/countries/Burundi.png"
     },
     {
         "name": "Kenya",
+        "capital": "Nairobi",
         "flag": "flags/countries/Kenya.png"
     },
     {
         "name": "Rwanda",
+        "capital": "Kigali",
         "flag": "flags/countries/Rwanda.png"
     },
     {
         "name": "South Sudan",
+        "capital": "Juba",
         "flag": "flags/countries/South Sudan.png"
     },
     {
         "name": "Tanzania",
+        "capital": "Dodoma",
         "flag": "flags/countries/Tanzania.png"
     },
     {
         "name": "Uganda",
+        "capital": "Kampala",
         "flag": "flags/countries/Uganda.png"
     },
 
 
     {
         "name": "Malawi",
+        "capital": "Lilongwe",
         "flag": "flags/countries/Malawi.png"
     },
     {
         "name": "Mozambique",
+        "capital": "Maputo",
         "flag": "flags/countries/Mozambique.png"
     },
     {
         "name": "Zimbabwe",
+        "capital": "Harare",
         "flag": "flags/countries/Zimbabwe.png"
     },
 
     
     {
         "name": "Comores",
+        "capital": "Moroni",
         "flag": "flags/countries/Comores.png"
     },
     {
         "name": "Madagascar",
+        "capital": "Antananarivo",
         "flag": "flags/countries/Madagascar.png"
     },
     {
         "name": "Mauritius",
+        "capital": "Port Louis",
         "flag": "flags/countries/Mauritius.png"
     },
     {
         "name": "Seychelles",
+        "capital": "Victoria",
         "flag": "flags/countries/Seychelles.png"
     },
 
@@ -217,26 +265,32 @@
 
     {
         "name": "Botswana",
+        "capital": "Gaborone",
         "flag": "flags/countries/Botswana.png"
     },
     {
         "name": "Eswatini",
+        "capital": "Mbabane",
         "flag": "flags/countries/Eswatini.png"
     },
     {
         "name": "Lesotho",
+        "capital": "Maseru",
         "flag": "flags/countries/Lesotho.png"
     },
     {
         "name": "Namibia",
+        "capital": "Windhoek",
         "flag": "flags/countries/Namibia.png"
     },
     {
         "name": "South Africa",
+        "capital": "Pretoria",
         "flag": "flags/countries/South Africa.png"
     },
     {
         "name": "Zambia",
+        "capital": "Lusaka",
         "flag": "flags/countries/Zambia.png"
     },
 
@@ -245,84 +299,103 @@
     
     {
         "name": "Armenia",
+        "capital": "Jerewan",
         "flag": "flags/countries/Armenia.png"
     },
     {
         "name": "Azerbaijan",
+        "capital": "Baku",
         "flag": "flags/countries/Azerbaijan.png"
     },
     {
         "name": "Georgia",
+        "capital": "Tiflis",
         "flag": "flags/countries/Georgia.png"
     },
 
 
     {
         "name": "Israel",
+        "capital": "Jerusalem",
         "flag": "flags/countries/Israel.png"
     },
     {
         "name": "Jordan",
+        "capital": "Amman",
         "flag": "flags/countries/Jordan.png"
     },
     {
         "name": "Lebanon",
+        "capital": "Beirut",
         "flag": "flags/countries/Lebanon.png"
     },
     {
         "name": "Palestine",
+        "capital": "Ramallah",
         "flag": "flags/countries/Palestine.png"
     },
     {
         "name": "Syria",
+        "capital": "Damaskus",
         "flag": "flags/countries/Syria.png"
     },
     {
         "name": "Cyprus",
+        "capital": "Nikosia",
         "flag": "flags/countries/Cyprus.png"
     },
 
     
     {
         "name": "Bahrain",
+        "capital": "Manama",
         "flag": "flags/countries/Bahrain.png"
     },
     {
         "name": "Kuwait",
+        "capital": "Kuwait-Stadt",
         "flag": "flags/countries/Kuwait.png"
     },
     {
         "name": "Oman",
+        "capital": "Maskat",
         "flag": "flags/countries/Oman.png"
     },
     {
         "name": "Qatar",
+        "capital": "Doha",
         "flag": "flags/countries/Qatar.png"
     },
     {
         "name": "Saudi Arabia",
+        "capital": "Riad",
         "flag": "flags/countries/Saudi Arabia.png"
     },
     {
         "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
         "flag": "flags/countries/United Arab Emirates.png"
     },
     {
         "name": "Yemen",
+        "capital": "Sanaa",
         "flag": "flags/countries/Yemen.png"
     },
 
     
     {
         "name": "Iran",
+        "capital": "Teheran",
         "flag": "flags/countries/Iran.png"
     },
     {
         "name": "Iraq",
+        "capital": "Bagdad",
         "flag": "flags/countries/Iraq.png"
     },
     {
         "name": "Türkiye",
+        "capital": "Ankara",
         "flag": "flags/countries/Türkiye.png"
     },
 
@@ -330,22 +403,27 @@
     
     {
         "name": "Kazakhstan",
+        "capital": "Astana",
         "flag": "flags/countries/Kazakhstan.png"
     },
     {
         "name": "Kyrgyzstan",
+        "capital": "Bischkek",
         "flag": "flags/countries/Kyrgyzstan.png"
     },
     {
         "name": "Tajikistan",
+        "capital": "Duschanbe",
         "flag": "flags/countries/Tajikistan.png"
     },
     {
         "name": "Turkmenistan",
+        "capital": "Aşgabat",
         "flag": "flags/countries/Turkmenistan.png"
     },
     {
         "name": "Uzbekistan",
+        "capital": "Taschkent",
         "flag": "flags/countries/Uzbekistan.png"
     },
 
@@ -353,34 +431,42 @@
 
     {
         "name": "Afghanistan",
+        "capital": "Kabul",
         "flag": "flags/countries/Afghanistan.png"
     },
     {
         "name": "Bangladesh",
+        "capital": "Dhaka",
         "flag": "flags/countries/Bangladesh.png"
     },
     {
         "name": "Bhutan",
+        "capital": "Thimphu",
         "flag": "flags/countries/Bhutan.png"
     },
     {
         "name": "India",
+        "capital": "Neu-Delhi",
         "flag": "flags/countries/India.png"
     },
     {
         "name": "Maldives",
+        "capital": "Malé",
         "flag": "flags/countries/Maldives.png"
     },
     {
         "name": "Nepal",
+        "capital": "Kathmandu",
         "flag": "flags/countries/Nepal.png"
     },
     {
         "name": "Pakistan",
+        "capital": "Islamabad",
         "flag": "flags/countries/Pakistan.png"
     },
     {
         "name": "Sri Lanka",
+        "capital": "Sri Jayewardenepura Kotte",
         "flag": "flags/countries/Sri Lanka.png"
     },
 
@@ -388,48 +474,59 @@
     
     {
         "name": "Cambodia",
+        "capital": "Phnom Penh",
         "flag": "flags/countries/Cambodia.png"
     },
     {
         "name": "Laos",
+        "capital": "Vientiane",
         "flag": "flags/countries/Laos.png"
     },
     {
         "name": "Myanmar",
+        "capital": "Naypyidaw",
         "flag": "flags/countries/Myanmar.png"
     },
     {
         "name": "Thailand",
+        "capital": "Bangkok",
         "flag": "flags/countries/Thailand.png"
     },
     {
         "name": "Vietnam",
+        "capital": "Hanoi",
         "flag": "flags/countries/Vietnam.png"
     },
 
 
     {
         "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
         "flag": "flags/countries/Brunei.png"
     },
     {
         "name": "Indonesia",
+        "capital": "Jakarta",
         "flag": "flags/countries/Indonesia.png"
     },
     {
         "name": "Malaysia",
+        "capital": "Kuala Lumpur",
         "flag": "flags/countries/Malaysia.png"
     },
     {
         "name": "Philippines",
+        "capital": "Manila",
         "flag": "flags/countries/Philippines.png"
     },
     {
         "name": "Singapore",
+        "capital": "Singapur",
         "flag": "flags/countries/Singapore.png"
     },
     {
         "name": "Timor-Leste",
+        "capital": "Dili",
         "flag": "flags/countries/Timor-Leste.png"
     },
 
@@ -437,26 +534,32 @@
     
     {
         "name": "China",
+        "capital": "Peking",
         "flag": "flags/countries/China.png"
     },
     {
         "name": "Japan",
+        "capital": "Tokio",
         "flag": "flags/countries/Japan.png"
     },
     {
         "name": "Mongolia",
+        "capital": "Ulaanbaatar",
         "flag": "flags/countries/Mongolia.png"
     },
     {
         "name": "North Korea",
+        "capital": "pjöngjang",
         "flag": "flags/countries/North Korea.png"
     },
     {
         "name": "South Korea",
+        "capital": "Seoul",
         "flag": "flags/countries/South Korea.png"
     },
     {
         "name": "Taiwan",
+        "capital": "Taipeh",
         "flag": "flags/countries/Taiwan.png"
     },
 
@@ -465,36 +568,44 @@
     
     {
         "name": "Denmark",
+        "capital": "Kopenhagen",
         "flag": "flags/countries/Denmark.png"
     },
     {
         "name": "Finland",
+        "capital": "Helsinki",
         "flag": "flags/countries/Finland.png"
     },
     {
         "name": "Iceland",
+        "capital": "Reykjavik",
         "flag": "flags/countries/Iceland.png"
     },
     {
         "name": "Norway",
+        "capital": "Oslo",
         "flag": "flags/countries/Norway.png"
     },
     {
         "name": "Sweden",
+        "capital": "Stockholm",
         "flag": "flags/countries/Sweden.png"
     },
 
 
     {
         "name": "Estonia",
+        "capital": "Tallinn",
         "flag": "flags/countries/Estonia.png"
     },
     {
         "name": "Latvia",
+        "capital": "Riga",
         "flag": "flags/countries/Latvia.png"
     },
     {
         "name": "Lithuania",
+        "capital": "Vilnius",
         "flag": "flags/countries/Lithuania.png"
     },
 
@@ -502,52 +613,63 @@
 
     {
         "name": "Belgium",
+        "capital": "Brüssel",
         "flag": "flags/countries/Belgium.png"
     },
     {
         "name": "Luxembourg",
+        "capital": "Luxemburg",
         "flag": "flags/countries/Luxembourg.png"
     },
     {
         "name": "Netherlands",
+        "capital": "Amsterdam",
         "flag": "flags/countries/Netherlands.png"
     },
 
 
     {
         "name": "Austria",
+        "capital": "Wien",
         "flag": "flags/countries/Austria.png"
     },
     {
         "name": "Liechtenstein",
+        "capital": "Vaduz",
         "flag": "flags/countries/Liechtenstein.png"
     },
     {
         "name": "Switzerland",
+        "capital": "Bern",
         "flag": "flags/countries/Switzerland.png"
     },
 
 
     {
         "name": "France",
+        "capital": "Paris",
         "flag": "flags/countries/France.png"
     },
     {
         "name": "Germany",
+        "capital": "Berlin",
         "flag": "flags/countries/Germany.png"
     },
     {
         "name": "Monaco",
+        "capital": "Monaco",
         "flag": "flags/countries/Monaco.png"
     },
 
     
     {
         "name": "Ireland",
+        "capital": "Dublin",
         "flag": "flags/countries/Ireland.png"
     },
     {
         "name": "United Kingdom",
+        "capital": "London",
         "flag": "flags/countries/United Kingdom.png"
     },
 
@@ -555,70 +677,86 @@
 
     {
         "name": "Andorra",
+        "capital": "Andorra La Vella",
         "flag": "flags/countries/Andorra.png"
     },
     {
         "name": "Portugal",
+        "capital": "Lissabon",
         "flag": "flags/countries/Portugal.png"
     },
     {
         "name": "Spain",
+        "capital": "Madrid",
         "flag": "flags/countries/Spain.png"
     },
 
 
     {
         "name": "Italy",
+        "capital": "Rom",
         "flag": "flags/countries/Italy.png"
     },
     {
         "name": "Malta",
+        "capital": "Valletta",
         "flag": "flags/countries/Malta.png"
     },
     {
         "name": "San Marino",
+        "capital": "San Marino",
         "flag": "flags/countries/San Marino.png"
     },
     {
         "name": "Vatican City",
+        "capital": "Vatikanstadt",
         "flag": "flags/countries/Vatican City.png"
     },
 
 
     {
         "name": "Albania",
+        "capital": "Tirana",
         "flag": "flags/countries/Albania.png"
     },
     {
         "name": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
         "flag": "flags/countries/Bosnia and Herzegovina.png"
     },
     {
         "name": "Croatia",
+        "capital": "Zagreb",
         "flag": "flags/countries/Croatia.png"
     },
     {
         "name": "Greece",
+        "capital": "Athen",
         "flag": "flags/countries/Greece.png"
     },
     {
-        "name": "Kosvo",
+        "name": "Kosovo",
+        "capital": "Priština",
         "flag": "flags/countries/Kosovo.png"
     },
     {
         "name": "Montenegro",
+        "capital": "Podgorica",
         "flag": "flags/countries/Montenegro.png"
     },
     {
         "name": "North Macedonia",
+        "capital": "Skopje",
         "flag": "flags/countries/North Macedonia.png"
     },
     {
         "name": "Serbia",
+        "capital": "Belgrad",
         "flag": "flags/countries/Serbia.png"
     },
     {
         "name": "Slovenia",
+        "capital": "Ljubljana",
         "flag": "flags/countries/Slovenia.png"
     },
 
@@ -626,46 +764,56 @@
 
     {
         "name": "Czech Republic",
+        "capital": "Prag",
         "flag": "flags/countries/Czech Republic.png"
     },
     {
         "name": "Hungary",
+        "capital": "Budapest",
         "flag": "flags/countries/Hungary.png"
     },
     {
         "name": "Poland",
+        "capital": "Warschau",
         "flag": "flags/countries/Poland.png"
     },
     {
         "name": "Slovakia",
+        "capital": "Bratislava",
         "flag": "flags/countries/Slovakia.png"
     },
 
 
     {
         "name": "Bulgaria",
+        "capital": "Sofia",
         "flag": "flags/countries/Bulgaria.png"
     },
     {
         "name": "Moldova",
+        "capital": "Chișinău",
         "flag": "flags/countries/Moldova.png"
     },
     {
         "name": "Romania",
+        "capital": "Bukarest",
         "flag": "flags/countries/Romania.png"
     },
     {
         "name": "Ukraine",
+        "capital": "Kiew",
         "flag": "flags/countries/Ukraine.png"
     },
 
 
     {
         "name": "Belarus",
+        "capital": "Minsk",
         "flag": "flags/countries/Belarus.png"
     },
     {
         "name": "Russia",
+        "capital": "Moskau",
         "flag": "flags/countries/Russia.png"
     },
 
@@ -674,10 +822,12 @@
 
     {
         "name": "Canada",
+        "capital": "Ottawa",
         "flag": "flags/countries/Canada.png"
     },
     {
         "name": "United States",
+        "capital": "Washington, D.C.",
         "flag": "flags/countries/United States.png"
     },
 
@@ -685,34 +835,42 @@
 
     {
         "name": "Belize",
+        "capital": "Belmopan",
         "flag": "flags/countries/Belize.png"
     },
     {
         "name": "Costa Rica",
+        "capital": "San José",
         "flag": "flags/countries/Costa Rica.png"
     },
     {
         "name": "El Salvador",
+        "capital": "San Salvador",
         "flag": "flags/countries/El Salvador.png"
     },
     {
         "name": "Guatemala",
+        "capital": "Guatemal-Stadt",
         "flag": "flags/countries/Guatemala.png"
     },
     {
         "name": "Honduras",
+        "capital": "Tegucigalpa",
         "flag": "flags/countries/Honduras.png"
     },
     {
         "name": "Mexico",
+        "capital": "Mexiko-Stadt",
         "flag": "flags/countries/Mexico.png"
     },
     {
         "name": "Nicaragua",
+        "capital": "Managua",
         "flag": "flags/countries/Nicaragua.png"
     },
     {
         "name": "Panama",
+        "capital": "Panama-Stadt",
         "flag": "flags/countries/Panama.png"
     },
 
@@ -720,56 +878,69 @@
 
     {
         "name": "Bahamas",
+        "capital": "Nassau",
         "flag": "flags/countries/Bahamas.png"
     },
     {
         "name": "Cuba",
+        "capital": "Havanna",
         "flag": "flags/countries/Cuba.png"
     },
     {
         "name": "Dominican Republic",
+        "capital": "Santo Domingo",
         "flag": "flags/countries/Dominican Republic.png"
     },
     {
         "name": "Haiti",
+        "capital": "Port-au-Prince",
         "flag": "flags/countries/Haiti.png"
     },
     {
         "name": "Jamaica",
+        "capital": "Kingston",
         "flag": "flags/countries/Jamaica.png"
     },
 
 
     {
         "name": "Antigua and Barbuda",
+        "capital": "St. John's",
         "flag": "flags/countries/Antigua and Barbuda.png"
     },
     {
         "name": "Barbados",
+        "capital": "Bridgetown",
         "flag": "flags/countries/Barbados.png"
     },
     {
         "name": "Dominica",
+        "capital": "Roseau",
         "flag": "flags/countries/Dominica.png"
     },
     {
         "name": "Grenada",
+        "capital": "St. George's",
         "flag": "flags/countries/Grenada.png"
     },
     {
         "name": "St. Lucia",
+        "capital": "Castries",
         "flag": "flags/countries/St. Lucia.png"
     },
     {
         "name": "St. Kitts and Nevis",
+        "capital": "Basseterre",
         "flag": "flags/countries/St. Kitts and Nevis.png"
     },
     {
         "name": "St. Vincent and the Grenadines",
+        "capital": "Kingstown",
         "flag": "flags/countries/St. Vincent and the Grenadines.png"
     },
     {
         "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
         "flag": "flags/countries/Trinidad and Tobago.png"
     },
 
@@ -778,52 +949,64 @@
 
     {
         "name": "Bolivia",
+        "capital": "Sucre",
         "flag": "flags/countries/Bolivia.png"
     },
     {
         "name": "Brazil",
+        "capital": "Brasília",
         "flag": "flags/countries/Brazil.png"
     },
     {
         "name": "Colombia",
+        "capital": "Bogotá",
         "flag": "flags/countries/Colombia.png"
     },
     {
         "name": "Ecuador",
+        "capital": "Quito",
         "flag": "flags/countries/Ecuador.png"
     },
     {
         "name": "Guyana",
+        "capital": "Georgetown",
         "flag": "flags/countries/Guyana.png"
     },
     {
         "name": "Peru",
+        "capital": "Lima",
         "flag": "flags/countries/Peru.png"
     },
     {
         "name": "Suriname",
+        "capital": "Paramaribo",
         "flag": "flags/countries/Suriname.png"
     },
     {
         "name": "Venezuela",
+        "capital": "Caracas",
         "flag": "flags/countries/Venezuela.png"
     },
 
 
     {
         "name": "Argentina",
+        "capital": "Buenos Aires",
         "flag": "flags/countries/Argentina.png"
     },
     {
         "name": "Chile",
+        "capital": "Santiago",
         "flag": "flags/countries/Chile.png"
     },
     {
         "name": "Paraguay",
+        "capital": "Asunción",
         "flag": "flags/countries/Paraguay.png"
     },
     {
         "name": "Uruguay",
+        "capital": "Montevideo",
         "flag": "flags/countries/Uruguay.png"
     },
 
@@ -832,10 +1015,12 @@
 
     {
         "name": "Australia",
+        "capital": "Canberra",
         "flag": "flags/countries/Australia.png"
     },
     {
         "name": "New Zealand",
+        "capital": "Wellington",
         "flag": "flags/countries/New Zealand.png"
     },
 
@@ -843,18 +1028,22 @@
 
     {
         "name": "Fiji",
+        "capital": "Suva",
         "flag": "flags/countries/Fiji.png"
     },
     {
         "name": "Papua New Guinea",
+        "capital": "Port Moresby",
         "flag": "flags/countries/Papua New Guinea.png"
     },
     {
         "name": "Solomon Islands",
+        "capital": "Honiara",
         "flag": "flags/countries/Solomon Islands.png"
     },
     {
         "name": "Vanuatu",
+        "capital": "Port Vila",
         "flag": "flags/countries/Vanuatu.png"
     },
 
@@ -862,22 +1051,27 @@
 
     {
         "name": "Kiribati",
+        "capital": "South Tarawa",
         "flag": "flags/countries/Kiribati.png"
     },
     {
         "name": "Marshall Islands",
+        "capital": "Majuro",
         "flag": "flags/countries/Marshall Islands.png"
     },
     {
         "name": "Micronesia",
+        "capital": "Palikir",
         "flag": "flags/countries/Micronesia.png"
     },
     {
         "name": "Naoero",
+        "capital": "Yaren",
         "flag": "flags/countries/Naoero.png"
     },
     {
         "name": "Palau",
+        "capital": "Ngerulmud",
         "flag": "flags/countries/Palau.png"
     },
 
@@ -885,14 +1079,17 @@
 
     {
         "name": "Samoa",
+        "capital": "Apia",
         "flag": "flags/countries/Samoa.png"
     },
     {
         "name": "Tonga",
+        "capital": "Nuku'alofa",
         "flag": "flags/countries/Tonga.png"
     },
     {
         "name": "Tuvalu",
+        "capital": "Funafuti",
         "flag": "flags/countries/Tuvalu.png"
     }
 ]
