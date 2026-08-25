@@ -200,6 +200,8 @@ export class Quiz {
 
 
                 button.addEventListener("click", () => {
+                    button.disabled = true;
+
                     if (option === correct) {
                         button.style.backgroundColor = "green";
                     } else {
@@ -222,6 +224,8 @@ export class Quiz {
                 button.textContent = option.name;
 
                 button.addEventListener("click", () => {
+                    button.disabled = true;
+
                     if (option === correct) {
                         button.style.backgroundColor = "green";
                     } else {
