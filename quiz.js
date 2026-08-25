@@ -200,6 +200,11 @@ export class Quiz {
 
 
                 button.addEventListener("click", () => {
+                    if (option === correct) {
+                        button.style.backgroundColor = "green";
+                    } else {
+                        button.style.backgroundColor = "red";
+                    }
 
                     this.checkAnswer(option, correct);
 
@@ -217,6 +222,12 @@ export class Quiz {
                 button.textContent = option.name;
 
                 button.addEventListener("click", () => {
+                    if (option === correct) {
+                        button.style.backgroundColor = "green";
+                    } else {
+                        button.style.backgroundColor = "red";
+                    }
+
                     this.checkAnswer(option, correct);
                 });
 
@@ -234,7 +245,7 @@ export class Quiz {
         ];
     }
 
-    checkAnswer(option, correct) {
+    async checkAnswer(option, correct) {
 
         if (!this.isActive() || this.gameOver) {
             return;
@@ -246,6 +257,7 @@ export class Quiz {
 
             this.scorelabel.textContent = `Score: ${this.score}`;
 
+            await new Promise(resolve => setTimeout(resolve, 200));
             this.nextQuestion();
 
         } else {
