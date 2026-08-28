@@ -267,6 +267,7 @@ export class Quiz {
 
             if (this.hp === 0) {
 
+                await new Promise(resolve => setTimeout(resolve, 500));
                 this.deathScreen();
 
             }
