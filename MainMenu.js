@@ -143,20 +143,24 @@ export class MainMenu {
 
         const regioniscountry = this.countries.some(country => country.name.toLowerCase() === region.toLowerCase());
 
+        if (region === "Topo-Test Luan" || region === "Gewässer, Inseln u. HI" || region === "Gebirge u. Tiefländer") {
+            this.quizSelection(region, "topo-test luan");
+        } else {
+            if (!regioniscountry) {
 
-        if (!regioniscountry) {
+                this.buttons.appendChild(countriesbtn);
+                this.buttons.appendChild(capitalsbtn);
+                window.addEventListener("resize", updateFontSize(countriesbtn, 0.05))
+                window.addEventListener("resize", updateFontSize(capitalsbtn, 0.05))
+            }
 
-            this.buttons.appendChild(countriesbtn);
-            this.buttons.appendChild(capitalsbtn);
-            window.addEventListener("resize", updateFontSize(countriesbtn, 0.05))
-            window.addEventListener("resize", updateFontSize(capitalsbtn, 0.05))
+
+            this.buttons.appendChild(firstlevelbtn);
+            this.buttons.appendChild(secondlevelbtn);
+            window.addEventListener("resize", updateFontSize(firstlevelbtn, 0.05))
+            window.addEventListener("resize", updateFontSize(secondlevelbtn, 0.05))
         }
-
-
-        this.buttons.appendChild(firstlevelbtn);
-        this.buttons.appendChild(secondlevelbtn);
-        window.addEventListener("resize", updateFontSize(firstlevelbtn, 0.05))
-        window.addEventListener("resize", updateFontSize(secondlevelbtn, 0.05))
+        
     }
 
 

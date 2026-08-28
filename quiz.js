@@ -66,6 +66,12 @@ export class Quiz {
 
             this.items = await fetch(`options/secondlevel/${this.region} secondlevel.json`)
                 .then(response => response.json());
+
+        } else if (this.level === "topo-test luan") {
+
+            this.items = await fetch(`options/topotestluan/${this.region}.json`)
+                .then(response => response.json());
+
         }
 
         if (!this.isActive()) {
