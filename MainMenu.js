@@ -199,15 +199,19 @@ export class MainMenu {
         if (quiztype === "countries") {
             content = await fetch(`options/regions/${safeRegion}.json`)
                 .then(response => response.json());
+            this.currentselection.textContent = `${region} - Countries - Quizselection`;
         } else if (quiztype === "firstlevel") {
             content = await fetch(`options/firstlevel/${safeRegion} firstlevel.json`)
                 .then(response => response.json());
+            this.currentselection.textContent = `${region} - First-Level Subdivisions - Quizselection`;
         } else if (quiztype === "secondlevel") {
             content = await fetch(`options/secondlevel/${safeRegion} secondlevel.json`)
                 .then(response => response.json());
+            this.currentselection.textContent = `${region} - Second-Level Subdivisions - Quizselection`;
         } else if (quiztype === "topo-test luan") {
             content = await fetch(`options/topotestluan/${safeRegion}.json`)
                 .then(response => response.json());
+            this.currentselection.textContent = `${region} - Topo-Test Luan - Quizselection`;
         }
 
         const availableProperties = this.getAvailableProperties(content);
