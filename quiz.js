@@ -5,7 +5,7 @@ import { updateFontSize } from "./updateFontSize.js";
 
 export class Quiz {
 
-    constructor(region, quiztype, questiontype, answertype, level, questiontypetype, answertypetype) {
+    constructor(region, quiztype, questiontype, answertype, level, questiontypetype, answertypetype, items) {
 
         if (Quiz.activeQuiz) {
             Quiz.activeQuiz.stop();
@@ -23,7 +23,7 @@ export class Quiz {
         this.questiontypetype = questiontypetype;
         this.answertypetype = answertypetype
 
-        this.items = [];
+        this.items = items;
         this.previousquestions = [];
 
         this.advancedrandomnesslevel = 0;
@@ -51,28 +51,6 @@ export class Quiz {
     }
 
     async start() {
-
-        if (this.level === "countries" || this.level === "capitals") {
-
-            this.items = await fetch(`options/regions/${this.region}.json`)
-                .then(response => response.json());
-
-        } else if (this.level === "firstlevel") {
-
-            this.items = await fetch(`options/firstlevel/${this.region} firstlevel.json`)
-                .then(response => response.json());
-
-        } else if (this.level === "secondlevel") {
-
-            this.items = await fetch(`options/secondlevel/${this.region} secondlevel.json`)
-                .then(response => response.json());
-
-        } else if (this.level === "topo-test luan") {
-
-            this.items = await fetch(`options/topotestluan/${this.region}.json`)
-                .then(response => response.json());
-
-        }
 
         if (!this.isActive()) {
             return;

@@ -90,6 +90,10 @@ body {
     color: white;
 }
 
+#buttons:has(> :only-child) {
+    grid-template-columns: 1fr;
+}
+
 
 #score-image-names {
     width: 100%;
