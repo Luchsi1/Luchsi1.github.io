@@ -1,182 +1,182 @@
 [
     {
         "name": "Nordsee",
-        "flag": "flags/topotestluan/Nordsee.png"
+        "map": "flags/topotestluan/Nordsee.png"
     },
     {
         "name": "Ostsee",
-        "flag": "flags/topotestluan/Ostsee.png"
+        "map": "flags/topotestluan/Ostsee.png"
     },
     {
         "name": "Kieler Bucht",
-        "flag": "flags/topotestluan/Kieler Bucht.png"
+        "map": "flags/topotestluan/Kieler Bucht.png"
     },
     {
         "name": "Lübecker Bucht",
-        "flag": "flags/topotestluan/Lübecker Bucht.png"
+        "map": "flags/topotestluan/Lübecker Bucht.png"
     },
     {
         "name": "Pommersche Bucht",
-        "flag": "flags/topotestluan/Pommersche Bucht.png"
+        "map": "flags/topotestluan/Pommersche Bucht.png"
     },
     {
         "name": "Schweriner See",
-        "flag": "flags/topotestluan/Schweriner See.png"
+        "map": "flags/topotestluan/Schweriner See.png"
     },
     {
         "name": "Müritz",
-        "flag": "flags/topotestluan/Müritz.png"
+        "map": "flags/topotestluan/Müritz.png"
     },
     {
         "name": "Bodensee",
-        "flag": "flags/topotestluan/Bodensee.png"
+        "map": "flags/topotestluan/Bodensee.png"
     },
     {
         "name": "Starnberger See",
-        "flag": "flags/topotestluan/Starnberger See.png"
+        "map": "flags/topotestluan/Starnberger See.png"
     },
     {
         "name": "Chiemsee",
-        "flag": "flags/topotestluan/Chiemsee.png"
+        "map": "flags/topotestluan/Chiemsee.png"
     },
     {
         "name": "Rhein",
-        "flag": "flags/topotestluan/Rhein.png"
+        "map": "flags/topotestluan/Rhein.png"
     },
     {
         "name": "Weser",
-        "flag": "flags/topotestluan/Weser.png"
+        "map": "flags/topotestluan/Weser.png"
     },
     {
         "name": "Elbe",
-        "flag": "flags/topotestluan/Elbe.png"
+        "map": "flags/topotestluan/Elbe.png"
     },
     {
         "name": "Saale",
-        "flag": "flags/topotestluan/Saale.png"
+        "map": "flags/topotestluan/Saale.png"
     },
     {
         "name": "Havel",
-        "flag": "flags/topotestluan/Havel.png"
+        "map": "flags/topotestluan/Havel.png"
     },
     {
         "name": "Spree",
-        "flag": "flags/topotestluan/Spree.png"
+        "map": "flags/topotestluan/Spree.png"
     },
     {
         "name": "Oder",
-        "flag": "flags/topotestluan/Oder.png"
+        "map": "flags/topotestluan/Oder.png"
     },
     {
         "name": "Ems",
-        "flag": "flags/topotestluan/Ems.png"
+        "map": "flags/topotestluan/Ems.png"
     },
     {
         "name": "Mosel",
-        "flag": "flags/topotestluan/Mosel.png"
+        "map": "flags/topotestluan/Mosel.png"
     },
     {
         "name": "Main",
-        "flag": "flags/topotestluan/Main.png"
+        "map": "flags/topotestluan/Main.png"
     },
     {
         "name": "Donau",
-        "flag": "flags/topotestluan/Donau.png"
+        "map": "flags/topotestluan/Donau.png"
     },
     {
         "name": "Inn",
-        "flag": "flags/topotestluan/Inn.png"
+        "map": "flags/topotestluan/Inn.png"
     },
     {
         "name": "Neckar",
-        "flag": "flags/topotestluan/Neckar.png"
+        "map": "flags/topotestluan/Neckar.png"
     },
     {
         "name": "Nord-Ostsee-Kanal (Kiel-Kanal)",
-        "flag": "flags/topotestluan/Nord-Ostsee-Kanal (Kiel-Kanal).png"
+        "map": "flags/topotestluan/Nord-Ostsee-Kanal (Kiel-Kanal).png"
     },
     {
         "name": "Dortmund-Ems-Kanal",
-        "flag": "flags/topotestluan/Dortmund-Ems-Kanal.png"
+        "map": "flags/topotestluan/Dortmund-Ems-Kanal.png"
     },
     {
         "name": "Mittellandkanal",
-        "flag": "flags/topotestluan/Mittellandkanal.png"
+        "map": "flags/topotestluan/Mittellandkanal.png"
     },
     {
         "name": "Oder-Havel-Kanal",
-        "flag": "flags/topotestluan/Oder-Havel-Kanal.png"
+        "map": "flags/topotestluan/Oder-Havel-Kanal.png"
     },
     {
         "name": "Elbe-Havel-Kanal",
-        "flag": "flags/topotestluan/Elbe-Havel-Kanal.png"
+        "map": "flags/topotestluan/Elbe-Havel-Kanal.png"
     },
     {
         "name": "Main-Donau-Kanal",
-        "flag": "flags/topotestluan/Main-Donau-Kanal.png"
+        "map": "flags/topotestluan/Main-Donau-Kanal.png"
     },
     {
         "name": "Helgoland",
-        "flag": "flags/topotestluan/Helgoland.png"
+        "map": "flags/topotestluan/Helgoland.png"
     },
     {
         "name": "Sylt",
-        "flag": "flags/topotestluan/Sylt.png"
+        "map": "flags/topotestluan/Sylt.png"
     },
     {
         "name": "Fehmarn",
-        "flag": "flags/topotestluan/Fehmarn.png"
+        "map": "flags/topotestluan/Fehmarn.png"
     },
     {
         "name": "Poel",
-        "flag": "flags/topotestluan/Poel.png"
+        "map": "flags/topotestluan/Poel.png"
     },
     {
         "name": "Darß",
-        "flag": "flags/topotestluan/Darß.png"
+        "map": "flags/topotestluan/Darß.png"
     },
     {
         "name": "Rügen",
-        "flag": "flags/topotestluan/Rügen.png"
+        "map": "flags/topotestluan/Rügen.png"
     },
     {
         "name": "Hiddensee",
-        "flag": "flags/topotestluan/Hiddensee.png"
+        "map": "flags/topotestluan/Hiddensee.png"
     },
     {
         "name": "Usedom",
-        "flag": "flags/topotestluan/Usedom.png"
+        "map": "flags/topotestluan/Usedom.png"
     },
     {
         "name": "Neiße",
-        "flag": "flags/topotestluan/Neiße.png"
+        "map": "flags/topotestluan/Neiße.png"
     },
     {
         "name": "Lahn",
-        "flag": "flags/topotestluan/Lahn.png"
+        "map": "flags/topotestluan/Lahn.png"
     },
     {
         "name": "Aller",
-        "flag": "flags/topotestluan/Aller.png"
+        "map": "flags/topotestluan/Aller.png"
     },
     {
         "name": "Werra",
-        "flag": "flags/topotestluan/Werra.png"
+        "map": "flags/topotestluan/Werra.png"
     },
     {
         "name": "Fulda",
-        "flag": "flags/topotestluan/Fulda.png"
+        "map": "flags/topotestluan/Fulda.png"
     },
     {
         "name": "Isar",
-        "flag": "flags/topotestluan/Isar.png"
+        "map": "flags/topotestluan/Isar.png"
     },
     {
         "name": "Lech",
-        "flag": "flags/topotestluan/Lech.png"
+        "map": "flags/topotestluan/Lech.png"
     },
     {
         "name": "Iller",
-        "flag": "flags/topotestluan/Iller.png"
+        "map": "flags/topotestluan/Iller.png"
     }
 ]
