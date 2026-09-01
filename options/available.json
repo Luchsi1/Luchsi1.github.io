@@ -1,0 +1,12 @@
+{
+    "regions": [
+        "africa", "alpine", "arabian peninsula", "asia", "australia and new zealand", "balkan peninsula", "baltic", "benelux", "black sea", "british isles", "cameroon basin", "caribbean", "caucasus", "central africa", "central america", "central asia", "central eastern europe", "central sahel", "congo basin", "east africa", "east asia", "eastern caribbean", "eastern europe", "eastern slavic", "europe", "great lakes", "gulf of guinea", "horn of africa", "iberian peninsula", "indian ocean", "italian peninsula", "levant", "mainland", "maritime", "melanesia", "mesopotamia and iran", "micronesia (region)", "nordic", "north america", "northern africa", "northern america", "northern europe", "northern south america", "oceania", "polynesia", "south america", "south asia", "southeast africa", "southeast asia", "southern africa", "southern europe", "southern south america", "upper guinea", "western africa", "western asia", "western caribbean", "western core", "western europe", "world"
+    ],
+    "firstlevel": [
+        "alpine", "austria", "belgium", "benelux", "british isles", "denmark", "france", "germany", "ireland", "liechtenstein", "luxembourg", "monaco", "netherlands", "switzerland", "united kingdom", "western core", "western europe"
+    ],
+    "secondlevel": [],
+    "topotestluan": [
+        "gebirge u. tiefländer", "gewässer, inseln u. hi", "topo-test luan"
+    ]
+}
