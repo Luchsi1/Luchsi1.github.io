@@ -2,31 +2,37 @@
     {
         "name": "Botswana",
         "capital": "Gaborone",
-        "flag": "flags/countries/Botswana.png"
+        "flag": "flags/countries/Botswana.png",
+        "map": "maps/countries/Botswana.png"
     },
     {
         "name": "Eswatini",
         "capital": "Mbabane",
-        "flag": "flags/countries/Eswatini.png"
+        "flag": "flags/countries/Eswatini.png",
+        "map": "maps/countries/Eswatini.png"
     },
     {
         "name": "Lesotho",
         "capital": "Maseru",
-        "flag": "flags/countries/Lesotho.png"
+        "flag": "flags/countries/Lesotho.png",
+        "map": "maps/countries/Lesotho.png"
     },
     {
         "name": "Namibia",
         "capital": "Windhoek",
-        "flag": "flags/countries/Namibia.png"
+        "flag": "flags/countries/Namibia.png",
+        "map": "maps/countries/Namibia.png"
     },
     {
         "name": "South Africa",
         "capital": "Pretoria",
-        "flag": "flags/countries/South Africa.png"
+        "flag": "flags/countries/South Africa.png",
+        "map": "maps/countries/South Africa.png"
     },
     {
         "name": "Zambia",
         "capital": "Lusaka",
-        "flag": "flags/countries/Zambia.png"
+        "flag": "flags/countries/Zambia.png",
+        "map": "maps/countries/Zambia.png"
     }
 ]

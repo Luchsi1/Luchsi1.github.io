@@ -2,16 +2,19 @@
     {
         "name": "Belgium",
         "capital": "Brüssel",
-        "flag": "flags/countries/Belgium.png"
+        "flag": "flags/countries/Belgium.png",
+        "map": "maps/countries/Belgium.png"
     },
     {
         "name": "Luxembourg",
         "capital": "Luxemburg",
-        "flag": "flags/countries/Luxembourg.png"
+        "flag": "flags/countries/Luxembourg.png",
+        "map": "maps/countries/Luxembourg.png"
     },
     {
         "name": "Netherlands",
         "capital": "Amsterdam",
-        "flag": "flags/countries/Netherlands.png"
+        "flag": "flags/countries/Netherlands.png",
+        "map": "maps/countries/Netherlands.png"
     }
 ]

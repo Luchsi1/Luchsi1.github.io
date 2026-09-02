@@ -2,21 +2,25 @@
     {
         "name": "Czech Republic",
         "capital": "Prag",
-        "flag": "flags/countries/Czech Republic.png"
+        "flag": "flags/countries/Czech Republic.png",
+        "map": "maps/countries/Czech Republic.png"
     },
     {
         "name": "Hungary",
         "capital": "Budapest",
-        "flag": "flags/countries/Hungary.png"
+        "flag": "flags/countries/Hungary.png",
+        "map": "maps/countries/Hungary.png"
     },
     {
         "name": "Poland",
         "capital": "Warschau",
-        "flag": "flags/countries/Poland.png"
+        "flag": "flags/countries/Poland.png",
+        "map": "maps/countries/Poland.png"
     },
     {
         "name": "Slovakia",
         "capital": "Bratislava",
-        "flag": "flags/countries/Slovakia.png"
+        "flag": "flags/countries/Slovakia.png",
+        "map": "maps/countries/Slovakia.png"
     }
 ]

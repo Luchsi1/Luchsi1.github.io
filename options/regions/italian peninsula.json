@@ -2,21 +2,25 @@
     {
         "name": "Italy",
         "capital": "Rom",
-        "flag": "flags/countries/Italy.png"
+        "flag": "flags/countries/Italy.png",
+        "map": "maps/countries/Italy.png"
     },
     {
         "name": "Malta",
         "capital": "Valletta",
-        "flag": "flags/countries/Malta.png"
+        "flag": "flags/countries/Malta.png",
+        "map": "maps/countries/Malta.png"
     },
     {
         "name": "San Marino",
         "capital": "San Marino",
-        "flag": "flags/countries/San Marino.png"
+        "flag": "flags/countries/San Marino.png",
+        "map": "maps/countries/San Marino.png"
     },
     {
         "name": "Vatican City",
         "capital": "Vatikanstadt",
-        "flag": "flags/countries/Vatican City.png"
+        "flag": "flags/countries/Vatican City.png",
+        "map": "maps/countries/Vatican City.png"
     }
 ]

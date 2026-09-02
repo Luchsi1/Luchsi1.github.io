@@ -2,85 +2,101 @@
     {
         "name": "Andorra",
         "capital": "Andorra La Vella",
-        "flag": "flags/countries/Andorra.png"
+        "flag": "flags/countries/Andorra.png",
+        "map": "maps/countries/Andorra.png"
     },
     {
         "name": "Portugal",
         "capital": "Lissabon",
-        "flag": "flags/countries/Portugal.png"
+        "flag": "flags/countries/Portugal.png",
+        "map": "maps/countries/Portugal.png"
     },
     {
         "name": "Spain",
         "capital": "Madrid",
-        "flag": "flags/countries/Spain.png"
+        "flag": "flags/countries/Spain.png",
+        "map": "maps/countries/Spain.png"
     },
 
 
     {
         "name": "Italy",
         "capital": "Rom",
-        "flag": "flags/countries/Italy.png"
+        "flag": "flags/countries/Italy.png",
+        "map": "maps/countries/Italy.png"
     },
     {
         "name": "Malta",
         "capital": "Valletta",
-        "flag": "flags/countries/Malta.png"
+        "flag": "flags/countries/Malta.png",
+        "map": "maps/countries/Malta.png"
     },
     {
         "name": "San Marino",
         "capital": "San Marino",
-        "flag": "flags/countries/San Marino.png"
+        "flag": "flags/countries/San Marino.png",
+        "map": "maps/countries/San Marino.png"
     },
     {
         "name": "Vatican City",
         "capital": "Vatikanstadt",
-        "flag": "flags/countries/Vatican City.png"
+        "flag": "flags/countries/Vatican City.png",
+        "map": "maps/countries/Vatican City.png"
     },
 
 
     {
         "name": "Albania",
         "capital": "Tirana",
-        "flag": "flags/countries/Albania.png"
+        "flag": "flags/countries/Albania.png",
+        "map": "maps/countries/Albania.png"
     },
     {
         "name": "Bosnia and Herzegovina",
         "capital": "Sarajevo",
-        "flag": "flags/countries/Bosnia and Herzegovina.png"
+        "flag": "flags/countries/Bosnia and Herzegovina.png",
+        "map": "maps/countries/Bosnia and Herzegovina.png"
     },
     {
         "name": "Croatia",
         "capital": "Zagreb",
-        "flag": "flags/countries/Croatia.png"
+        "flag": "flags/countries/Croatia.png",
+        "map": "maps/countries/Croatia.png"
     },
     {
         "name": "Greece",
         "capital": "Athen",
-        "flag": "flags/countries/Greece.png"
+        "flag": "flags/countries/Greece.png",
+        "map": "maps/countries/Greece.png"
     },
     {
-        "name": "Kosvo",
+        "name": "Kosovo",
         "capital": "Priština",
-        "flag": "flags/countries/Kosovo.png"
+        "flag": "flags/countries/Kosovo.png",
+        "map": "maps/countries/Kosovo.png"
     },
     {
         "name": "Montenegro",
         "capital": "Podgorica",
-        "flag": "flags/countries/Montenegro.png"
+        "flag": "flags/countries/Montenegro.png",
+        "map": "maps/countries/Montenegro.png"
     },
     {
         "name": "North Macedonia",
         "capital": "Skopje",
-        "flag": "flags/countries/North Macedonia.png"
+        "flag": "flags/countries/North Macedonia.png",
+        "map": "maps/countries/North Macedonia.png"
     },
     {
         "name": "Serbia",
         "capital": "Belgrad",
-        "flag": "flags/countries/Serbia.png"
+        "flag": "flags/countries/Serbia.png",
+        "map": "maps/countries/Serbia.png"
     },
     {
         "name": "Slovenia",
         "capital": "Ljubljana",
-        "flag": "flags/countries/Slovenia.png"
+        "flag": "flags/countries/Slovenia.png",
+        "map": "maps/countries/Slovenia.png"
     }
 ]

@@ -2,11 +2,13 @@
     {
         "name": "Ireland",
         "capital": "Dublin",
-        "flag": "flags/countries/Ireland.png"
+        "flag": "flags/countries/Ireland.png",
+        "map": "maps/countries/Ireland.png"
     },
     {
         "name": "United Kingdom",
         "capital": "London",
-        "flag": "flags/countries/United Kingdom.png"
+        "flag": "flags/countries/United Kingdom.png",
+        "map": "maps/countries/United Kingdom.png"
     }
 ]

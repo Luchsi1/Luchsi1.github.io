@@ -2,31 +2,37 @@
     {
         "name": "Brunei",
         "capital": "Bandar Seri Begawan",
-        "flag": "flags/countries/Brunei.png"
+        "flag": "flags/countries/Brunei.png",
+        "map": "maps/countries/Brunei.png"
     },
     {
         "name": "Indonesia",
         "capital": "Jakarta",
-        "flag": "flags/countries/Indonesia.png"
+        "flag": "flags/countries/Indonesia.png",
+        "map": "maps/countries/Indonesia.png"
     },
     {
         "name": "Malaysia",
         "capital": "Kuala Lumpur",
-        "flag": "flags/countries/Malaysia.png"
+        "flag": "flags/countries/Malaysia.png",
+        "map": "maps/countries/Malaysia.png"
     },
     {
         "name": "Philippines",
         "capital": "Manila",
-        "flag": "flags/countries/Philippines.png"
+        "flag": "flags/countries/Philippines.png",
+        "map": "maps/countries/Philippines.png"
     },
     {
         "name": "Singapore",
         "capital": "Singapur",
-        "flag": "flags/countries/Singapore.png"
+        "flag": "flags/countries/Singapore.png",
+        "map": "maps/countries/Singapore.png"
     },
     {
         "name": "Timor-Leste",
         "capital": "Dili",
-        "flag": "flags/countries/Timor-Leste.png"
+        "flag": "flags/countries/Timor-Leste.png",
+        "map": "maps/countries/Timor-Leste.png"
     }
 ]

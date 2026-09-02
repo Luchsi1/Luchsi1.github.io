@@ -2,16 +2,19 @@
     {
         "name": "France",
         "capital": "Paris",
-        "flag": "flags/countries/France.png"
+        "flag": "flags/countries/France.png",
+        "map": "maps/countries/France.png"
     },
     {
         "name": "Germany",
         "capital": "Berlin",
-        "flag": "flags/countries/Germany.png"
+        "flag": "flags/countries/Germany.png",
+        "map": "maps/countries/Germany.png"
     },
     {
         "name": "Monaco",
         "capital": "Monaco",
-        "flag": "flags/countries/Monaco.png"
+        "flag": "flags/countries/Monaco.png",
+        "map": "maps/countries/Monaco.png"
     }
 ]

@@ -2,92 +2,109 @@
     {
         "name": "Djibouti",
         "capital": "Dschibuti",
-        "flag": "flags/countries/Djibouti.png"
+        "flag": "flags/countries/Djibouti.png",
+        "map": "maps/countries/Djibouti.png"
     },
     {
         "name": "Eritrea",
         "capital": "Asmara",
-        "flag": "flags/countries/Eritrea.png"
+        "flag": "flags/countries/Eritrea.png",
+        "map": "maps/countries/Eritrea.png"
     },
     {
         "name": "Ethiopia",
         "capital": "Addis Abeba",
-        "flag": "flags/countries/Ethiopia.png"
+        "flag": "flags/countries/Ethiopia.png",
+        "map": "maps/countries/Ethiopia.png"
     },
     {
         "name": "Somalia",
         "capital": "Mogadischu",
-        "flag": "flags/countries/Somalia.png"
+        "flag": "flags/countries/Somalia.png",
+        "map": "maps/countries/Somalia.png"
     },
 
 
     {
         "name": "Burundi",
         "capital": "Gitega",
-        "flag": "flags/countries/Burundi.png"
+        "flag": "flags/countries/Burundi.png",
+        "map": "maps/countries/Burundi.png"
     },
     {
         "name": "Kenya",
         "capital": "Nairobi",
-        "flag": "flags/countries/Kenya.png"
+        "flag": "flags/countries/Kenya.png",
+        "map": "maps/countries/Kenya.png"
     },
     {
         "name": "Rwanda",
         "capital": "Kigali",
-        "flag": "flags/countries/Rwanda.png"
+        "flag": "flags/countries/Rwanda.png",
+        "map": "maps/countries/Rwanda.png"
     },
     {
         "name": "South Sudan",
         "capital": "Juba",
-        "flag": "flags/countries/South Sudan.png"
+        "flag": "flags/countries/South Sudan.png",
+        "map": "maps/countries/South Sudan.png"
     },
     {
         "name": "Tanzania",
         "capital": "Dodoma",
-        "flag": "flags/countries/Tanzania.png"
+        "flag": "flags/countries/Tanzania.png",
+        "map": "maps/countries/Tanzania.png"
     },
     {
         "name": "Uganda",
         "capital": "Kampala",
-        "flag": "flags/countries/Uganda.png"
+        "flag": "flags/countries/Uganda.png",
+        "map": "maps/countries/Uganda.png"
     },
 
 
     {
         "name": "Malawi",
         "capital": "Lilongwe",
-        "flag": "flags/countries/Malawi.png"
+        "flag": "flags/countries/Malawi.png",
+        "map": "maps/countries/Malawi.png"
     },
     {
         "name": "Mozambique",
         "capital": "Maputo",
-        "flag": "flags/countries/Mozambique.png"
+        "flag": "flags/countries/Mozambique.png",
+        "map": "maps/countries/Mozambique.png"
     },
     {
         "name": "Zimbabwe",
         "capital": "Harare",
-        "flag": "flags/countries/Zimbabwe.png"
+        "flag": "flags/countries/Zimbabwe.png",
+        "map": "maps/countries/Zimbabwe.png"
     },
 
     
     {
-        "name": "Comores",
+        "name": "Comoros",
         "capital": "Moroni",
-        "flag": "flags/countries/Comores.png"
+        "flag": "flags/countries/Comoros.png",
+        "map": "maps/countries/Comoros.png"
     },
     {
         "name": "Madagascar",
         "capital": "Antananarivo",
-        "flag": "flags/countries/Madagascar.png"
+        "flag": "flags/countries/Madagascar.png",
+        "map": "maps/countries/Madagascar.png"
     },
     {
         "name": "Mauritius",
         "capital": "Port Louis",
-        "flag": "flags/countries/Mauritius.png"
+        "flag": "flags/countries/Mauritius.png",
+        "map": "maps/countries/Mauritius.png"
     },
     {
         "name": "Seychelles",
         "capital": "Victoria",
-        "flag": "flags/countries/Seychelles.png"
+        "flag": "flags/countries/Seychelles.png",
+        "map": "maps/countries/Seychelles.png"
     }
 ]

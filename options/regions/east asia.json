@@ -2,31 +2,37 @@
     {
         "name": "China",
         "capital": "Peking",
-        "flag": "flags/countries/China.png"
+        "flag": "flags/countries/China.png",
+        "map": "maps/countries/China.png"
     },
     {
         "name": "Japan",
         "capital": "Tokio",
-        "flag": "flags/countries/Japan.png"
+        "flag": "flags/countries/Japan.png",
+        "map": "maps/countries/Japan.png"
     },
     {
         "name": "Mongolia",
         "capital": "Ulaanbaatar",
-        "flag": "flags/countries/Mongolia.png"
+        "flag": "flags/countries/Mongolia.png",
+        "map": "maps/countries/Mongolia.png"
     },
     {
         "name": "North Korea",
         "capital": "Pjöngjang",
-        "flag": "flags/countries/North Korea.png"
+        "flag": "flags/countries/North Korea.png",
+        "map": "maps/countries/North Korea.png"
     },
     {
         "name": "South Korea",
         "capital": "Seoul",
-        "flag": "flags/countries/South Korea.png"
+        "flag": "flags/countries/South Korea.png",
+        "map": "maps/countries/South Korea.png"
     },
     {
         "name": "Taiwan",
         "capital": "Taipeh",
-        "flag": "flags/countries/Taiwan.png"
+        "flag": "flags/countries/Taiwan.png",
+        "map": "maps/countries/Taiwan.png"
     }
 ]

@@ -2,16 +2,19 @@
     {
         "name": "Andorra",
         "capital": "Andorra La Vella",
-        "flag": "flags/countries/Andorra.png"
+        "flag": "flags/countries/Andorra.png",
+        "map": "maps/countries/Andorra.png"
     },
     {
         "name": "Portugal",
         "capital": "Lissabon",
-        "flag": "flags/countries/Portugal.png"
+        "flag": "flags/countries/Portugal.png",
+        "map": "maps/countries/Portugal.png"
     },
     {
         "name": "Spain",
         "capital": "Madrid",
-        "flag": "flags/countries/Spain.png"
+        "flag": "flags/countries/Spain.png",
+        "map": "maps/countries/Spain.png"
     }
 ]

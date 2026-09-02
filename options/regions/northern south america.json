@@ -2,41 +2,49 @@
     {
         "name": "Bolivia",
         "capital": "Sucre",
-        "flag": "flags/countries/Bolivia.png"
+        "flag": "flags/countries/Bolivia.png",
+        "map": "maps/countries/Bolivia.png"
     },
     {
         "name": "Brazil",
         "capital": "Brasília",
-        "flag": "flags/countries/Brazil.png"
+        "flag": "flags/countries/Brazil.png",
+        "map": "maps/countries/Brazil.png"
     },
     {
         "name": "Colombia",
         "capital": "Bogotá",
-        "flag": "flags/countries/Colombia.png"
+        "flag": "flags/countries/Colombia.png",
+        "map": "maps/countries/Colombia.png"
     },
     {
         "name": "Ecuador",
         "capital": "Quito",
-        "flag": "flags/countries/Ecuador.png"
+        "flag": "flags/countries/Ecuador.png",
+        "map": "maps/countries/Ecuador.png"
     },
     {
         "name": "Guyana",
         "capital": "Georgetown",
-        "flag": "flags/countries/Guyana.png"
+        "flag": "flags/countries/Guyana.png",
+        "map": "maps/countries/Guyana.png"
     },
     {
         "name": "Peru",
         "capital": "Lima",
-        "flag": "flags/countries/Peru.png"
+        "flag": "flags/countries/Peru.png",
+        "map": "maps/countries/Peru.png"
     },
     {
         "name": "Suriname",
         "capital": "Paramaribo",
-        "flag": "flags/countries/Suriname.png"
+        "flag": "flags/countries/Suriname.png",
+        "map": "maps/countries/Suriname.png"
     },
     {
         "name": "Venezuela",
         "capital": "Caracas",
-        "flag": "flags/countries/Venezuela.png"
+        "flag": "flags/countries/Venezuela.png",
+        "map": "maps/countries/Venezuela.png"
     }
 ]

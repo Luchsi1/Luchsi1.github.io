@@ -1,22 +1,26 @@
 [
     {
-        "name": "Comores",
+        "name": "Comoros",
         "capital": "Moroni",
-        "flag": "flags/countries/Comores.png"
+        "flag": "flags/countries/Comoros.png",
+        "map": "maps/countries/Comoros.png"
     },
     {
         "name": "Madagascar",
         "capital": "Antananarivo",
-        "flag": "flags/countries/Madagascar.png"
+        "flag": "flags/countries/Madagascar.png",
+        "map": "maps/countries/Madagascar.png"
     },
     {
         "name": "Mauritius",
         "capital": "Port Louis",
-        "flag": "flags/countries/Mauritius.png"
+        "flag": "flags/countries/Mauritius.png",
+        "map": "maps/countries/Mauritius.png"
     },
     {
         "name": "Seychelles",
         "capital": "Victoria",
-        "flag": "flags/countries/Seychelles.png"
+        "flag": "flags/countries/Seychelles.png",
+        "map": "maps/countries/Seychelles.png"
     }
 ]

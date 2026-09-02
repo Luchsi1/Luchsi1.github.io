@@ -2,12 +2,14 @@
     {
         "name": "Australia",
         "capital": "Canberra",
-        "flag": "flags/countries/Australia.png"
+        "flag": "flags/countries/Australia.png",
+        "map": "maps/countries/Australia.png"
     },
     {
         "name": "New Zealand",
         "capital": "Wellington",
-        "flag": "flags/countries/New Zealand.png"
+        "flag": "flags/countries/New Zealand.png",
+        "map": "maps/countries/New Zealand.png"
     },
 
     
@@ -15,22 +17,26 @@
     {
         "name": "Fiji",
         "capital": "Suva",
-        "flag": "flags/countries/Fiji.png"
+        "flag": "flags/countries/Fiji.png",
+        "map": "maps/countries/Fiji.png"
     },
     {
         "name": "Papua New Guinea",
         "capital": "Port Moresby",
-        "flag": "flags/countries/Papua New Guinea.png"
+        "flag": "flags/countries/Papua New Guinea.png",
+        "map": "maps/countries/Papua New Guinea.png"
     },
     {
         "name": "Solomon Islands",
         "capital": "Honiara",
-        "flag": "flags/countries/Solomon Islands.png"
+        "flag": "flags/countries/Solomon Islands.png",
+        "map": "maps/countries/Solomon Islands.png"
     },
     {
         "name": "Vanuatu",
         "capital": "Port Vila",
-        "flag": "flags/countries/Vanuatu.png"
+        "flag": "flags/countries/Vanuatu.png",
+        "map": "maps/countries/Vanuatu.png"
     },
 
 
@@ -38,27 +44,32 @@
     {
         "name": "Kiribati",
         "capital": "South Tarawa",
-        "flag": "flags/countries/Kiribati.png"
+        "flag": "flags/countries/Kiribati.png",
+        "map": "maps/countries/Kiribati.png"
     },
     {
         "name": "Marshall Islands",
         "capital": "Majuro",
-        "flag": "flags/countries/Marshall Islands.png"
+        "flag": "flags/countries/Marshall Islands.png",
+        "map": "maps/countries/Marshall Islands.png"
     },
     {
         "name": "Micronesia",
         "capital": "Palikir",
-        "flag": "flags/countries/Micronesia.png"
+        "flag": "flags/countries/Micronesia.png",
+        "map": "maps/countries/Micronesia.png"
     },
     {
         "name": "Naoero",
         "capital": "Yaren",
-        "flag": "flags/countries/Naoero.png"
+        "flag": "flags/countries/Naoero.png",
+        "map": "maps/countries/Naoero.png"
     },
     {
         "name": "Palau",
         "capital": "Ngerulmud",
-        "flag": "flags/countries/Palau.png"
+        "flag": "flags/countries/Palau.png",
+        "map": "maps/countries/Palau.png"
     },
 
 
@@ -66,16 +77,19 @@
     {
         "name": "Samoa",
         "capital": "Apia",
-        "flag": "flags/countries/Samoa.png"
+        "flag": "flags/countries/Samoa.png",
+        "map": "maps/countries/Samoa.png"
     },
     {
         "name": "Tonga",
         "capital": "Nuku'alofa",
-        "flag": "flags/countries/Tonga.png"
+        "flag": "flags/countries/Tonga.png",
+        "map": "maps/countries/Tonga.png"
     },
     {
         "name": "Tuvalu",
         "capital": "Funafuti",
-        "flag": "flags/countries/Tuvalu.png"
+        "flag": "flags/countries/Tuvalu.png",
+        "map": "maps/countries/Tuvalu.png"
     }
 ]

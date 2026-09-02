@@ -2,16 +2,19 @@
     {
         "name": "Samoa",
         "capital": "Apia",
-        "flag": "flags/countries/Samoa.png"
+        "flag": "flags/countries/Samoa.png",
+        "map": "maps/countries/Samoa.png"
     },
     {
         "name": "Tonga",
         "capital": "Nuku'alofa",
-        "flag": "flags/countries/Tonga.png"
+        "flag": "flags/countries/Tonga.png",
+        "map": "maps/countries/Tonga.png"
     },
     {
         "name": "Tuvalu",
         "capital": "Funafuti",
-        "flag": "flags/countries/Tuvalu.png"
+        "flag": "flags/countries/Tuvalu.png",
+        "map": "maps/countries/Tuvalu.png"
     }
 ]

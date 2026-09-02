@@ -2,26 +2,31 @@
     {
         "name": "Kazakhstan",
         "capital": "Astana",
-        "flag": "flags/countries/Kazakhstan.png"
+        "flag": "flags/countries/Kazakhstan.png",
+        "map": "maps/countries/Kazakhstan.png"
     },
     {
         "name": "Kyrgyzstan",
         "capital": "Bischkek",
-        "flag": "flags/countries/Kyrgyzstan.png"
+        "flag": "flags/countries/Kyrgyzstan.png",
+        "map": "maps/countries/Kyrgyzstan.png"
     },
     {
         "name": "Tajikistan",
         "capital": "Duschanbe",
-        "flag": "flags/countries/Tajikistan.png"
+        "flag": "flags/countries/Tajikistan.png",
+        "map": "maps/countries/Tajikistan.png"
     },
     {
         "name": "Turkmenistan",
         "capital": "Aşgabat",
-        "flag": "flags/countries/Turkmenistan.png"
+        "flag": "flags/countries/Turkmenistan.png",
+        "map": "maps/countries/Turkmenistan.png"
     },
     {
         "name": "Uzbekistan",
         "capital": "Taschkent",
-        "flag": "flags/countries/Uzbekistan.png"
+        "flag": "flags/countries/Uzbekistan.png",
+        "map": "maps/countries/Uzbekistan.png"
     }
 ]

@@ -2,16 +2,19 @@
     {
         "name": "Austria",
         "capital": "Wien",
-        "flag": "flags/countries/Austria.png"
+        "flag": "flags/countries/Austria.png",
+        "map": "maps/countries/Austria.png"
     },
     {
         "name": "Liechtenstein",
         "capital": "Vaduz",
-        "flag": "flags/countries/Liechtenstein.png"
+        "flag": "flags/countries/Liechtenstein.png",
+        "map": "maps/countries/Liechtenstein.png"
     },
     {
         "name": "Switzerland",
         "capital": "Bern",
-        "flag": "flags/countries/Switzerland.png"
+        "flag": "flags/countries/Switzerland.png",
+        "map": "maps/countries/Switzerland.png"
     }
 ]

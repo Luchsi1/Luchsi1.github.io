@@ -2,11 +2,13 @@
     {
         "name": "Belarus",
         "capital": "Minsk",
-        "flag": "flags/countries/Belarus.png"
+        "flag": "flags/countries/Belarus.png",
+        "map": "maps/countries/Belarus.png"
     },
     {
         "name": "Russia",
         "capital": "Moskau",
-        "flag": "flags/countries/Russia.png"
+        "flag": "flags/countries/Russia.png",
+        "map": "maps/countries/Russia.png"
     }
 ]

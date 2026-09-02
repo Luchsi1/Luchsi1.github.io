@@ -2,43 +2,51 @@
     {
         "name": "Denmark",
         "capital": "Kopenhagen",
-        "flag": "flags/countries/Denmark.png"
+        "flag": "flags/countries/Denmark.png",
+        "map": "maps/countries/Denmark.png"
     },
     {
         "name": "Finland",
         "capital": "Helsinki",
-        "flag": "flags/countries/Finland.png"
+        "flag": "flags/countries/Finland.png",
+        "map": "maps/countries/Finland.png"
     },
     {
         "name": "Iceland",
         "capital": "Reykjavik",
-        "flag": "flags/countries/Iceland.png"
+        "flag": "flags/countries/Iceland.png",
+        "map": "maps/countries/Iceland.png"
     },
     {
         "name": "Norway",
         "capital": "Oslo",
-        "flag": "flags/countries/Norway.png"
+        "flag": "flags/countries/Norway.png",
+        "map": "maps/countries/Norway.png"
     },
     {
         "name": "Sweden",
         "capital": "Stockholm",
-        "flag": "flags/countries/Sweden.png"
+        "flag": "flags/countries/Sweden.png",
+        "map": "maps/countries/Sweden.png"
     },
 
 
     {
         "name": "Estonia",
         "capital": "Tallinn",
-        "flag": "flags/countries/Estonia.png"
+        "flag": "flags/countries/Estonia.png",
+        "map": "maps/countries/Estonia.png"
     },
     {
         "name": "Latvia",
         "capital": "Riga",
-        "flag": "flags/countries/Latvia.png"
+        "flag": "flags/countries/Latvia.png",
+        "map": "maps/countries/Latvia.png"
     },
     {
         "name": "Lithuania",
         "capital": "Vilnius",
-        "flag": "flags/countries/Lithuania.png"
+        "flag": "flags/countries/Lithuania.png",
+        "map": "maps/countries/Lithuania.png"
     }
 ]

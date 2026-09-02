@@ -2,26 +2,31 @@
     {
         "name": "Benin",
         "capital": "Porto-Novo",
-        "flag": "flags/countries/Benin.png"
+        "flag": "flags/countries/Benin.png",
+        "map": "maps/countries/Benin.png"
     },
     {
         "name": "Côte d'Ivoire",
         "capital": "Yamoussoukro",
-        "flag": "flags/countries/Côte d'Ivoire.png"
+        "flag": "flags/countries/Côte d'Ivoire.png",
+        "map": "maps/countries/Côte d'Ivoire.png"
     },
     {
         "name": "Ghana",
         "capital": "Accra",
-        "flag": "flags/countries/Ghana.png"
+        "flag": "flags/countries/Ghana.png",
+        "map": "maps/countries/Ghana.png"
     },
     {
         "name": "Liberia",
         "capital": "Monrovia",
-        "flag": "flags/countries/Liberia.png"
+        "flag": "flags/countries/Liberia.png",
+        "map": "maps/countries/Liberia.png"
     },
     {
         "name": "Togo",
         "capital": "Lomé",
-        "flag": "flags/countries/Togo.png"
+        "flag": "flags/countries/Togo.png",
+        "map": "maps/countries/Togo.png"
     }
 ]

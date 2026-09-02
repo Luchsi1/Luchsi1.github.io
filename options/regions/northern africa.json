@@ -2,31 +2,37 @@
     {
         "name": "Algeria",
         "capital": "Algier",
-        "flag": "flags/countries/Algeria.png"
+        "flag": "flags/countries/Algeria.png",
+        "map": "maps/countries/Algeria.png"
     },
     {
         "name": "Egypt",
         "capital": "Kairo",
-        "flag": "flags/countries/Egypt.png"
+        "flag": "flags/countries/Egypt.png",
+        "map": "maps/countries/Egypt.png"
     },
     {
         "name": "Libya",
         "capital": "Tripoli",
-        "flag": "flags/countries/Libya.png"
+        "flag": "flags/countries/Libya.png",
+        "map": "maps/countries/Libya.png"
     },
     {
         "name": "Morocco",
         "capital": "Rabat",
-        "flag": "flags/countries/Morocco.png"
+        "flag": "flags/countries/Morocco.png",
+        "map": "maps/countries/Morocco.png"
     },
     {
         "name": "Sudan",
         "capital": "Khartum",
-        "flag": "flags/countries/Sudan.png"
+        "flag": "flags/countries/Sudan.png",
+        "map": "maps/countries/Sudan.png"
     },
     {
         "name": "Tunisia",
         "capital": "Tunis",
-        "flag": "flags/countries/Tunisia.png"
+        "flag": "flags/countries/Tunisia.png",
+        "map": "maps/countries/Tunisia.png"
     }
 ]

@@ -2,26 +2,31 @@
     {
         "name": "Kiribati",
         "capital": "South Tarawa",
-        "flag": "flags/countries/Kiribati.png"
+        "flag": "flags/countries/Kiribati.png",
+        "map": "maps/countries/Kiribati.png"
     },
     {
         "name": "Marshall Islands",
         "capital": "Majuro",
-        "flag": "flags/countries/Marshall Islands.png"
+        "flag": "flags/countries/Marshall Islands.png",
+        "map": "maps/countries/Marshall Islands.png"
     },
     {
         "name": "Micronesia",
         "capital": "Palikir",
-        "flag": "flags/countries/Micronesia.png"
+        "flag": "flags/countries/Micronesia.png",
+        "map": "maps/countries/Micronesia.png"
     },
     {
         "name": "Naoero",
         "capital": "Yaren",
-        "flag": "flags/countries/Naoero.png"
+        "flag": "flags/countries/Naoero.png",
+        "map": "maps/countries/Naoero.png"
     },
     {
         "name": "Palau",
         "capital": "Ngerulmud",
-        "flag": "flags/countries/Palau.png"
+        "flag": "flags/countries/Palau.png",
+        "map": "maps/countries/Palau.png"
     }
 ]

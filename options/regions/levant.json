@@ -2,31 +2,37 @@
     {
         "name": "Israel",
         "capital": "Jerusalem",
-        "flag": "flags/countries/Israel.png"
+        "flag": "flags/countries/Israel.png",
+        "map": "maps/countries/Israel.png"
     },
     {
         "name": "Jordan",
         "capital": "Amman",
-        "flag": "flags/countries/Jordan.png"
+        "flag": "flags/countries/Jordan.png",
+        "map": "maps/countries/Jordan.png"
     },
     {
         "name": "Lebanon",
         "capital": "Beirut",
-        "flag": "flags/countries/Lebanon.png"
+        "flag": "flags/countries/Lebanon.png",
+        "map": "maps/countries/Lebanon.png"
     },
     {
         "name": "Palestine",
         "capital": "Ramallah",
-        "flag": "flags/countries/Palestine.png"
+        "flag": "flags/countries/Palestine.png",
+        "map": "maps/countries/Palestine.png"
     },
     {
         "name": "Syria",
         "capital": "Damaskus",
-        "flag": "flags/countries/Syria.png"
+        "flag": "flags/countries/Syria.png",
+        "map": "maps/countries/Syria.png"
     },
     {
         "name": "Cyprus",
         "capital": "Nikosia",
-        "flag": "flags/countries/Cyprus.png"
+        "flag": "flags/countries/Cyprus.png",
+        "map": "maps/countries/Cyprus.png"
     }
 ]

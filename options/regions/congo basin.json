@@ -2,31 +2,37 @@
     {
         "name": "Republic of the Congo",
         "capital": "Brazzaville",
-        "flag": "flags/countries/Republic of the Congo.png"
+        "flag": "flags/countries/Republic of the Congo.png",
+        "map": "maps/countries/Republic of the Congo.png"
     },
     {
         "name": "Democratic Republic of the Congo",
         "capital": "Kinshasa",
-        "flag": "flags/countries/Democratic Republic of the Congo.png"
+        "flag": "flags/countries/Democratic Republic of the Congo.png",
+        "map": "maps/countries/Democratic Republic of the Congo.png"
     },
     {
         "name": "Equatorial Guinea",
         "capital": "Malabo",
-        "flag": "flags/countries/Equatorial Guinea.png"
+        "flag": "flags/countries/Equatorial Guinea.png",
+        "map": "maps/countries/Equatorial Guinea.png"
     },
     {
         "name": "Gabon",
         "capital": "Libreville",
-        "flag": "flags/countries/Gabon.png"
+        "flag": "flags/countries/Gabon.png",
+        "map": "maps/countries/Gabon.png"
     },
     {
         "name": "São Tomé and Príncipe",
         "capital": "São Tomé",
-        "flag": "flags/countries/São Tomé and Príncipe.png"
+        "flag": "flags/countries/São Tomé and Príncipe.png",
+        "map": "maps/countries/São Tomé and Príncipe.png"
     },
     {
         "name": "Angola",
         "capital": "Luanda",
-        "flag": "flags/countries/Angola.png"
+        "flag": "flags/countries/Angola.png",
+        "map": "maps/countries/Angola.png"
     }
 ]

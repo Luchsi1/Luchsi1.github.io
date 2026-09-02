@@ -2,36 +2,43 @@
     {
         "name": "Bahrain",
         "capital": "Manama",
-        "flag": "flags/countries/Bahrain.png"
+        "flag": "flags/countries/Bahrain.png",
+        "map": "maps/countries/Bahrain.png"
     },
     {
         "name": "Kuwait",
         "capital": "Kuwait-Stadt",
-        "flag": "flags/countries/Kuwait.png"
+        "flag": "flags/countries/Kuwait.png",
+        "map": "maps/countries/Kuwait.png"
     },
     {
         "name": "Oman",
         "capital": "Maskat",
-        "flag": "flags/countries/Oman.png"
+        "flag": "flags/countries/Oman.png",
+        "map": "maps/countries/Oman.png"
     },
     {
         "name": "Qatar",
         "capital": "Doha",
-        "flag": "flags/countries/Qatar.png"
+        "flag": "flags/countries/Qatar.png",
+        "map": "maps/countries/Qatar.png"
     },
     {
         "name": "Saudi Arabia",
         "capital": "Riad",
-        "flag": "flags/countries/Saudi Arabia.png"
+        "flag": "flags/countries/Saudi Arabia.png",
+        "map": "maps/countries/Saudi Arabia.png"
     },
     {
         "name": "United Arab Emirates",
         "capital": "Abu Dhabi",
-        "flag": "flags/countries/United Arab Emirates.png"
+        "flag": "flags/countries/United Arab Emirates.png",
+        "map": "maps/countries/United Arab Emirates.png"
     },
     {
         "name": "Yemen",
         "capital": "Sanaa",
-        "flag": "flags/countries/Yemen.png"
+        "flag": "flags/countries/Yemen.png",
+        "map": "maps/countries/Yemen.png"
     }
 ]

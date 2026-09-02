@@ -2,26 +2,31 @@
     {
         "name": "Denmark",
         "capital": "Kopenhagen",
-        "flag": "flags/countries/Denmark.png"
+        "flag": "flags/countries/Denmark.png",
+        "map": "maps/countries/Denmark.png"
     },
     {
         "name": "Finland",
         "capital": "Helsinki",
-        "flag": "flags/countries/Finland.png"
+        "flag": "flags/countries/Finland.png",
+        "map": "maps/countries/Finland.png"
     },
     {
         "name": "Iceland",
         "capital": "Reykjavik",
-        "flag": "flags/countries/Iceland.png"
+        "flag": "flags/countries/Iceland.png",
+        "map": "maps/countries/Iceland.png"
     },
     {
         "name": "Norway",
         "capital": "Oslo",
-        "flag": "flags/countries/Norway.png"
+        "flag": "flags/countries/Norway.png",
+        "map": "maps/countries/Norway.png"
     },
     {
         "name": "Sweden",
         "capital": "Stockholm",
-        "flag": "flags/countries/Sweden.png"
+        "flag": "flags/countries/Sweden.png",
+        "map": "maps/countries/Sweden.png"
     }
 ]

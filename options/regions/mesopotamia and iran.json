@@ -2,16 +2,19 @@
     {
         "name": "Iran",
         "capital": "Teheran",
-        "flag": "flags/countries/Iran.png"
+        "flag": "flags/countries/Iran.png",
+        "map": "maps/countries/Iran.png"
     },
     {
         "name": "Iraq",
         "capital": "Bagdad",
-        "flag": "flags/countries/Iraq.png"
+        "flag": "flags/countries/Iraq.png",
+        "map": "maps/countries/Iraq.png"
     },
     {
         "name": "Türkiye",
         "capital": "Ankara",
-        "flag": "flags/countries/Türkiye.png"
+        "flag": "flags/countries/Türkiye.png",
+        "map": "maps/countries/Türkiye.png"
     }
 ]

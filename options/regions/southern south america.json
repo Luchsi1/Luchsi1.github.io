@@ -2,21 +2,25 @@
     {
         "name": "Argentina",
         "capital": "Buenos Aires",
-        "flag": "flags/countries/Argentina.png"
+        "flag": "flags/countries/Argentina.png",
+        "map": "maps/countries/Argentina.png"
     },
     {
         "name": "Chile",
         "capital": "Santiago",
-        "flag": "flags/countries/Chile.png"
+        "flag": "flags/countries/Chile.png",
+        "map": "maps/countries/Chile.png"
     },
     {
         "name": "Paraguay",
         "capital": "Asunción",
-        "flag": "flags/countries/Paraguay.png"
+        "flag": "flags/countries/Paraguay.png",
+        "map": "maps/countries/Paraguay.png"
     },
     {
         "name": "Uruguay",
         "capital": "Montevideo",
-        "flag": "flags/countries/Uruguay.png"
+        "flag": "flags/countries/Uruguay.png",
+        "map": "maps/countries/Uruguay.png"
     }
 ]

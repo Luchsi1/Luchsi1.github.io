@@ -2,11 +2,13 @@
     {
         "name": "Canada",
         "capital": "Ottawa",
-        "flag": "flags/countries/Canada.png"
+        "flag": "flags/countries/Canada.png",
+        "map": "maps/countries/Canada.png"
     },
     {
         "name": "United States",
         "capital": "Washington, D.C.",
-        "flag": "flags/countries/United States.png"
+        "flag": "flags/countries/United States.png",
+        "map": "maps/countries/United States.png"
     }
 ]

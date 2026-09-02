@@ -2,41 +2,49 @@
     {
         "name": "Belize",
         "capital": "Belmopan",
-        "flag": "flags/countries/Belize.png"
+        "flag": "flags/countries/Belize.png",
+        "map": "maps/countries/Belize.png"
     },
     {
         "name": "Costa Rica",
         "capital": "San José",
-        "flag": "flags/countries/Costa Rica.png"
+        "flag": "flags/countries/Costa Rica.png",
+        "map": "maps/countries/Costa Rica.png"
     },
     {
         "name": "El Salvador",
         "capital": "San Salvador",
-        "flag": "flags/countries/El Salvador.png"
+        "flag": "flags/countries/El Salvador.png",
+        "map": "maps/countries/El Salvador.png"
     },
     {
         "name": "Guatemala",
         "capital": "Guatemala-Stadt",
-        "flag": "flags/countries/Guatemala.png"
+        "flag": "flags/countries/Guatemala.png",
+        "map": "maps/countries/Guatemala.png"
     },
     {
         "name": "Honduras",
         "capital": "Tegucigalpa",
-        "flag": "flags/countries/Honduras.png"
+        "flag": "flags/countries/Honduras.png",
+        "map": "maps/countries/Honduras.png"
     },
     {
         "name": "Mexico",
         "capital": "Mexiko-Stadt",
-        "flag": "flags/countries/Mexico.png"
+        "flag": "flags/countries/Mexico.png",
+        "map": "maps/countries/Mexico.png"
     },
     {
         "name": "Nicaragua",
         "capital": "Managua",
-        "flag": "flags/countries/Nicaragua.png"
+        "flag": "flags/countries/Nicaragua.png",
+        "map": "maps/countries/Nicaragua.png"
     },
     {
         "name": "Panama",
         "capital": "Panama-Stadt",
-        "flag": "flags/countries/Panama.png"
+        "flag": "flags/countries/Panama.png",
+        "map": "maps/countries/Panama.png"
     }
 ]

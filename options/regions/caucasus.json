@@ -2,16 +2,19 @@
     {
         "name": "Armenia",
         "capital": "Jerewan",
-        "flag": "flags/countries/Armenia.png"
+        "flag": "flags/countries/Armenia.png",
+        "map": "maps/countries/Armenia.png"
     },
     {
         "name": "Azerbaijan",
         "capital": "Baku",
-        "flag": "flags/countries/Azerbaijan.png"
+        "flag": "flags/countries/Azerbaijan.png",
+        "map": "maps/countries/Azerbaijan.png"
     },
     {
         "name": "Georgia",
         "capital": "Tiflis",
-        "flag": "flags/countries/Georgia.png"
+        "flag": "flags/countries/Georgia.png",
+        "map": "maps/countries/Georgia.png"
     }
 ]

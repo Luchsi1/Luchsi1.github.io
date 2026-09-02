@@ -2,16 +2,19 @@
     {
         "name": "Malawi",
         "capital": "Lilongwe",
-        "flag": "flags/countries/Malawi.png"
+        "flag": "flags/countries/Malawi.png",
+        "map": "maps/countries/Malawi.png"
     },
     {
         "name": "Mozambique",
         "capital": "Maputo",
-        "flag": "flags/countries/Mozambique.png"
+        "flag": "flags/countries/Mozambique.png",
+        "map": "maps/countries/Mozambique.png"
     },
     {
         "name": "Zimbabwe",
         "capital": "Harare",
-        "flag": "flags/countries/Zimbabwe.png"
+        "flag": "flags/countries/Zimbabwe.png",
+        "map": "maps/countries/Zimbabwe.png"
     }
 ]

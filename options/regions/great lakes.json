@@ -2,31 +2,37 @@
     {
         "name": "Burundi",
         "capital": "Gitega",
-        "flag": "flags/countries/Burundi.png"
+        "flag": "flags/countries/Burundi.png",
+        "map": "maps/countries/Burundi.png"
     },
     {
         "name": "Kenya",
         "capital": "Nairobi",
-        "flag": "flags/countries/Kenya.png"
+        "flag": "flags/countries/Kenya.png",
+        "map": "maps/countries/Kenya.png"
     },
     {
         "name": "Rwanda",
         "capital": "Kigali",
-        "flag": "flags/countries/Rwanda.png"
+        "flag": "flags/countries/Rwanda.png",
+        "map": "maps/countries/Rwanda.png"
     },
     {
         "name": "South Sudan",
         "capital": "Juba",
-        "flag": "flags/countries/South Sudan.png"
+        "flag": "flags/countries/South Sudan.png",
+        "map": "maps/countries/South Sudan.png"
     },
     {
         "name": "Tanzania",
         "capital": "Dodoma",
-        "flag": "flags/countries/Tanzania.png"
+        "flag": "flags/countries/Tanzania.png",
+        "map": "maps/countries/Tanzania.png"
     },
     {
         "name": "Uganda",
         "capital": "Kampala",
-        "flag": "flags/countries/Uganda.png"
+        "flag": "flags/countries/Uganda.png",
+        "map": "maps/countries/Uganda.png"
     }
 ]

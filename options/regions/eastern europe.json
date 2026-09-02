@@ -2,55 +2,65 @@
     {
         "name": "Czech Republic",
         "capital": "Prag",
-        "flag": "flags/countries/Czech Republic.png"
+        "flag": "flags/countries/Czech Republic.png",
+        "map": "maps/countries/Czech Republic.png"
     },
     {
         "name": "Hungary",
         "capital": "Budapest",
-        "flag": "flags/countries/Hungary.png"
+        "flag": "flags/countries/Hungary.png",
+        "map": "maps/countries/Hungary.png"
     },
     {
         "name": "Poland",
         "capital": "Warschau",
-        "flag": "flags/countries/Poland.png"
+        "flag": "flags/countries/Poland.png",
+        "map": "maps/countries/Poland.png"
     },
     {
         "name": "Slovakia",
         "capital": "Bratislava",
-        "flag": "flags/countries/Slovakia.png"
+        "flag": "flags/countries/Slovakia.png",
+        "map": "maps/countries/Slovakia.png"
     },
 
 
     {
         "name": "Bulgaria",
         "capital": "Sofia",
-        "flag": "flags/countries/Bulgaria.png"
+        "flag": "flags/countries/Bulgaria.png",
+        "map": "maps/countries/Bulgaria.png"
     },
     {
         "name": "Moldova",
         "capital": "Chișinău",
-        "flag": "flags/countries/Moldova.png"
+        "flag": "flags/countries/Moldova.png",
+        "map": "maps/countries/Moldova.png"
     },
     {
         "name": "Romania",
         "capital": "Bukarest",
-        "flag": "flags/countries/Romania.png"
+        "flag": "flags/countries/Romania.png",
+        "map": "maps/countries/Romania.png"
     },
     {
         "name": "Ukraine",
         "capital": "Kiew",
-        "flag": "flags/countries/Ukraine.png"
+        "flag": "flags/countries/Ukraine.png",
+        "map": "maps/countries/Ukraine.png"
     },
 
 
     {
         "name": "Belarus",
         "capital": "Minsk",
-        "flag": "flags/countries/Belarus.png"
+        "flag": "flags/countries/Belarus.png",
+        "map": "maps/countries/Belarus.png"
     },
     {
         "name": "Russia",
         "capital": "Moskau",
-        "flag": "flags/countries/Russia.png"
+        "flag": "flags/countries/Russia.png",
+        "map": "maps/countries/Russia.png"
     }
 ]

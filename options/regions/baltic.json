@@ -2,16 +2,19 @@
     {
         "name": "Estonia",
         "capital": "Tallinn",
-        "flag": "flags/countries/Estonia.png"
+        "flag": "flags/countries/Estonia.png",
+        "map": "maps/countries/Estonia.png"
     },
     {
         "name": "Latvia",
         "capital": "Riga",
-        "flag": "flags/countries/Latvia.png"
+        "flag": "flags/countries/Latvia.png",
+        "map": "maps/countries/Latvia.png"
     },
     {
         "name": "Lithuania",
         "capital": "Vilnius",
-        "flag": "flags/countries/Lithuania.png"
+        "flag": "flags/countries/Lithuania.png",
+        "map": "maps/countries/Lithuania.png"
     }
 ]

@@ -2,26 +2,31 @@
     {
         "name": "Cambodia",
         "capital": "Phnom Penh",
-        "flag": "flags/countries/Cambodia.png"
+        "flag": "flags/countries/Cambodia.png",
+        "map": "maps/countries/Cambodia.png"
     },
     {
         "name": "Laos",
         "capital": "Vientiane",
-        "flag": "flags/countries/Laos.png"
+        "flag": "flags/countries/Laos.png",
+        "map": "maps/countries/Laos.png"
     },
     {
         "name": "Myanmar",
         "capital": "Naypyidaw",
-        "flag": "flags/countries/Myanmar.png"
+        "flag": "flags/countries/Myanmar.png",
+        "map": "maps/countries/Myanmar.png"
     },
     {
         "name": "Thailand",
         "capital": "Bangkok",
-        "flag": "flags/countries/Thailand.png"
+        "flag": "flags/countries/Thailand.png",
+        "map": "maps/countries/Thailand.png"
     },
     {
         "name": "Vietnam",
         "capital": "Hanoi",
-        "flag": "flags/countries/Vietnam.png"
+        "flag": "flags/countries/Vietnam.png",
+        "map": "maps/countries/Vietnam.png"
     }
 ]

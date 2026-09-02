@@ -2,32 +2,38 @@
     {
         "name": "Algeria",
         "capital": "Algier",
-        "flag": "flags/countries/Algeria.png"
+        "flag": "flags/countries/Algeria.png",
+        "map": "maps/countries/Algeria.png"
     },
     {
         "name": "Egypt",
         "capital": "Kairo",
-        "flag": "flags/countries/Egypt.png"
+        "flag": "flags/countries/Egypt.png",
+        "map": "maps/countries/Egypt.png"
     },
     {
         "name": "Libya",
         "capital": "Tripoli",
-        "flag": "flags/countries/Libya.png"
+        "flag": "flags/countries/Libya.png",
+        "map": "maps/countries/Libya.png"
     },
     {
         "name": "Morocco",
         "capital": "Rabat",
-        "flag": "flags/countries/Morocco.png"
+        "flag": "flags/countries/Morocco.png",
+        "map": "maps/countries/Morocco.png"
     },
     {
         "name": "Sudan",
         "capital": "Khartum",
-        "flag": "flags/countries/Sudan.png"
+        "flag": "flags/countries/Sudan.png",
+        "map": "maps/countries/Sudan.png"
     },
     {
         "name": "Tunisia",
         "capital": "Tunis",
-        "flag": "flags/countries/Tunisia.png"
+        "flag": "flags/countries/Tunisia.png",
+        "map": "maps/countries/Tunisia.png"
     },
 
 
@@ -35,86 +41,102 @@
     {
         "name": "Cabo Verde",
         "capital": "Praia",
-        "flag": "flags/countries/Cabo Verde.png"
+        "flag": "flags/countries/Cabo Verde.png",
+        "map": "maps/countries/Cabo Verde.png"
     },
     {
         "name": "Gambia",
         "capital": "Banjul",
-        "flag": "flags/countries/Gambia.png"
+        "flag": "flags/countries/Gambia.png",
+        "map": "maps/countries/Gambia.png"
     },
     {
         "name": "Guinea",
         "capital": "Conakry",
-        "flag": "flags/countries/Guinea.png"
+        "flag": "flags/countries/Guinea.png",
+        "map": "maps/countries/Guinea.png"
     },
     {
         "name": "Guinea-Bissau",
         "capital": "Bissau",
-        "flag": "flags/countries/Guinea-Bissau.png"
+        "flag": "flags/countries/Guinea-Bissau.png",
+        "map": "maps/countries/Guinea-Bissau.png"
     },
     {
         "name": "Senegal",
         "capital": "Dakar",
-        "flag": "flags/countries/Senegal.png"
+        "flag": "flags/countries/Senegal.png",
+        "map": "maps/countries/Senegal.png"
     },
     {
         "name": "Sierra Leone",
         "capital": "Freetown",
-        "flag": "flags/countries/Sierra Leone.png"
+        "flag": "flags/countries/Sierra Leone.png",
+        "map": "maps/countries/Sierra Leone.png"
     },
 
 
     {
         "name": "Burkina Faso",
         "capital": "Ouagadougou",
-        "flag": "flags/countries/Burkina Faso.png"
+        "flag": "flags/countries/Burkina Faso.png",
+        "map": "maps/countries/Burkina Faso.png"
     },
     {
         "name": "Mali",
         "capital": "Bamako",
-        "flag": "flags/countries/Mali.png"
+        "flag": "flags/countries/Mali.png",
+        "map": "maps/countries/Mali.png"
     },
     {
         "name": "Mauritania",
         "capital": "Nouakchott",
-        "flag": "flags/countries/Mauritania.png"
+        "flag": "flags/countries/Mauritania.png",
+        "map": "maps/countries/Mauritania.png"
     },
     {
         "name": "Niger",
         "capital": "Niamey",
-        "flag": "flags/countries/Niger.png"
+        "flag": "flags/countries/Niger.png",
+        "map": "maps/countries/Niger.png"
     },
     {
         "name": "Nigeria",
         "capital": "Abuja",
-        "flag": "flags/countries/Nigeria.png"
+        "flag": "flags/countries/Nigeria.png",
+        "map": "maps/countries/Nigeria.png"
     },
 
 
     {
         "name": "Benin",
         "capital": "Porto-Novo",
-        "flag": "flags/countries/Benin.png"
+        "flag": "flags/countries/Benin.png",
+        "map": "maps/countries/Benin.png"
     },
     {
         "name": "Côte d'Ivoire",
         "capital": "Yamoussoukro",
-        "flag": "flags/countries/Côte d'Ivoire.png"
+        "flag": "flags/countries/Côte d'Ivoire.png",
+        "map": "maps/countries/Côte d'Ivoire.png"
     },
     {
         "name": "Ghana",
         "capital": "Accra",
-        "flag": "flags/countries/Ghana.png"
+        "flag": "flags/countries/Ghana.png",
+        "map": "maps/countries/Ghana.png"
     },
     {
         "name": "Liberia",
         "capital": "Monrovia",
-        "flag": "flags/countries/Liberia.png"
+        "flag": "flags/countries/Liberia.png",
+        "map": "maps/countries/Liberia.png"
     },
     {
         "name": "Togo",
         "capital": "Lomé",
-        "flag": "flags/countries/Togo.png"
+        "flag": "flags/countries/Togo.png",
+        "map": "maps/countries/Togo.png"
     },
 
 
@@ -122,49 +144,58 @@
     {
         "name": "Cameroon",
         "capital": "Yaoundé",
-        "flag": "flags/countries/Cameroon.png"
+        "flag": "flags/countries/Cameroon.png",
+        "map": "maps/countries/Cameroon.png"
     },
     {
         "name": "Central African Republic",
         "capital": "Bangui",
-        "flag": "flags/countries/Central African Republic.png"
+        "flag": "flags/countries/Central African Republic.png",
+        "map": "maps/countries/Central African Republic.png"
     },
     {
         "name": "Chad",
         "capital": "N'Djamena",
-        "flag": "flags/countries/Chad.png"
+        "flag": "flags/countries/Chad.png",
+        "map": "maps/countries/Chad.png"
     },
 
 
     {
         "name": "Republic of the Congo",
         "capital": "Brazzaville",
-        "flag": "flags/countries/Republic of the Congo.png"
+        "flag": "flags/countries/Republic of the Congo.png",
+        "map": "maps/countries/Republic of the Congo.png"
     },
     {
         "name": "Democratic Republic of the Congo",
         "capital": "Kinshasa",
-        "flag": "flags/countries/Democratic Republic of the Congo.png"
+        "flag": "flags/countries/Democratic Republic of the Congo.png",
+        "map": "maps/countries/Democratic Republic of the Congo.png"
     },
     {
         "name": "Equatorial Guinea",
         "capital": "Malabo",
-        "flag": "flags/countries/Equatorial Guinea.png"
+        "flag": "flags/countries/Equatorial Guinea.png",
+        "map": "maps/countries/Equatorial Guinea.png"
     },
     {
         "name": "Gabon",
         "capital": "Libreville",
-        "flag": "flags/countries/Gabon.png"
+        "flag": "flags/countries/Gabon.png",
+        "map": "maps/countries/Gabon.png"
     },
     {
         "name": "São Tomé and Príncipe",
         "capital": "São Tomé",
-        "flag": "flags/countries/São Tomé and Príncipe.png"
+        "flag": "flags/countries/São Tomé and Príncipe.png",
+        "map": "maps/countries/São Tomé and Príncipe.png"
     },
     {
         "name": "Angola",
         "capital": "Luanda",
-        "flag": "flags/countries/Angola.png"
+        "flag": "flags/countries/Angola.png",
+        "map": "maps/countries/Angola.png"
     },
 
 
@@ -172,93 +203,110 @@
     {
         "name": "Djibouti",
         "capital": "Dschibuti",
-        "flag": "flags/countries/Djibouti.png"
+        "flag": "flags/countries/Djibouti.png",
+        "map": "maps/countries/Djibouti.png"
     },
     {
         "name": "Eritrea",
         "capital": "Asmara",
-        "flag": "flags/countries/Eritrea.png"
+        "flag": "flags/countries/Eritrea.png",
+        "map": "maps/countries/Eritrea.png"
     },
     {
         "name": "Ethiopia",
         "capital": "Addis Abeba",
-        "flag": "flags/countries/Ethiopia.png"
+        "flag": "flags/countries/Ethiopia.png",
+        "map": "maps/countries/Ethiopia.png"
     },
     {
         "name": "Somalia",
         "capital": "Mogadischu",
-        "flag": "flags/countries/Somalia.png"
+        "flag": "flags/countries/Somalia.png",
+        "map": "maps/countries/Somalia.png"
     },
 
 
     {
         "name": "Burundi",
         "capital": "Gitega",
-        "flag": "flags/countries/Burundi.png"
+        "flag": "flags/countries/Burundi.png",
+        "map": "maps/countries/Burundi.png"
     },
     {
         "name": "Kenya",
         "capital": "Nairobi",
-        "flag": "flags/countries/Kenya.png"
+        "flag": "flags/countries/Kenya.png",
+        "map": "maps/countries/Kenya.png"
     },
     {
         "name": "Rwanda",
         "capital": "Kigali",
-        "flag": "flags/countries/Rwanda.png"
+        "flag": "flags/countries/Rwanda.png",
+        "map": "maps/countries/Rwanda.png"
     },
     {
         "name": "South Sudan",
         "capital": "Juba",
-        "flag": "flags/countries/South Sudan.png"
+        "flag": "flags/countries/South Sudan.png",
+        "map": "maps/countries/South Sudan.png"
     },
     {
         "name": "Tanzania",
         "capital": "Dodoma",
-        "flag": "flags/countries/Tanzania.png"
+        "flag": "flags/countries/Tanzania.png",
+        "map": "maps/countries/Tanzania.png"
     },
     {
         "name": "Uganda",
         "capital": "Kampala",
-        "flag": "flags/countries/Uganda.png"
+        "flag": "flags/countries/Uganda.png",
+        "map": "maps/countries/Uganda.png"
     },
 
 
     {
         "name": "Malawi",
         "capital": "Lilongwe",
-        "flag": "flags/countries/Malawi.png"
+        "flag": "flags/countries/Malawi.png",
+        "map": "maps/countries/Malawi.png"
     },
     {
         "name": "Mozambique",
         "capital": "Maputo",
-        "flag": "flags/countries/Mozambique.png"
+        "flag": "flags/countries/Mozambique.png",
+        "map": "maps/countries/Mozambique.png"
     },
     {
         "name": "Zimbabwe",
         "capital": "Harare",
-        "flag": "flags/countries/Zimbabwe.png"
+        "flag": "flags/countries/Zimbabwe.png",
+        "map": "maps/countries/Zimbabwe.png"
     },
 
     
     {
-        "name": "Comores",
+        "name": "Comoros",
         "capital": "Moroni",
-        "flag": "flags/countries/Comores.png"
+        "flag": "flags/countries/Comoros.png",
+        "map": "maps/countries/Comoros.png"
     },
     {
         "name": "Madagascar",
         "capital": "Antananarivo",
-        "flag": "flags/countries/Madagascar.png"
+        "flag": "flags/countries/Madagascar.png",
+        "map": "maps/countries/Madagascar.png"
     },
     {
         "name": "Mauritius",
         "capital": "Port Louis",
-        "flag": "flags/countries/Mauritius.png"
+        "flag": "flags/countries/Mauritius.png",
+        "map": "maps/countries/Mauritius.png"
     },
     {
         "name": "Seychelles",
         "capital": "Victoria",
-        "flag": "flags/countries/Seychelles.png"
+        "flag": "flags/countries/Seychelles.png",
+        "map": "maps/countries/Seychelles.png"
     },
 
 
@@ -266,31 +314,37 @@
     {
         "name": "Botswana",
         "capital": "Gaborone",
-        "flag": "flags/countries/Botswana.png"
+        "flag": "flags/countries/Botswana.png",
+        "map": "maps/countries/Botswana.png"
     },
     {
         "name": "Eswatini",
         "capital": "Mbabane",
-        "flag": "flags/countries/Eswatini.png"
+        "flag": "flags/countries/Eswatini.png",
+        "map": "maps/countries/Eswatini.png"
     },
     {
         "name": "Lesotho",
         "capital": "Maseru",
-        "flag": "flags/countries/Lesotho.png"
+        "flag": "flags/countries/Lesotho.png",
+        "map": "maps/countries/Lesotho.png"
     },
     {
         "name": "Namibia",
         "capital": "Windhoek",
-        "flag": "flags/countries/Namibia.png"
+        "flag": "flags/countries/Namibia.png",
+        "map": "maps/countries/Namibia.png"
     },
     {
         "name": "South Africa",
         "capital": "Pretoria",
-        "flag": "flags/countries/South Africa.png"
+        "flag": "flags/countries/South Africa.png",
+        "map": "maps/countries/South Africa.png"
     },
     {
         "name": "Zambia",
         "capital": "Lusaka",
-        "flag": "flags/countries/Zambia.png"
+        "flag": "flags/countries/Zambia.png",
+        "map": "maps/countries/Zambia.png"
     }
 ]

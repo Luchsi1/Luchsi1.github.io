@@ -2,41 +2,49 @@
     {
         "name": "Afghanistan",
         "capital": "Kabul",
-        "flag": "flags/countries/Afghanistan.png"
+        "flag": "flags/countries/Afghanistan.png",
+        "map": "maps/countries/Afghanistan.png"
     },
     {
         "name": "Bangladesh",
         "capital": "Dhaka",
-        "flag": "flags/countries/Bangladesh.png"
+        "flag": "flags/countries/Bangladesh.png",
+        "map": "maps/countries/Bangladesh.png"
     },
     {
         "name": "Bhutan",
         "capital": "Thimphu",
-        "flag": "flags/countries/Bhutan.png"
+        "flag": "flags/countries/Bhutan.png",
+        "map": "maps/countries/Bhutan.png"
     },
     {
         "name": "India",
         "capital": "Neu-Delhi",
-        "flag": "flags/countries/India.png"
+        "flag": "flags/countries/India.png",
+        "map": "maps/countries/India.png"
     },
     {
         "name": "Maldives",
         "capital": "Malé",
-        "flag": "flags/countries/Maldives.png"
+        "flag": "flags/countries/Maldives.png",
+        "map": "maps/countries/Maldives.png"
     },
     {
         "name": "Nepal",
         "capital": "Kathmandu",
-        "flag": "flags/countries/Nepal.png"
+        "flag": "flags/countries/Nepal.png",
+        "map": "maps/countries/Nepal.png"
     },
     {
         "name": "Pakistan",
         "capital": "Islamabad",
-        "flag": "flags/countries/Pakistan.png"
+        "flag": "flags/countries/Pakistan.png",
+        "map": "maps/countries/Pakistan.png"
     },
     {
         "name": "Sri Lanka",
         "capital": "Sri Jayewardenepura Kotte",
-        "flag": "flags/countries/Sri Lanka.png"
+        "flag": "flags/countries/Sri Lanka.png",
+        "map": "maps/countries/Sri Lanka.png"
     }
 ]

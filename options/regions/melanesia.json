@@ -2,21 +2,25 @@
     {
         "name": "Fiji",
         "capital": "Suva",
-        "flag": "flags/countries/Fiji.png"
+        "flag": "flags/countries/Fiji.png",
+        "map": "maps/countries/Fiji.png"
     },
     {
         "name": "Papua New Guinea",
         "capital": "Port Moresby",
-        "flag": "flags/countries/Papua New Guinea.png"
+        "flag": "flags/countries/Papua New Guinea.png",
+        "map": "maps/countries/Papua New Guinea.png"
     },
     {
         "name": "Solomon Islands",
         "capital": "Honiara",
-        "flag": "flags/countries/Solomon Islands.png"
+        "flag": "flags/countries/Solomon Islands.png",
+        "map": "maps/countries/Solomon Islands.png"
     },
     {
         "name": "Vanuatu",
         "capital": "Port Vila",
-        "flag": "flags/countries/Vanuatu.png"
+        "flag": "flags/countries/Vanuatu.png",
+        "map": "maps/countries/Vanuatu.png"
     }
 ]
